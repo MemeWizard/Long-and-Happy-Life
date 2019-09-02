@@ -7,10 +7,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = SOV
-		victory_points = {
-			79 1
-		}
+		owner = LEN
 		buildings = {
 			infrastructure = 7
 			arms_factory = 6
@@ -18,7 +15,7 @@ state={
 			dockyard = 3
 			air_base = 10
 		}
-		add_core_of = SOV
+		add_core_of = LEN
 	}
 
 	provinces={

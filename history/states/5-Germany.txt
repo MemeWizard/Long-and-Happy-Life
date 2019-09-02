@@ -6,19 +6,19 @@ state={
 	state_category = town
 
 	history={
-		owner = POL
-		add_core_of = POL
-
 		victory_points = {
 			6375 3
 		}
 		#victory_points = {
 		#	11386 1
 		#}
+		owner = GER
+		controller = GER
 		
 		buildings = {
 			infrastructure = 6
 		}
+		add_core_of = GER
 	}
 
 	provinces={

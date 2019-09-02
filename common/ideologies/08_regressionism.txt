@@ -7,7 +7,9 @@ ideologies = {
 			anprim = {
 			}	
 			odalism = {
-			}		
+			}
+			integral_traditionalism = {
+			}	
 		}
 		
 		dynamic_faction_names = {

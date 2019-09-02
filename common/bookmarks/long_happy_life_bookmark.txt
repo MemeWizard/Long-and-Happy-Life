@@ -2,7 +2,7 @@ bookmarks = {
 	bookmark = {
 		name = "LHLBOOKMARK_NAME"
 		desc = "LHLBOOKMARK_DESC"
-		date = 2019.8.22.14
+		date = 2019.8.29.12
 		picture = "GFX_select_date_1939"
 		default_country = "JAP"
 	

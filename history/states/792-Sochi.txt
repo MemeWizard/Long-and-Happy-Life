@@ -11,6 +11,12 @@ state={
 		}
 		owner = RGD
 		add_core_of = RGD
+		victory_points = {
+			3720 5 
+		}
+		victory_points = {
+			719 3
+		}
 	}
 
 	provinces={

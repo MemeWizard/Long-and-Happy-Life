@@ -3,17 +3,18 @@ state={
 	name="STATE_95"
 
 	history={
-		owner = UST
-		add_core_of = UST
-
 		victory_points = {
 			9304 1
 		}
+		owner = POL
 		buildings = {
 			infrastructure = 5
 			air_base = 3
 
 		}
+		add_core_of = POL
+		add_core_of = BLR
+
 	}
 
 	provinces={

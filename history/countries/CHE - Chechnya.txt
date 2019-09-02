@@ -2,14 +2,6 @@ capital = 789
 
 oob = "CHE_1936"
 
-if = {
-	limit= { has_dlc = "Man the Guns" }
-		set_naval_oob = "SCO_1936_naval_mtg"
-	else = {
-		set_naval_oob = "SCO_1936_naval_legacy"
-	}
-}
-
 set_research_slots = 3
 
 set_stability = 0.7
@@ -36,33 +28,22 @@ set_technology = {
 	naval_bomber1 = 1
 }
 
-if = {
-	limit = { not = { has_dlc = "Man the Guns" } }
-	set_technology = {
-		early_submarine = 1
-		early_destroyer = 1
-	}
-	set_naval_oob = "CHE_1936_naval_legacy"
-}
-if = {
-	limit = { has_dlc = "Man the Guns" }
-	set_technology = {
-		basic_naval_mines = 1
-		submarine_mine_laying = 1
-		early_ship_hull_light = 1
-		early_ship_hull_submarine = 1
-		basic_ship_hull_submarine = 1
-		basic_battery = 1
-		basic_torpedo = 1
-		basic_depth_charges = 1
-	}
-	set_naval_oob = "CHE_1936_naval_mtg"
-}
-
 set_politics = {
-	ruling_party = hegemonism
+	ruling_party = natpop
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
+set_popularities = {
+	natpop = 100
+}
 
+create_country_leader = {
+	name = "Ramzan Kadyrov"
+	desc = "POLITICS_RAMZAN_DESC"
+	picture = "Portrait_CHE_RAMZAN.dds"
+	expire = "1953.3.1"
+	ideology = right_populism 
+	traits = {
+	}
+}

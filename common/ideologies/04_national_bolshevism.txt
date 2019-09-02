@@ -8,6 +8,8 @@ ideologies = {
 			}
 			nazbol_gang = {
 			}
+			accelerationist_nazbol = {
+			}
 		}
 		
 		dynamic_faction_names = {

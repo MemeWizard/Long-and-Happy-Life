@@ -1,6 +1,6 @@
-﻿capital = 537 
+﻿capital = 206
 
-oob = "SAH_2019"
+oob = "UST_2019"
 
 # Starting tech
 set_technology = {
@@ -8,24 +8,22 @@ set_technology = {
 	mass_assault = 1
 }
 
-set_convoys = 5
-
 set_politics = {
-	ruling_party = national_bolshevism
+	ruling_party = left_authoritarianism 
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	national_bolshevism = 100
+	left_authoritarianism = 100
 }
 
 create_country_leader = {
-	name = "Viktor Tsoj"
+	name = "Aleksandr Lukashenko"
 	desc = ""
-	picture = "Portrait_Viktor_Tsoj.dds"
+	picture = "Portrait_Aleksandr_Lukashenko.dds"
 	expire = "1965.1.1"
-	ideology = nazbol_gang
+	ideology = paternalism 
 	traits = {
 		#
 	}

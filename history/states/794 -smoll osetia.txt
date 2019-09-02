@@ -1,0 +1,19 @@
+
+state={
+	id=794
+	name="STATE_794" # Osetia
+	manpower = 53532
+	
+	state_category = rural
+
+	history={
+		victory_points = {
+		}
+		owner = RGD
+		add_core_of = RGD
+	}
+
+	provinces={
+			1530
+	}
+}

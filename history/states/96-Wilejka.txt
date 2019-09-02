@@ -6,15 +6,15 @@ state={
 	state_category = rural
 	
 	history={
-		owner = UST
-		add_core_of = UST
-
 		victory_points = {
 			406 1
 		}
+		owner = POL
 		buildings = {
 			infrastructure = 4
 		}
+		add_core_of = POL
+		add_core_of = BLR
 	}
 
 	provinces={

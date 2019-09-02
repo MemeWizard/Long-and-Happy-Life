@@ -9,6 +9,9 @@ ideologies = {
 
 			essence_of_time = {
 			}
+
+			revolution_of_the_prophets = {
+			}
 		}
 		
 		dynamic_faction_names = {
