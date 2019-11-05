@@ -5,26 +5,23 @@ oob = "PER_2020"
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
-	infantry_weapons1 = 1
 }
 
 set_convoys = 10
 set_politics = {
-	ruling_party = hegemonism
+	ruling_party = national_bolshevism
 	elections_allowed = no
 }
-
 set_popularities = {
-	hegemonism = 100
+	national_bolshevism = 100
 }
 
 create_country_leader = {
-	name = "Nikolay Aleksandrovich Skvortsov"
-	desc = ""
-	picture = "Portrait_KAZ_Nikolay_Skvortsov.dds"
-	expire = "1953.3.1"
-	ideology = republican_dictatorship
+	name = "Ali Khamenei"
+	desc = "POLITICS_KHAMENI_DESC"
+	picture = "Portrait_ali_khamenei.dds"
+	ideology = nazbol_gang
 	traits = {
-		
+		#
 	}
 }

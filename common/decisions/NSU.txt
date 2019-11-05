@@ -1,0 +1,19 @@
+NSU_foreign_decisions = {
+
+	NSU_invade_FIN = {
+
+		fire_only_once = yes
+		icon = infiltrate_state
+
+		
+		visible = { }
+		allowed = { }
+
+		cost = 50
+		days_remove = 30
+
+		complete_effect = { }
+
+        ai_will_do = {  }
+    }
+}

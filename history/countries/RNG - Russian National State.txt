@@ -1,0 +1,33 @@
+﻿capital = 571
+
+oob = "RNG_2020"
+
+set_research_slots = 3
+
+set_stability = 0.7
+
+set_war_support = 0.5
+
+set_technology = {
+ 	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = right_populism
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	right_populism = 100
+}
+
+create_country_leader = {
+	name = "Boris Jel'tsin"
+	desc = "POLITICS_Boris_DESC"
+	picture = "Portrait_RNG_ELCYN.dds"
+	ideology = national_populism
+	traits = { icehaired }
+}
+

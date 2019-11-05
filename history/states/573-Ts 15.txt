@@ -10,18 +10,16 @@ state={
 	}
 
 	history={
-		victory_points = {
-			10329 1
-		}
-		owner = SOV
+		owner = GAZ
+		add_core_of = GAZ
+
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = SOV
 	}
 
 	provinces={
-		237 278 361 3280 4758 7320 10136 10142 10329 11223 11307 12117 
+		237 278 361 3280 4758 7320 10136 11307  
 	}
 }

@@ -36,7 +36,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_socengineering
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_socengineering
 		cost = 10
 		x = 25
 		y = 0
@@ -402,7 +402,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_tomorrowssociety
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_tomorrowssociety
 		cost = 10
 		prerequisite = {
 			focus = NSU_socengineering
@@ -412,7 +412,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_engineeredpoverty
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_engineeredpoverty
 		cost = 10
 		prerequisite = {
 			focus = NSU_tomorrowssociety
@@ -422,7 +422,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_permanentfamine
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_permanentfamine
 		cost = 10
 		prerequisite = {
 			focus = NSU_tomorrowssociety
@@ -432,7 +432,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_cultofprogress
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_cultofprogress
 		cost = 10
 		prerequisite = {
 			focus = NSU_tomorrowssociety
@@ -718,7 +718,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_departmentp
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_departmentp
 		cost = 10
 		prerequisite = {
 			focus = NSU_redarmy
@@ -728,7 +728,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_tanks
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_tanks
 		cost = 10
 		prerequisite = {
 			focus = NSU_departmentp
@@ -738,7 +738,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_exoskeletons
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_exoskeletons
 		cost = 10
 		prerequisite = {
 			focus = NSU_tanks
@@ -748,7 +748,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_parascienceresearch
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_parascienceresearch
 		cost = 10
 		prerequisite = {
 			focus = NSU_departmentp
@@ -758,7 +758,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_psychokinesis
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_psychokinesis
 		cost = 10
 		prerequisite = {
 			focus = NSU_parascienceresearch
@@ -768,7 +768,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_chemicalstimulants
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_chemicalstimulants
 		cost = 10
 		prerequisite = {
 			focus = NSU_departmentp
@@ -778,7 +778,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_battletrance
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_battletrance
 		cost = 10
 		prerequisite = {
 			focus = NSU_chemicalstimulants
@@ -788,7 +788,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_stalin3000
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_stalin3000
 		cost = 10
 		prerequisite = {
 			focus = NSU_exoskeletons
@@ -1080,7 +1080,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_nearabroad
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_nearabroad
 		cost = 10
 		prerequisite = {
 			focus = NSU_phoenix

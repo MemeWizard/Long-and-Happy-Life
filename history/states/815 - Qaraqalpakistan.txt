@@ -1,0 +1,21 @@
+state={
+	id=815
+	name="STATE_815"
+
+	manpower = 393700
+
+	state_category = rural
+
+	history={
+		owner = KAZ
+		add_core_of = KAZ
+
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+		}
+	}
+
+	provinces={ 12474 13207 10348 12233 7541 12454 10395 10435 12324 1614 1479 12471 4488 4618 1576 12465 }
+
+}

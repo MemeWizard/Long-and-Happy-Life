@@ -1,0 +1,7 @@
+NSU_foreign_decisions = {
+
+	icon = generic_decision
+
+	visible = { is_puppet = no }
+	allowed = { original_tag = NSU }
+}

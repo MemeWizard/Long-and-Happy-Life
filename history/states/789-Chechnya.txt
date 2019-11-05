@@ -9,8 +9,8 @@ state={
 		victory_points = {
 			3672 30
 		}
-		owner = CHE
-		add_core_of = CHE
+		owner = RGD
+		add_core_of = RGD
 	}
 
 	provinces={

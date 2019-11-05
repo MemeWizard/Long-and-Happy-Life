@@ -17,21 +17,18 @@ set_technology = {
 set_convoys = 5
 
 set_politics = {
-	ruling_party = right_populism
-	last_election = "1933.7.1"
-	election_frequency = 36
+	ruling_party = regressionism
 	elections_allowed = yes
 }
 set_popularities = {
-	right_populism = 100
+	regressionism = 100
 }
 
 create_country_leader = {
-	name = "PERKELE"
-	desc = "POLITICS_RISTO_HEIKKI_RYT_DESC"
-	picture = "Portrait_Finland_Risto_Heikki_Ryti.dds"
-	expire = "1965.1.1"
-	ideology = national_populism
+	name = "Pentti Linkola"
+	desc = "POLITICS_Pentti_Linkola_DESC"
+	picture = "Portrait_Finland_Pentti_Linkola.dds"
+	ideology = ecofascism
 	traits = {
 		#
 	}

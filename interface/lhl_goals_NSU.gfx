@@ -183,4 +183,60 @@ spriteTypes = {
 		name = "GFX_NSU_economicoptimization"
 		texturefile = "gfx/interface/goals/NSU/goal_NSU_economicoptimization.dds"
 	}
+	SpriteType = {
+		name = "GFX_NSU_departmentp"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_departmentp.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_tanks"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_tanks.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_exoskeletons"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_exoskeletons.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_parascienceresearch"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_parascienceresearch.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_psychokinesis"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_psychokinesis.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_chemicalstimulants"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_chemicalstimulants.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_battletrance"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_battletrance.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_stalin3000"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_stalin3000.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_nearabroad"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_nearabroad.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_tomorrowssociety"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_tomorrowssociety.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_socengineering"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_socengineering.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_permanentfamine"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_permanentfamine.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_cultofprogress"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_cultofprogress.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_engineeredpoverty"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_engineeredpoverty.dds"
+	}
 }

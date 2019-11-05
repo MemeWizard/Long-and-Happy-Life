@@ -1,6 +1,6 @@
 ﻿capital = 789
 
-oob = "HUN_2019"
+oob = "ROM_2020"
 
 set_research_slots = 3
 
@@ -9,13 +9,13 @@ set_stability = 0.7
 set_war_support = 0.5
 
 set_technology = {
- 	infantry_weapons = 1
-	infantry_weapons1 = 1	
+	infantry_weapons = 1
+	infantry_weapons1 = 1
 }
 
 set_politics = {
 	ruling_party = ur_fascism
-	last_election = "1932.11.8"
+	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no
 }
@@ -24,11 +24,10 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Vadim Krasnosel'skij"
-	desc = "POLITICS_KRASNOSELSKIJ_DESC"
-	picture = "Portrait_NRS_KRASNOSELSKIJ.dds"
-	expire = "1953.3.1"
-	ideology = clerical_fascism 
+	name = "George Becali"
+	desc = "POLITICS_BECALI_DESC"
+	picture = "Portrait_Romania_George_Becali.dds"
+	ideology = clerical_fascism
 	traits = {
 	}
 }

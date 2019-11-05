@@ -7,20 +7,19 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = RNG
+		add_core_of = RNG
+
+		victory_points = { 10256 3 }
+		victory_points = { 10329 1 }
+
 		buildings = {
 			infrastructure = 5
-
-		}
-		add_core_of = SOV
-		victory_points = {
-			10256 3
 		}
 	}
 
-	provinces={
-		1334 4265 4311 4383 4411 7300 7328 7373 7401 10185 10256 12200 
-	}
+	provinces={ 1334 4265 7328 7401 10185 10256 10329 11223 4411 }
+
 	manpower=1044991
 	buildings_max_level_factor=1.000
 	state_category=rural

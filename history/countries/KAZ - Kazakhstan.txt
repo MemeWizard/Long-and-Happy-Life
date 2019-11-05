@@ -1,6 +1,6 @@
 ﻿capital = 586 #Almaty
 
-oob = "KAZ_2019"
+oob = "KAZ_2020"
 
 set_research_slots = 3
 
@@ -20,10 +20,8 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Nikolay Aleksandrovich Skvortsov"
-	desc = ""
-	picture = "Portrait_KAZ_Nikolay_Skvortsov.dds"
-	expire = "1953.3.1"
+	name = "Nursultan Nazarbajev"
+	picture = "Portrait_KAZ_Nazarbajev.dds"
 	ideology = republican_dictatorship
 	traits = {
 		

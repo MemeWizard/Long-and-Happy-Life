@@ -1,0 +1,14 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_DUG_angelic_being"
+		texturefile = "gfx/interface/goals/DUG/goal_DUG_angelic_being.dds"
+	}
+	SpriteType = {
+		name = "GFX_DUG_exaltation_of_women"
+		texturefile = "gfx/interface/goals/DUG/goal_DUG_exaltation_of_women.dds"
+	}
+	SpriteType = {
+		name = "GFX_DUG_courts_of_love"
+		texturefile = "gfx/interface/goals/DUG/goal_DUG_courts_of_love.dds"
+	}
+}

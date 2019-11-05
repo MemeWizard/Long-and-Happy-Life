@@ -1,0 +1,20 @@
+state={
+	id=811
+	name="STATE_811"
+
+	manpower= 393700
+
+	state_category = rural
+
+	history={
+		owner = ARM
+		add_core_of = ARM
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+		}
+	}
+
+	provinces={ 9715 1467 }
+
+}

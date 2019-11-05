@@ -1,0 +1,23 @@
+state={
+	id=809
+	name="STATE_809"
+
+	manpower = 393700
+
+	state_category = rural
+
+	history = {
+		owner = SRS
+		add_core_of = SRS
+
+		victory_points = { 11610 5 }
+
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+		}
+	}
+
+	provinces = { 9643 11610 }
+
+}

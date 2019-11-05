@@ -1,0 +1,7 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_soviet_science"
+		texturefile = "gfx/event_pictures/soviet_science.dds"
+	}
+}
