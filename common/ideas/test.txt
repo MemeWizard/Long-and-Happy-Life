@@ -1,6 +1,6 @@
 ideas = {
 	
-	gym_boss = {
+	head_of_government = {
 
 		jevgenij_ponasenkov = {
 

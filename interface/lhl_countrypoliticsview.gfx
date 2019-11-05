@@ -1,5 +1,10 @@
 spriteTypes = {
-	
+
+	spriteType = {
+		name = "GFX_idea_slot_head_of_government"
+		textureFile = "gfx/interface/idea_slot_head_of_government.dds"
+	}
+
 	spriteType = {
 		name = "GFX_ideology_right_populism_group"
 		texturefile = "gfx/interface/ideologies/right_populism_group.dds"
