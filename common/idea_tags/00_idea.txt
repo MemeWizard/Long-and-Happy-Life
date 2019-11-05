@@ -14,19 +14,11 @@ idea_categories = {
 		removal_cost = -1
 	}
 
-	# LhL
-	govhead = {
-		slot = gym_boss
-
-		cost = 0
-		removal_cost = 0
-	}
-
 	government = {
 		slot = mobilization_laws
 		slot = trade_laws
 		slot = economy
-		slot = political_advisor
+		slot = gym_boss
 		slot = political_advisor
 		slot = political_advisor
 		
