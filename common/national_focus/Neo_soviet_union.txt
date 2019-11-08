@@ -551,7 +551,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_absorbingeconomy
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_absorbingeconomy
 		cost = 10
 		prerequisite = {
 			focus = NSU_foreignconcessions
@@ -562,7 +562,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_subsoilsale
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_subsoilsale
 		cost = 10
 		prerequisite = {
 			focus = NSU_absorbingeconomy
@@ -572,7 +572,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_regionalgovernors
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_regionalgovernors
 		cost = 10
 		prerequisite = {
 			focus = NSU_subsoilsale
@@ -582,7 +582,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_deurbanization
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_deurbanization
 		cost = 10
 		prerequisite = {
 			focus = NSU_collectiveownership
@@ -592,7 +592,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_internalpassports
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_internalpassports
 		cost = 10
 		prerequisite = {
 			focus = NSU_deurbanization
@@ -602,7 +602,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_enserf 
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_enserf
 		cost = 10
 		prerequisite = {
 			focus = NSU_internalpassports
@@ -612,7 +612,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_newserfdom
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_newserfdom
 		cost = 10
 		prerequisite = {
 			focus = NSU_regionalgovernors
@@ -628,7 +628,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_givelandforservice
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_givelandforservice
 		cost = 10
 		prerequisite = {
 			focus = NSU_collectiveownership
@@ -638,7 +638,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_hereditaryposts
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_hereditaryposts
 		cost = 10
 		prerequisite = {
 			focus = NSU_givelandforservice
@@ -648,7 +648,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_templarsofthesovietera
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_templarsofthesovietera
 		cost = 10
 		prerequisite = {
 			focus = NSU_hereditaryposts

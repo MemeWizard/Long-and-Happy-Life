@@ -2,6 +2,25 @@ ideas = {
 
 	head_of_government = {
 
+		jurij_rybnikov = {
+
+			picture = rybnikov
+			allowed = {
+				original_tag = "COU"
+			}
+
+			traits = { keeper_of_the_lore }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+	
 		jevgenij_ponasenkov = {
 
 			picture = jevgenij_ponasenkov

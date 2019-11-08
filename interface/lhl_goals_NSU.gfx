@@ -239,4 +239,44 @@ spriteTypes = {
 		name = "GFX_NSU_engineeredpoverty"
 		texturefile = "gfx/interface/goals/NSU/goal_NSU_engineeredpoverty.dds"
 	}
+	SpriteType = {
+		name = "GFX_NSU_templarsofthesovietera"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_templarsofthesovietera.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_absorbingeconomy"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_absorbingeconomy.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_subsoilsale"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_subsoilsale.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_regionalgovernors"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_regionalgovernors.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_deurbanization"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_deurbanization.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_internalpassports"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_internalpassports.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_newserfdom"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_newserfdom.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_enserf"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_enserf.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_givelandforservice"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_givelandforservice.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_hereditaryposts"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_hereditaryposts.dds"
+	}
 }

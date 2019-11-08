@@ -39,6 +39,12 @@ spriteTypes = {
 		name = "GFX_idea_anatolij_mizzengendler"
 		texturefile = "gfx/interface/ideas/idea_anatolij_mizzengendler.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_idea_rybnikov"
+		texturefile = "gfx/interface/ideas/idea_rybnikov.dds"
+	}
+	
 
 	spriteType = {
 		name = "GFX_idea_jevgenij_ponasenkov"
