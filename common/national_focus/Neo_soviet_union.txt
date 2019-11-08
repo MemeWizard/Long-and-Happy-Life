@@ -472,7 +472,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_childlabour
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_childlabour
 		cost = 10
 		prerequisite = {
 			focus = NSU_forcedreindustrialization
@@ -496,7 +496,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_manpower
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_manpower
 		cost = 10
 		prerequisite = {
 			focus = NSU_forcedreindustrialization
@@ -507,7 +507,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_unequaltreaty
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_unequaltreaty
 		cost = 10
 		prerequisite = {
 			focus = NSU_foreignconcessions
@@ -517,7 +517,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_weaponspurchase
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_weaponspurchase
 		cost = 10
 		prerequisite = {
 			focus = NSU_unequaltreaty
@@ -527,7 +527,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_pmc
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_pmc
 		cost = 10
 		prerequisite = {
 			focus = NSU_weaponspurchase
@@ -896,7 +896,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_povertytax
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_povertytax
 		cost = 10
 		prerequisite = {
 			focus = NSU_childlabour
@@ -906,7 +906,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_simplifylaborlaws
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_simplifylaborlaws
 		cost = 10
 		prerequisite = {
 			focus = NSU_povertytax
@@ -916,7 +916,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_sacralisationofindustry
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_sacralisationofindustry
 		cost = 10
 		prerequisite = {
 			focus = NSU_transformationofnature
@@ -932,7 +932,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_environmental
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_environmental
 		cost = 10
 		prerequisite = {
 			focus = NSU_workhouses
@@ -942,7 +942,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_internalcolonialism
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_internalcolonialism
 		cost = 10
 		prerequisite = {
 			focus = NSU_environmental
@@ -958,7 +958,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_transformationofnature
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_transformationofnature
 		cost = 10
 		prerequisite = {
 			focus = NSU_greatconstructionprojects
@@ -968,7 +968,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_greatconstructionprojects
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_greatconstructionprojects
 		cost = 10
 		prerequisite = {
 			focus = NSU_laborbattalions

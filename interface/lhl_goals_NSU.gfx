@@ -279,4 +279,60 @@ spriteTypes = {
 		name = "GFX_NSU_hereditaryposts"
 		texturefile = "gfx/interface/goals/NSU/goal_NSU_hereditaryposts.dds"
 	}
+	SpriteType = {
+		name = "GFX_NSU_laborbattalions"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_laborbattalions.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_povertytax"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_povertytax.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_simplifylaborlaws"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_simplifylaborlaws.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_sacralisationofindustry"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_sacralisationofindustry.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_environmental"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_environmental.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_internalcolonialism"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_internalcolonialism.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_transformationofnature"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_transformationofnature.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_greatconstructionprojects"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_greatconstructionprojects.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_workhouses"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_workhouses.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_manpower"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_manpower.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_childlabour"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_childlabour.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_unequaltreaty"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_unequaltreaty.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_pmc"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_pmc.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_weaponspurchase"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_weaponspurchase.dds"
+	}
 }
