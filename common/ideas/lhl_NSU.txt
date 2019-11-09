@@ -1,5 +1,24 @@
 ideas = {
 
+	country = {
+	
+		extraordinary_commission = {
+			
+			picture = extraordinary_commission
+
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				attrition = -0.1
+				army_speed_factor = 0.05
+			}
+		}
+	}
+
 	head_of_government = {
 
 		dmitrij_pavlush = {

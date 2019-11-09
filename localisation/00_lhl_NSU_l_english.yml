@@ -1,6 +1,22 @@
 ﻿l_english:
  ###Party###
- NSU_commendationism_party:0 "Dead End"
+ NSU_millenarism_party:0 "Neo-Bogomils"
+ NSU_commendationism_party:0 "Group "Dead End""
+ NSU_left_authoritarianism_party_long:0 "Communists of Petersburg and Leningrad Region"
+ NSU_left_authoritarianism_party:0 "CoPaLR"
+ NSU_socialism_party_long:0 "Socialist Workers Party"
+ NSU_socialism_party:0 "SWP"
+ NSU_national_bolshevism_party_long:0 "National Bolshevik Party"
+ NSU_national_bolshevism_party:0 "NBP"
+ NSU_neocameralism_party:0 "Oligarchs"
+ NSU_right_populism_party:0 "Strong Russia"
+ NSU_hegemonism_party:0 "National Guard"
+ NSU_regressionism_party:0 "NBP — Katechon"
+ NSU_regressionism_party_long:0 "National Bolshevik Party — Faction “Katechon“"
+ NSU_ur_fascism_party:0 "Black Hundreds"
+ ###Name###
+ NSU_commendationism:0 "Extraordinary Commission"
+ NSU_commendationism_DEF:0 "Extraordinary Commission"
  ###Focuses###
  NSU_police_coup:0 "Police Coup"
  NSU_police_coup_desc:0 "Police Coup"
@@ -216,7 +232,9 @@
  NSU_invade_FIN:0 "Second Winter War"
  NSU_invade_FIN_desc:0 "Fama Tuba."
  NSU_foreign_decisions:0 "Foreign policy"
- 
+ ###Ideas###
+ extraordinary_commission:0 "Extraordinary Commission"
+ ###Events###
  test.1.t:0 "The Anti-Pseudoscience Commission\nprotests the creation of Department “P”"
  test.1.d:0 "The Progress Department, created on the personal initiative of the leader, worked for only a few days, but has already managed to make several outstanding discoveries! The persistent work of the dedicated scientists and engineers of our socialist homeland breathed new life into the Lamarckism and the Japhetic theory. Unlimited resources, freedom of thoughts and party consciousness will allow motherland’s science to unleash the potential of teachings undeservedly ruined by the philistinism of the bourgeois mind.\n\nNevertheless, despite the obvious goodness of its endeavors, the Progress Department was attacked by the Anti-Pseudoscience Commission, a scientific coordination organization that in the past supplied the Soviet government with information about unconscious or even counter-revolutionary elements in the ranks of the Soviet intellectuals. According to the leader of the Commission, an outstanding biologist and publicist Alexander Panchin, the Department “P” conducts pseudoscientific research in the fields of parapsychology, ufology and cryptozoology, thus betraying the ideals of rationalism and the scientific method.\n\nSuch short-sightedness and limited thinking are unacceptable to a Soviet scientist, and they show him as a chaldean and a charlatan in science, which, however, does not prevent Panchin from making mess in scientific circles through contacts in the Emergency Committee."
  dummy_test_option.1.a:0 "Introduce agents to the Commission, eliminate Panchin, we do not need a new Sakharov!"

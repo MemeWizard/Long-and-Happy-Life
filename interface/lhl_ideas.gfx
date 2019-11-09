@@ -40,10 +40,16 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_rybnikov.dds"
 	}
 	
-
 	spriteType = {
 		name = "GFX_idea_jevgenij_ponasenkov"
 		texturefile = "gfx/interface/ideas/idea_jevgenij_ponasenkov.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_idea_extraordinary_commission"
+		texturefile = "gfx/interface/ideas/idea_extraordinary_commission.dds"
+	}
+	
 }
+
 

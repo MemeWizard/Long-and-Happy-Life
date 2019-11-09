@@ -30,10 +30,13 @@ bookmarks = {
 			history = NSU_LHLBOOKMARK_DESC
 			ideology = commendationism
 			ideas={
-				#
+				russian_civl_war_disaster
+				extraordinary_commission
 			}
 			focuses = {
-				#
+				NSU_police_coup
+				NSU_predel
+				NSU_sacralisationofindustry
 			}
 		}
 		GAZ = {
