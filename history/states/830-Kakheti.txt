@@ -1,0 +1,19 @@
+state={
+	id=830
+	name="STATE_830"
+	manpower = 514681
+	
+	state_category = wasteland
+
+	history={	
+		victory_points = {
+			4605 0
+		}
+		owner = GEO
+		add_core_of = GEO
+	}
+
+	provinces={
+		4605 6436 12309 
+	}
+}

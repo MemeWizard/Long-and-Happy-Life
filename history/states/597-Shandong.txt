@@ -6,11 +6,7 @@ state=
 	state_category = town
 	
 	
-	history=
-	{
-		owner = CHI
-		add_core_of = CHI
-		add_core_of = PRC
+	history={
 		victory_points = {
 			1069 3 
 		}
@@ -23,10 +19,6 @@ state=
 				coastal_bunker = 1
 				bunker = 1
 			}
-		}
-
-		1938.10.25 = {
-			controller = JAP
 		}
 	}
 	provinces={

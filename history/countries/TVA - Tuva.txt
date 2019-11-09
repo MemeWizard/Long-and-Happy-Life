@@ -1,0 +1,28 @@
+﻿capital = 328
+
+oob = "BRT_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+}
+set_convoys = 5
+
+set_politics = {
+	ruling_party = hegemonism
+	elections_allowed = no
+}
+set_popularities = {
+	hegemonism = 100
+}
+
+create_country_leader = {
+	name = "Sergej Shojgu"
+	picture = "Portrait_Sergej_Shojgu.dds"
+	ideology = stratocracy 
+	traits = {
+		warrior_code
+	}
+}
+create_faction = eurasian_armed_forces
+add_to_faction = MON

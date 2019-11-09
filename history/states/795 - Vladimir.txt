@@ -4,7 +4,7 @@ state={
 	provinces={
 		6362 3339 214 6316 11362 9278 9356 378 280 3370 3202 9311 11295 6410 6231
 	}
-	manpower=1000000
+	manpower=1443693
 
 	state_category = city
 	history={

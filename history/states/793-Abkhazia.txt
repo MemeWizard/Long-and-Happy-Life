@@ -9,8 +9,6 @@ state={
 	history={
 		owner = RGD
 		add_core_of = RGD
-
-		victory_points = {  }
 	}
 
 	provinces={

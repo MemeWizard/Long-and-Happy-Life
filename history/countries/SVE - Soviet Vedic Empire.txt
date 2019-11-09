@@ -1,0 +1,33 @@
+﻿capital = 398
+
+oob = "SVE_2020"
+
+set_research_slots = 3
+
+set_stability = 0.7
+
+set_war_support = 0.5
+
+set_technology = {
+ 	infantry_weapons = 1
+}
+
+set_politics = {
+	ruling_party = commendationism
+	elections_allowed = no
+}
+
+set_popularities = {
+	commendationism = 100
+}
+
+create_country_leader = {
+	name = "Gennadij Zyuganov"
+	desc = ""
+	picture = "Portrait_SVE_Gennadij_Zyuganov.dds"
+	ideology = leftwing_monarchy 
+	traits = {
+		
+	}
+}
+

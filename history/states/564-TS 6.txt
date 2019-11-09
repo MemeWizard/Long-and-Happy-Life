@@ -1,26 +1,27 @@
 
 state={
 	id=564
-	name="STATE_564" # Ulan Ude
-	manpower = 370893
-	state_category = rural
+	name="STATE_564"
 	resources={
-		steel=10 # was: 20
-		chromium=12 # was: 34
-		tungsten=10 # was: 28
-		aluminium=4 # was: 8
+		steel=10
+		chromium=12
+		tungsten=10
+		aluminium=4
 	}
 
 	history={
-		owner = BRT
+		owner = GOR
+		add_core_of = GOR
+
 		buildings = {
 			infrastructure = 4
-
 		}
-		add_core_of = BRT
 	}
 
 	provinces={
-		1696 4705 4766 4837 7751 7816 7835 7860 10528 10658 12507 12644 
+		1696 4705 4716 4766 4835 4837 7736 7751 7816 7835 7860 10528 10658 12507 12575 12644 
 	}
+	manpower=370893
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

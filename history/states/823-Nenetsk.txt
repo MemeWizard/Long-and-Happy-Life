@@ -1,0 +1,19 @@
+state={
+	id=823
+	name="STATE_823"
+	manpower = 0
+	
+	state_category = city
+
+	history={	
+		victory_points = {
+			105 3
+		}
+		owner = NRU
+		add_core_of = NRU
+	}
+
+	provinces={
+		105 198 3147 6040 6192 9205 10207 11047 11119 12530 
+	}
+}

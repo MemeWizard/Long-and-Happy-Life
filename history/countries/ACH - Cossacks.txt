@@ -1,4 +1,4 @@
-capital = 792
+﻿capital = 792
 
 oob = "COS_2019"
 

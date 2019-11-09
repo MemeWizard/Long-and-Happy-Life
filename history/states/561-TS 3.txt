@@ -2,17 +2,17 @@
 state={
 	id=561
 	name="STATE_561" # Amur
-	manpower = 793194
+	manpower = 454281
 	
 	state_category = rural
 
 	history={
-		owner = BRT
+		owner = CPU
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 		}
-		add_core_of = BRT
+		add_core_of = CPU
 	}
 
 	provinces={

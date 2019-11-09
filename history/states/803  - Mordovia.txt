@@ -1,0 +1,19 @@
+state={
+	id=803
+	name="STATE_803"
+	provinces={
+		3334 3269 3197 345 324 6391 9286 11309 11262 3371 376 9276 6343 9344
+	}
+	manpower= 834755
+
+	state_category = rural
+	history={
+		owner = RPR
+		add_core_of = RPR
+
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+		}
+	}
+}

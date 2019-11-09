@@ -2,7 +2,7 @@ state={
 	id=810
 	name="STATE_810"
 
-	manpower = 393700
+	manpower = 1752286
 
 	state_category = rural
 

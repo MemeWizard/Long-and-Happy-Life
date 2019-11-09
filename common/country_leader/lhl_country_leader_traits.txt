@@ -229,7 +229,27 @@ leader_traits = {
 			factor = 1
 		}
 	}
+	
+	shaman_king = {
+		random = no
+		political_power_factor = 0.15
+		army_morale_factor = 0.1
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 
+	uncle = {
+		random = no
+		political_power_factor = 0.25
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+		
+	
 	### IDEA TRAITS ###
 
 	first_oprichnik = {

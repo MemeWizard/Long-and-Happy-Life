@@ -1,0 +1,23 @@
+state={
+	id=818
+	name="STATE_818"
+
+	history={
+		owner = YAK
+		buildings = {
+			infrastructure = 1
+			13204 ={
+				naval_base = 1
+			}
+		}
+		add_core_of = YAK
+
+	}
+
+	provinces={
+		1722 1745 2853 2877 3184 4006 4878 6211 12549 12634 13061
+	}
+	manpower=253578
+	buildings_max_level_factor=1
+	state_category="wasteland"
+}

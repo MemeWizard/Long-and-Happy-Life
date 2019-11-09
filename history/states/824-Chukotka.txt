@@ -1,0 +1,19 @@
+state={
+	id=824
+	name="STATE_824"
+	manpower = 0
+	
+	state_category = city
+
+	history={	
+		victory_points = {
+			4744 3
+		}
+		owner = RIS
+		add_core_of = RIS
+	}
+
+	provinces={
+		4744 5264 13062 13063 13204 
+	}
+}
