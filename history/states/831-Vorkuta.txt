@@ -1,0 +1,19 @@
+state={
+	id=831
+	name="STATE_831"
+	manpower = 67891
+	
+	state_category = wasteland
+
+	history={	
+		victory_points = {
+			10677 0
+		}
+		owner = NRU
+		add_core_of = NRU
+	}
+
+	provinces={
+		10677 11098 12393 12502 13076 
+	}
+}

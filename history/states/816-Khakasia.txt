@@ -1,0 +1,23 @@
+state={
+	id=816
+	name="STATE_816"
+	
+	history={
+		owner = UTO
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = UTO
+		victory_points = {
+			7757 1 
+		}
+
+	}
+	provinces={
+		1685 1702 1816 7822 10580 10649 
+	}
+	manpower=536167
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,23 @@
+state={
+	id=819
+	name="STATE_819"
+
+	history={
+		owner = GAZ
+		buildings = {
+			infrastructure = 1
+			13204 ={
+				naval_base = 1
+			}
+		}
+		add_core_of = GAZ
+
+	}
+
+	provinces={
+		7778 1704 4813 10716 10648 1771 1841 10720 4813 12696 
+	}
+	manpower=68364
+	buildings_max_level_factor=1
+	state_category="wasteland"
+}

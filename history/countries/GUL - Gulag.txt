@@ -1,0 +1,44 @@
+﻿capital = 565
+
+oob = "GUL_2020"
+
+set_research_slots = 3
+
+set_stability = 0.7
+
+set_war_support = 0.5
+
+set_technology = {
+ 	infantry_weapons = 1
+}
+
+set_politics = {
+	ruling_party = socialism 
+	elections_allowed = no
+}
+
+set_popularities = {
+	socialism = 100
+}
+
+create_country_leader = {
+	name = "Boris Nemtsov"
+	desc = "POLITICS_Nemtsov_DESC"
+	picture = "Portrait_GUL_Boris_Nemtsov.dds"
+	ideology = progressivism
+	traits = { cornered_fox }
+}
+create_country_leader = {
+	name = "Xi Jinping"
+	desc = "POLITICS_Jinping_DESC"
+	picture = "Portrait_GUL_Xi_Jinping.dds"
+	ideology = leftwing_chauvinism
+	traits = { uncle }
+}
+create_country_leader = {
+	name = "Aleksandr Gabyshev"
+	desc = "POLITICS_Gabyshev_DESC"
+	picture = "Portrait_GUL_Gabyshev.dds"
+	ideology = clerical_fascism
+	traits = { shaman_king }
+}

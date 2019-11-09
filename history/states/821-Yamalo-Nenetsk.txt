@@ -1,0 +1,19 @@
+state={
+	id=821
+	name="STATE_821"
+	manpower = 1373637
+	
+	state_category = city
+
+	history={	
+		victory_points = {
+			10536 3
+		}
+		owner = GAZ
+		add_core_of = GAZ
+	}
+
+	provinces={
+		96 1729 1757 3336 3415 4733 4761 7809 10536 10564 10635 12517 12545 
+	}
+}

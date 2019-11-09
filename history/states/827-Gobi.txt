@@ -1,0 +1,19 @@
+state={
+	id=827
+	name="STATE_827"
+	manpower = 0
+	
+	state_category = city
+
+	history={	
+		victory_points = {
+			1723 3
+		}
+		owner = MON
+		add_core_of = MON
+	}
+
+	provinces={
+		1723 1781 1787 1853 1855 4729 4786 4856 4858 7806 7864 10558 10560 10632 10634 10689 10695 12539 12541 12612 12669 
+	}
+}

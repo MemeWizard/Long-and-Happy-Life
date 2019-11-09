@@ -1,0 +1,19 @@
+state={
+	id=820
+	name="STATE_820" # Shotska
+	manpower = 1373637
+	
+	state_category = city
+
+	history={	
+		victory_points = {
+			9566 3
+		}
+		owner = KHA
+		add_core_of = KHA
+	}
+
+	provinces={
+		9566 3225 238 3542 6508 11425 11489 9437
+	}
+}

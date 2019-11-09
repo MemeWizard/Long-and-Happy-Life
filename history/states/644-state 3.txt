@@ -3,19 +3,19 @@ state={
 	name="STATE_644"
 
 	history={
-		owner = SOV
+		owner = RIS
 		buildings = {
 			infrastructure = 1
 			13204 ={
 				naval_base = 1
 			}
 		}
-		add_core_of = SOV
+		add_core_of = RIS
 
 	}
 
 	provinces={
-		1722 1745 1819 2853 2877 3184 4006 4229 4455 4744 4878 5264 6211 12549 12592 12634 13061 13062 13063 13204
+		1819 4229 4455 12592
 	}
 	manpower=68364
 	buildings_max_level_factor=1

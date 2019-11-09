@@ -9,9 +9,7 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = neocameralism 
-	last_election = "1933.7.1"
-	election_frequency = 48
+	ruling_party = neocameralism
 	elections_allowed = no
 }
 set_popularities = {
@@ -19,10 +17,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Aleksej Miller"
-	desc = "POLITICS_MILLER_DESC"
-	picture = "Portrait_GAZ_Aleksej_Miller.dds"
-	expire = "1953.3.1"
+	name = "Vladislav Surkov"
+	desc = ""
+	picture = "Portrait_GAZ_Vladislav_Surkov.dds"
 	ideology = statecorporation
 	traits = {
 		

@@ -11,13 +11,11 @@ state={
 		add_core_of = RNG
 
 		victory_points = { 10256 3 }
-		victory_points = { 10329 1 }
 
 		buildings = {
 			infrastructure = 5
 		}
 	}
-
 	provinces={ 1334 4265 7328 7401 10185 10256 10329 11223 4411 }
 
 	manpower=1044991
