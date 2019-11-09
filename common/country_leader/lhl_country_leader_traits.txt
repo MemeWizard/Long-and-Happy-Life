@@ -257,14 +257,4 @@ leader_traits = {
 			factor = 1
 		}
 	}
-	
-	priest_slayer = {
-		enemy_partisan_effect = -0.25
-		war_support_factor = 0.05
-		stability_factor = -0.10 
-
-		ai_will_do = {
-			factor = 1
-		}
-	}
 }

@@ -96,24 +96,6 @@ ideas = {
 			}
 		}
 
-		andrej_rudoj = {
-
-			picture = andrej_rudoj
-			allowed = {
-				# original_tag = "COU"
-			}
-
-			traits = { priest_slayer }
-
-			do_effect = {
-				#
-			}
-
-			ai_will_do = {
-				factor = 0
-			}
-		}
-
 		anatolij_mizzengendler = {
 
 			picture = anatolij_mizzengendler
