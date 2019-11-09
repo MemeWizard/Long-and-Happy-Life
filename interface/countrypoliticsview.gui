@@ -443,7 +443,10 @@ guiTypes = {
 		
 		containerWindowType = {
 			name = "ideas"
+
+			# Long_and_Happy_Life
 			position = { x = 0 y = 519 }
+
 			size = { width=100%% height=100%% }
 			verticalScrollbar = "right_vertical_slider"
 			margin = { top = 14 bottom = 13}
@@ -490,7 +493,10 @@ guiTypes = {
 		iconType ={
 			name ="politics_bottom"
 			spriteType = "GFX_main_screens_bottom"
+
+			# Long_and_Happy_Life
 			position = { x = -2 y = 475 }
+
 			Orientation = "UPPER_LEFT"
 			scale = 1.02
 		}
@@ -503,7 +509,10 @@ guiTypes = {
 
 		buttonType = {
 			name = "manage_occupied_button"
+
+			# Long_and_Happy_Life
 			position = { x = 10 y = 482 }
+
 			quadTextureSprite = "GFX_government_button"
 			buttonFont = "hoi_16mbs"
 			Orientation = "UPPER_LEFT"
@@ -511,7 +520,10 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "manage_occupied_button_text"
+
+			# Long_and_Happy_Life
 			position = { x = 50 y = 490 }
+
 			font = "hoi_16mbs"
 			text = "MANAGE_OCCUPIED_TERRITORIES"
 			alwaystransparent = yes
@@ -519,7 +531,10 @@ guiTypes = {
 
 		buttonType = {
 			name = "show_subjects_button"
+
+			# Long_and_Happy_Life
 			position = { x = -180 y = 482 }
+
 			quadTextureSprite = "GFX_government_button"
 			buttonFont = "hoi_16mbs"
 			Orientation = "UPPER_RIGHT"
@@ -527,7 +542,10 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "show_subjects_button_text"
+
+			# Long_and_Happy_Life
 			position = { x = -130 y = 490 }
+
 			font = "hoi_16mbs"
 			text = "MANAGE_SUBJECTS"
 			Orientation = "UPPER_RIGHT"
@@ -536,7 +554,10 @@ guiTypes = {
 		
 		buttonType = {
 			name = "show_exiles_button"
+
+			# Long_and_Happy_Life
 			position = { x = 190 y = 482 }
+
 			quadTextureSprite = "GFX_government_button"
 			buttonFont = "hoi_16mbs"
 			Orientation = "UPPER_LEFT"
@@ -545,7 +566,10 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "manage_exiled_governments"
+
+			# Long_and_Happy_Life
 			position = { x = 223 y = 490 }
+
 			font = "hoi_16mbs"
 			maxWidth = 130
 			maxHeight = 20
@@ -558,19 +582,28 @@ guiTypes = {
 		iconType = {
 			name = "icon_exiled_governments"
 			spriteType = "GFX_icon_exiled_governments"
+
+			# Long_and_Happy_Life
 			position = { x = 192 y = 483 }
+
 		}
 
 		iconType = {
 			name = "icon_occupied_territories"
 			spriteType = "GFX_icon_occupied_territories"
+
+			# Long_and_Happy_Life
 			position = { x = 12 y = 483 }
+
 		}
 
 		iconType = {
 			name = "icon_manage_subjects"
 			spriteType = "GFX_icon_manage_subjects"
+
+			# Long_and_Happy_Life
 			position = { x = 373 y = 483 }
+
 		}
 	}
 	
@@ -674,7 +707,10 @@ guiTypes = {
 					name = "box"
 					position = { x = 10 y = 10 }
 					size = { width = 500 height = 1 }
-					slotsize = { width = 231 height = 75 }
+
+					# Long_and_Happy_Life
+					slotsize = { width = 231 height = 104 }
+
 					max_slots_horizontal = 2
 					add_horizontal = yes
 					format = "UPPER_LEFT"
@@ -759,21 +795,25 @@ guiTypes = {
 			spriteType = "GFX_add_pol_idea_button"
 			clicksound = click_default
 		}
-		
-		iconType = {
-			name = "idea_traits"
-			position = { x = 43 y = 46 }
-			spriteType = "GFX_idea_traits_strip"
-			centerposition = yes
-			alwaystransparent = yes
-			frame = 1
-		}
+
+		# Long_and_Happy_Life
+		# iconType = {
+			# name = "idea_traits"
+			# position = { x = 43 y = 46 }
+			# spriteType = "GFX_idea_traits_strip"
+			# centerposition = yes
+			# alwaystransparent = yes
+			# frame = 1
+		# }
 		
 	}
 	
 	containerWindowType = {
 		name = "political_selectable_idea_entry"
-		size = { width = 231 height = 74 }
+
+		# Long_and_Happy_Life
+		size = { width = 231 height = 112 }
+
 		clipping = no
 			
 		background = {
@@ -784,7 +824,10 @@ guiTypes = {
 			
 		iconType = {
 			name = "icon"
-			position = { x = 42 y = 38 }
+
+			# Long_and_Happy_Life
+			position = { x = 42 y = 50 }
+
 			spriteType = "GFX_placeholder_bordered"
 			centerposition = yes
 			alwaystransparent = yes
@@ -793,7 +836,10 @@ guiTypes = {
 		iconType = {
 			name = "idea_traits"
 			position = { x = 53 y = 51 }
-			spriteType = "GFX_idea_traits_strip"
+
+			# Long_and_Happy_Life
+			# spriteType = "GFX_idea_traits_strip"
+
 			centerposition = yes
 			alwaystransparent = yes
 			frame = 1
@@ -801,7 +847,10 @@ guiTypes = {
 		
 		instantTextboxType = {
 			name = "name"
-			position = { x = 66 y = 10 }
+
+			# Long_and_Happy_Life
+			position = { x = 66 y = 15 }
+
 			font = "hoi_18mbs"
 			fixedsize = yes			
 			text = "name"
@@ -813,7 +862,10 @@ guiTypes = {
 		
 		gridboxtype = {
 			name = "traits_grid"
-			position = { x = 90 y = 28 }
+
+			# Long_and_Happy_Life
+			position = { x = 90 y = 42 }
+
 			size = { width = 231 height = 100%% }
 			slotsize = { width = 200 height = 15 }
 			add_horizontal = no
@@ -822,7 +874,10 @@ guiTypes = {
 		
 		instantTextboxType = {
 			name = "cost"
-			position = { x = 80 y = 47 }
+
+			# Long_and_Happy_Life
+			position = { x = -84 y = 78 }
+
 			font = "hoi_16mbs"
 			text = ""
 			maxWidth = 142

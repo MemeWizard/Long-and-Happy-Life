@@ -28,13 +28,16 @@ ideas = {
 			
 			available = {
 				#has_manpower_for_recruit_change_to =  { value = 0.015 group = mobilization_laws }
-				if = {
-					limit = {
-						original_tag = HUN
-						has_dlc = "Death or Dishonor"
-					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
-				}
+
+				# Long_and_Happy_Life
+				# if = {
+					# limit = {
+						# original_tag = HUN
+						# has_dlc = "Death or Dishonor"
+					# }
+					# NOT = { has_idea = HUN_treaty_of_triannon }
+				# }
+
 				NOT = { has_idea = undisturbed_isolation }
 				NOT = { has_idea = isolation }
 			}
@@ -68,43 +71,46 @@ ideas = {
 				has_war_support > 0.1
 				NOT = { has_idea = undisturbed_isolation }
 				NOT = { has_idea = isolation }
-				if = {
-					limit = {
-						original_tag = AST
-						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = AST_citizen_military_forces
-				}
-				if = {
-					limit = {
-						original_tag = CAN
-						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = CAN_commit_to_the_war
-				}
-				if = {
-					limit = {
-						original_tag = RAJ
-						has_dlc = "Together for Victory"
-					}
-					is_subject = no
-				}
 
-				if = {
-					limit = {
-						original_tag = HUN
-						has_dlc = "Death or Dishonor"
-					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
-				}
-				if = {
-					limit = {
-						original_tag = ENG
-						has_dlc = "Man the Guns"
-						has_completed_focus = ENG_concessions_to_the_trade_unions
-					}
-					NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
-				}
+				# Long_and_Happy_Life
+				# if = {
+					# limit = {
+						# original_tag = AST
+						# has_dlc = "Together for Victory"
+					# }
+					# has_completed_focus = AST_citizen_military_forces
+				# }
+				# if = {
+					# limit = {
+						# original_tag = CAN
+						# has_dlc = "Together for Victory"
+					# }
+					# has_completed_focus = CAN_commit_to_the_war
+				# }
+				# if = {
+					# limit = {
+						# original_tag = RAJ
+						# has_dlc = "Together for Victory"
+					# }
+					# is_subject = no
+				# }
+
+				# if = {
+					# limit = {
+						# original_tag = HUN
+						# has_dlc = "Death or Dishonor"
+					# }
+					# NOT = { has_idea = HUN_treaty_of_triannon }
+				# }
+				# if = {
+					# limit = {
+						# original_tag = ENG
+						# has_dlc = "Man the Guns"
+						# has_completed_focus = ENG_concessions_to_the_trade_unions
+					# }
+					# NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
+				# }
+
 			}
 
 			modifier = {
@@ -118,11 +124,14 @@ ideas = {
 					factor = 20
 					manpower_per_military_factory <  1000
 				}
-				modifier = {
-					tag = ENG
-					has_idea_with_trait = military_theorist
-					factor = 20
-				}
+
+				# Long_and_Happy_Life
+				# modifier = {
+					# tag = ENG
+					# has_idea_with_trait = military_theorist
+					# factor = 20
+				# }
+
 			}
 			
 			cancel_if_invalid = no
@@ -132,9 +141,11 @@ ideas = {
 			
 			available = {
 				#has_manpower_for_recruit_change_to = { value = 0.05 group = mobilization_laws }
-				OR = {
-					has_government = fascism
-					has_government = communism
+
+				# Long_and_Happy_Life
+				# OR = {
+					# has_government = fascism
+					# has_government = communism
 					AND = {
 						has_war = yes
 						enemies_strength_ratio > 0.5
@@ -145,48 +156,52 @@ ideas = {
 						#	}
 						#}
 					}					
-				}
-				has_war_support > 0.2
-				#Special rules AST in TFV
-				if = {
-					limit = {
-						original_tag = AST
-						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
-				}				
-				if = {
-					limit = {
-						original_tag = CAN
-						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = CAN_commit_to_the_war
-					has_completed_focus = CAN_if_day
-				}
-				if = {
-					limit = {
-						original_tag = RAJ
-						has_dlc = "Together for Victory"
-					}
-					is_subject = no
-				}
+				# }
 
-				if = {
-					limit = {
-						original_tag = HUN
-						has_dlc = "Death or Dishonor"
-					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
-				}
-				if = {
-					limit = {
-						original_tag = ENG
-						has_dlc = "Man the Guns"
-						has_completed_focus = ENG_concessions_to_the_trade_unions
-					}
-					NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
-				}
+				has_war_support > 0.2
+
+				# Long_and_Happy_Life
+				# #Special rules AST in TFV
+				# if = {
+					# limit = {
+						# original_tag = AST
+						# has_dlc = "Together for Victory"
+					# }
+					# has_completed_focus = AST_citizen_military_forces
+					# has_completed_focus = AST_fight_work_or_perish
+				# }				
+				# if = {
+					# limit = {
+						# original_tag = CAN
+						# has_dlc = "Together for Victory"
+					# }
+					# has_completed_focus = CAN_commit_to_the_war
+					# has_completed_focus = CAN_if_day
+				# }
+				# if = {
+					# limit = {
+						# original_tag = RAJ
+						# has_dlc = "Together for Victory"
+					# }
+					# is_subject = no
+				# }
+
+				# if = {
+					# limit = {
+						# original_tag = HUN
+						# has_dlc = "Death or Dishonor"
+					# }
+					# NOT = { has_idea = HUN_treaty_of_triannon }
+				# }
+				# if = {
+					# limit = {
+						# original_tag = ENG
+						# has_dlc = "Man the Guns"
+						# has_completed_focus = ENG_concessions_to_the_trade_unions
+					# }
+					# NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
+				# }
+
 			}
 
 			ai_will_do = {
@@ -197,12 +212,14 @@ ideas = {
 					manpower_per_military_factory <  800
 				}
 
-				modifier = { # china relies a lot on throwing bodies at the enemy
-					factor = 3
+				# Long_and_Happy_Life
+				# modifier = { # china relies a lot on throwing bodies at the enemy
+					# factor = 3
 
-					tag = CHI
-					has_manpower < 200000
-				}
+					# tag = CHI
+					# has_manpower < 200000
+				# }
+
 				
 			}
 			
@@ -225,9 +242,11 @@ ideas = {
 			
 			available = {
 				#has_manpower_for_recruit_change_to =  { value = 0.1 group = mobilization_laws }
-				OR = {
-					has_government = fascism
-					has_government = communism
+
+				# Long_and_Happy_Life
+				# OR = {
+					# has_government = fascism
+					# has_government = communism
 					AND = {
 						has_war = yes
 						enemies_strength_ratio > 0.6
@@ -238,54 +257,57 @@ ideas = {
 						#	}
 						#}
 					}
-				}
+				# }
+
 				OR = {
 					has_war_support > 0.6
 					surrender_progress > 0
 				}
 
-				if = {
-					limit = {
-						original_tag = AST
-						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
-				}
+				# Long_and_Happy_Life
+				# if = {
+					# limit = {
+						# original_tag = AST
+						# has_dlc = "Together for Victory"
+					# }
+					# has_completed_focus = AST_citizen_military_forces
+					# has_completed_focus = AST_fight_work_or_perish
+				# }
 
-				if = {
-					limit = {
-						original_tag = CAN
-						has_dlc = "Together for Victory"
-					}
-					OR = {
-						has_completed_focus = CAN_compromise_with_quebec
-						has_completed_focus = CAN_forced_quebec_conscription
-					}
-				}
-				if = {
-					limit = {
-						original_tag = RAJ
-						has_dlc = "Together for Victory"
-					}
-					is_subject = no
-				}
+				# if = {
+					# limit = {
+						# original_tag = CAN
+						# has_dlc = "Together for Victory"
+					# }
+					# OR = {
+						# has_completed_focus = CAN_compromise_with_quebec
+						# has_completed_focus = CAN_forced_quebec_conscription
+					# }
+				# }
+				# if = {
+					# limit = {
+						# original_tag = RAJ
+						# has_dlc = "Together for Victory"
+					# }
+					# is_subject = no
+				# }
 
-				if = {
-					limit = {
-						original_tag = HUN
-						has_dlc = "Death or Dishonor"
-					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
-				}
-				if = {
-					limit = {
-						original_tag = ENG
-						has_dlc = "Man the Guns"
-						has_completed_focus = ENG_concessions_to_the_trade_unions
-					}
-					NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
-				}
+				# if = {
+					# limit = {
+						# original_tag = HUN
+						# has_dlc = "Death or Dishonor"
+					# }
+					# NOT = { has_idea = HUN_treaty_of_triannon }
+				# }
+				# if = {
+					# limit = {
+						# original_tag = ENG
+						# has_dlc = "Man the Guns"
+						# has_completed_focus = ENG_concessions_to_the_trade_unions
+					# }
+					# NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
+				# }
+
 			}
 
 			ai_will_do = {
@@ -303,29 +325,33 @@ ideas = {
 				modifier = {
 					#Block has plenty manpower
 					factor = 0
-					NOT = { tag = CHI }
-					NOT = { tag = SOV }
+					
+					# Long_and_Happy_Life
+					# NOT = { tag = CHI }
+					# NOT = { tag = SOV }
+
 					manpower_per_military_factory >  3000
 				}
 
-				modifier = { # china relies a lot on throwing bodies at the enemy
-					factor = 3
+				# modifier = { # china relies a lot on throwing bodies at the enemy
+					# factor = 3
 
-					tag = CHI
-					has_manpower < 200000
-				}
+					# tag = CHI
+					# has_manpower < 200000
+				# }
 
-				modifier = { # germany needs this before russia, badly
-					factor = 10
+				# modifier = { # germany needs this before russia, badly
+					# factor = 10
 
-					original_tag = GER
-					has_manpower < 2000000
-				}
-				modifier = {
-					factor = 1000
-					original_tag = SOV
-					check_variable = { manpower_k < 3000 }
-				}
+					# original_tag = GER
+					# has_manpower < 2000000
+				# }
+				# modifier = {
+					# factor = 1000
+					# original_tag = SOV
+					# check_variable = { manpower_k < 3000 }
+				# }
+
 
 			}
 			
@@ -362,48 +388,50 @@ ideas = {
 				#	}
 				#}
 
-				if = {
-					limit = {
-						original_tag = AST
-						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
-				}
+				# Long_and_Happy_Life
+				# if = {
+					# limit = {
+						# original_tag = AST
+						# has_dlc = "Together for Victory"
+					# }
+					# has_completed_focus = AST_citizen_military_forces
+					# has_completed_focus = AST_fight_work_or_perish
+				# }
 
-				if = {
-					limit = {
-						original_tag = CAN
-						has_dlc = "Together for Victory"
-					}
-					OR = {
-						has_completed_focus = CAN_compromise_with_quebec
-						has_completed_focus = CAN_forced_quebec_conscription
-					}					
-				}
-				if = {
-					limit = {
-						original_tag = RAJ
-						has_dlc = "Together for Victory"
-					}
-					is_subject = no
-				}
+				# if = {
+					# limit = {
+						# original_tag = CAN
+						# has_dlc = "Together for Victory"
+					# }
+					# OR = {
+						# has_completed_focus = CAN_compromise_with_quebec
+						# has_completed_focus = CAN_forced_quebec_conscription
+					# }					
+				# }
+				# if = {
+					# limit = {
+						# original_tag = RAJ
+						# has_dlc = "Together for Victory"
+					# }
+					# is_subject = no
+				# }
 
-				if = {
-					limit = {
-						original_tag = HUN
-						has_dlc = "Death or Dishonor"
-					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
-				}
-				if = {
-					limit = {
-						original_tag = ENG
-						has_dlc = "Man the Guns"
-						has_completed_focus = ENG_concessions_to_the_trade_unions
-					}
-					NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
-				}
+				# if = {
+					# limit = {
+						# original_tag = HUN
+						# has_dlc = "Death or Dishonor"
+					# }
+					# NOT = { has_idea = HUN_treaty_of_triannon }
+				# }
+				# if = {
+					# limit = {
+						# original_tag = ENG
+						# has_dlc = "Man the Guns"
+						# has_completed_focus = ENG_concessions_to_the_trade_unions
+					# }
+					# NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
+				# }
+
 			}
 
 			ai_will_do = {
@@ -418,25 +446,30 @@ ideas = {
 					factor = 0.5
 					manpower_per_military_factory >  1000
 				}
+
 				modifier = {
 					#Block has plenty manpower
 					factor = 0
-					NOT = { tag = CHI }
+
+					# Long_and_Happy_Life
+					# NOT = { tag = CHI }
+
 					manpower_per_military_factory >  5000
 				}
 
-				modifier = { # china relies a lot on throwing bodies at the enemy
-					factor = 3
+				# modifier = { # china relies a lot on throwing bodies at the enemy
+					# factor = 3
 
-					tag = CHI
-					has_manpower < 200000
-				}
-				modifier = {
-					factor = 10
-					original_tag = SOV
-					date > 1943.1.1
-					has_manpower < 2000000	
-				}
+					# tag = CHI
+					# has_manpower < 200000
+				# }
+				# modifier = {
+					# factor = 10
+					# original_tag = SOV
+					# date > 1943.1.1
+					# has_manpower < 2000000	
+				# }
+
 			}
 		
 			cost = 150
@@ -472,48 +505,51 @@ ideas = {
 				#		ratio > 1
 				#	}
 				#}
-				if = {
-					limit = {
-						original_tag = AST
-						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
-				}
 
-				if = {
-					limit = {
-						original_tag = CAN
-						has_dlc = "Together for Victory"
-					}
-					OR = {
-						has_completed_focus = CAN_compromise_with_quebec
-						has_completed_focus = CAN_forced_quebec_conscription
-					}
-				}
-				if = {
-					limit = {
-						original_tag = RAJ
-						has_dlc = "Together for Victory"
-					}
-					is_subject = no
-				}
+				# Long_and_Happy_Life
+				# if = {
+					# limit = {
+						# original_tag = AST
+						# has_dlc = "Together for Victory"
+					# }
+					# has_completed_focus = AST_citizen_military_forces
+					# has_completed_focus = AST_fight_work_or_perish
+				# }
 
-				if = {
-					limit = {
-						original_tag = HUN
-						has_dlc = "Death or Dishonor"
-					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
-				}
-				if = {
-					limit = {
-						original_tag = ENG
-						has_dlc = "Man the Guns"
-						has_completed_focus = ENG_concessions_to_the_trade_unions
-					}
-					NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
-				}
+				# if = {
+					# limit = {
+						# original_tag = CAN
+						# has_dlc = "Together for Victory"
+					# }
+					# OR = {
+						# has_completed_focus = CAN_compromise_with_quebec
+						# has_completed_focus = CAN_forced_quebec_conscription
+					# }
+				# }
+				# if = {
+					# limit = {
+						# original_tag = RAJ
+						# has_dlc = "Together for Victory"
+					# }
+					# is_subject = no
+				# }
+
+				# if = {
+					# limit = {
+						# original_tag = HUN
+						# has_dlc = "Death or Dishonor"
+					# }
+					# NOT = { has_idea = HUN_treaty_of_triannon }
+				# }
+				# if = {
+					# limit = {
+						# original_tag = ENG
+						# has_dlc = "Man the Guns"
+						# has_completed_focus = ENG_concessions_to_the_trade_unions
+					# }
+					# NOT = { has_country_flag = ENG_cannot_increase_conscription_law }
+				# }
+
 			}
 
 			ai_will_do = {
