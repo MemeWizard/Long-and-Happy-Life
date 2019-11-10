@@ -332,7 +332,59 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/NSU/goal_NSU_pmc.dds"
 	}	
 	SpriteType = {
+		name = "GFX_NSU_newtachanka"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_newtachanka.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_horseraids"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_horseraids.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_emphasisonlightinfantry"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_emphasisonlightinfantry.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_lessonsofthefirstcivilwar"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_lessonsofthefirstcivilwar.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_redterror"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_redterror.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_suicidemissions"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_suicidemissions.dds"
+	}
+	SpriteType = {
 		name = "GFX_NSU_weaponspurchase"
 		texturefile = "gfx/interface/goals/NSU/goal_NSU_weaponspurchase.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_redarmy"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_redarmy.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_liberationwar"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_liberationwar.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_trial"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_trial.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_volga"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_volga.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_kuban"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_kuban.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_sibir"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_sibir.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_phoenix"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_phoenix.dds"
 	}
 }

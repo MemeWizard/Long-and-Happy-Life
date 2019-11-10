@@ -43,14 +43,14 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_liberationwar
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_liberationwar
 		cost = 10
 		x = 14
 		y = 7
 	}
 	focus = {
 		id = NSU_redarmy
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_redarmy
 		cost = 10
 		x = 39
 		y = 0
@@ -269,7 +269,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_trial
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_trial
 		cost = 10
 		prerequisite = {
 			focus = NSU_liberationwar
@@ -279,7 +279,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_volga
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_volga
 		cost = 10
 		prerequisite = {
 			focus = NSU_trial
@@ -309,7 +309,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_northofrussia
-		icon = GFX_goal_unknown
+		icon = GFX_NRU_heathens_dream
 		cost = 10
 		prerequisite = {
 			focus = NSU_trial
@@ -319,7 +319,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_kuban
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_kuban
 		cost = 10
 		prerequisite = {
 			focus = NSU_northofrussia
@@ -372,7 +372,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_phoenix
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_phoenix
 		cost = 10
 		prerequisite = {
 			focus = NSU_northofrussia
@@ -392,7 +392,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_middlerussia
-		icon = GFX_goal_unknown
+		icon = GFX_medved_dip_focus_1
 		cost = 10
 		prerequisite = {
 			focus = NSU_trial
@@ -800,7 +800,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_lessonsofthefirstcivilwar
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_lessonsofthefirstcivilwar
 		cost = 10
 		prerequisite = {
 			focus = NSU_redarmy
@@ -810,7 +810,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_emphasisonlightinfantry
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_emphasisonlightinfantry
 		cost = 10
 		prerequisite = {
 			focus = NSU_lessonsofthefirstcivilwar
@@ -820,7 +820,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_horseraids
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_horseraids
 		cost = 10
 		prerequisite = {
 			focus = NSU_emphasisonlightinfantry
@@ -830,7 +830,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_newtachanka
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_newtachanka
 		cost = 10
 		prerequisite = {
 			focus = NSU_horseraids
@@ -1090,7 +1090,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_redterror
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_redterror
 		cost = 10
 		prerequisite = {
 			focus = NSU_lessonsofthefirstcivilwar
@@ -1100,7 +1100,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_suicidemissions
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_suicidemissions
 		cost = 10
 		prerequisite = {
 			focus = NSU_redterror
