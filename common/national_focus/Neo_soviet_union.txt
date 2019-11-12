@@ -658,7 +658,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_zhukovslegacy
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_zhukovslegacy
 		cost = 10
 		prerequisite = {
 			focus = NSU_redarmy
@@ -668,7 +668,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_redfalcons
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_redfalcons
 		cost = 10
 		prerequisite = {
 			focus = NSU_zhukovslegacy
@@ -678,7 +678,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_unmannedaerialvehicles
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_unmannedaerialvehicles
 		cost = 10
 		prerequisite = {
 			focus = NSU_redfalcons
@@ -688,7 +688,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_humanwave
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_humanwave
 		cost = 10
 		prerequisite = {
 			focus = NSU_zhukovslegacy
@@ -698,7 +698,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_regimentalorchestras
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_regimentalorchestras
 		cost = 10
 		prerequisite = {
 			focus = NSU_humanwave
@@ -708,7 +708,7 @@ focus_tree = {
 	}
 	focus = {
 		id = NSU_weaponsstandards
-		icon = GFX_goal_unknown
+		icon = GFX_NSU_weaponsstandards
 		cost = 10
 		prerequisite = {
 			focus = NSU_regimentalorchestras

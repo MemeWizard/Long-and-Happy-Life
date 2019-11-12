@@ -387,4 +387,28 @@ spriteTypes = {
 		name = "GFX_NSU_phoenix"
 		texturefile = "gfx/interface/goals/NSU/goal_NSU_phoenix.dds"
 	}
+	SpriteType = {
+		name = "GFX_NSU_zhukovslegacy"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_zhukovslegacy.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_redfalcons"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_redfalcons.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_humanwave"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_humanwave.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_weaponsstandards"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_weaponsstandards.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_unmannedaerialvehicles"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_unmannedaerialvehicles.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_regimentalorchestras"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_regimentalorchestras.dds"
+	}
 }

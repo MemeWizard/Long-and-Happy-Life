@@ -1,5 +1,15 @@
 leader_traits = {
 
+	lead_investigator = {
+		random = no
+		enemy_partisan_effect = -0.05
+		army_morale_factor = 0.02
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 	dementius = {
 		random = no
 

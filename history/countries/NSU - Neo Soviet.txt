@@ -1,6 +1,6 @@
 ﻿capital = 788
 
-oob = "NSU_2019"
+oob = "NSU_2020"
 
 set_research_slots = 3
 set_stability = 0.1
@@ -20,6 +20,7 @@ add_ideas = {
 
 	russian_civl_war_disaster
 	extraordinary_commission
+	NSU_famine
 }
 
 set_politics = {
@@ -41,6 +42,5 @@ create_country_leader = {
 	desc = "POLITICS_PUCHKOV_DESC"
 	picture = "Portrait_NSU_Dmitrij_Puchkov.dds"
 	ideology = ultrahegelianism
-	traits = {	
-	}
+	traits = {	lead_investigator  }
 }

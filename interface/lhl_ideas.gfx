@@ -46,6 +46,11 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_idea_NSU_famine"
+		texturefile = "gfx/interface/ideas/idea_NSU_famine.dds"
+	}	
+		
+	spriteType = {
 		name = "GFX_idea_extraordinary_commission"
 		texturefile = "gfx/interface/ideas/idea_extraordinary_commission.dds"
 	}
