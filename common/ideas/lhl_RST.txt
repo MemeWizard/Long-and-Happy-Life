@@ -1,0 +1,59 @@
+ideas = {
+
+	head_of_government = {
+
+		valerij_chudinov = {
+
+			picture = valerij_chudinov
+			allowed = {
+				original_tag = "RST"
+			}
+
+			traits = { tyrant }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+		anatolij_fomenko = {
+
+			picture = anatolij_fomenko
+			allowed = {
+				original_tag = "RST"
+			}
+
+			traits = { white_tsar }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+		jurij_petukhov = {
+
+			picture = jurij_petukhov
+			allowed = {
+				original_tag = "RST"
+			}
+
+			traits = { voice_of_ancestors }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}
+}

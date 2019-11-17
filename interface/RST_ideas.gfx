@@ -1,0 +1,17 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_idea_valerij_chudinov"
+		texturefile = "gfx/interface/ideas/RST/idea_valerij_chudinov.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_anatolij_fomenko"
+		texturefile = "gfx/interface/ideas/RST/idea_anatolij_fomenko.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_jurij_petukhov"
+		texturefile = "gfx/interface/ideas/RST/idea_jurij_petukhov.dds"
+	}
+}
+
