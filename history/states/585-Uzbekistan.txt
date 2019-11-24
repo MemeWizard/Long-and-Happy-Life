@@ -1,23 +1,23 @@
+
 state={
 	id=585
 	name="STATE_585"
 
 	history={
 		add_core_of = UZB
-		owner = SOV
+		add_core_of = KAZ
+		owner = KAZ
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = SOV
 
 	}
 
 	provinces={
-		 1554 1623 1721 7501 7507 10420 10470 12161 1532 4499
+		1532 1554 1623 4499 7501 7507 10420 10470 12161 
 	}
 	manpower=1033721
 	buildings_max_level_factor=1.000
 	state_category=rural
 }
-
