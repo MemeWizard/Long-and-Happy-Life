@@ -46,8 +46,8 @@ focus_tree = {
 
 	}
 	focus = {
-		id = cyberneticmysteries
-		icon = GFX_goal_unknown
+		id = RST_cyberneticmysteries
+		icon = GFX_RST_cyberneticmysteries
 		cost = 10
 		x = 24
 		y = 7
@@ -266,8 +266,8 @@ focus_tree = {
 
 	}
 	focus = {
-		id = deusexmachina
-		icon = GFX_goal_unknown
+		id = RST_deusexmachina
+		icon = GFX_RST_deusexmachina
 		cost = 10
 		prerequisite = {
 			focus = transformation
@@ -281,7 +281,7 @@ focus_tree = {
 		icon = GFX_goal_unknown
 		cost = 10
 		prerequisite = {
-			focus = deusexmachina
+			focus = RST_deusexmachina
 		}
 		x = 24
 		y = 4
@@ -292,7 +292,7 @@ focus_tree = {
 		icon = GFX_goal_unknown
 		cost = 10
 		prerequisite = {
-			focus = cyberneticmysteries
+			focus = RST_cyberneticmysteries
 		}
 		x = 24
 		y = 8
@@ -346,8 +346,8 @@ focus_tree = {
 
 	}
 	focus = {
-		id = enochian
-		icon = GFX_goal_unknown
+		id = RST_angelic_language
+		icon = GFX_RST_angelic_language
 		cost = 10
 		prerequisite = {
 			focus = transformation
@@ -400,7 +400,7 @@ focus_tree = {
 			focus = polisculture
 		}
 		prerequisite = {
-			focus = enochian
+			focus = RST_angelic_language
 		}
 		prerequisite = {
 			focus = palace
@@ -663,8 +663,8 @@ focus_tree = {
 
 	}
 	focus = {
-		id = stateoraculs
-		icon = GFX_goal_unknown
+		id = RST_stateoraculs
+		icon = GFX_RST_stateoraculs
 		cost = 10
 		prerequisite = {
 			focus = tyrant
@@ -674,19 +674,19 @@ focus_tree = {
 
 	}
 	focus = {
-		id = theocracy
-		icon = GFX_goal_unknown
+		id = RST_theocracy
+		icon = GFX_RST_theocracy
 		cost = 10
 		prerequisite = {
-			focus = stateoraculs
+			focus = RST_stateoraculs
 		}
 		x = 7
 		y = 8
 
 	}
 	focus = {
-		id = oldgods
-		icon = GFX_goal_unknown
+		id = RST_oldgods
+		icon = GFX_RST_oldgods
 		cost = 10
 		prerequisite = {
 			focus = tyrant
@@ -696,19 +696,19 @@ focus_tree = {
 
 	}
 	focus = {
-		id = rasenna
-		icon = GFX_goal_unknown
+		id = RST_rasenna
+		icon = GFX_RST_rasenna
 		cost = 10
 		prerequisite = {
-			focus = oldgods
+			focus = RST_oldgods
 		}
 		x = 9
 		y = 8
 
 	}
 	focus = {
-		id = antichristianlaw
-		icon = GFX_goal_unknown
+		id = RST_antichristianlaw
+		icon = GFX_RST_antichristianlaw
 		cost = 10
 		prerequisite = {
 			focus = tyrant
@@ -718,28 +718,28 @@ focus_tree = {
 
 	}
 	focus = {
-		id = greatmother
-		icon = GFX_goal_unknown
+		id = RST_greatmother
+		icon = GFX_RST_greatmother
 		cost = 10
 		prerequisite = {
-			focus = antichristianlaw
+			focus = RST_antichristianlaw
 		}
 		x = 11
 		y = 8
 
 	}
 	focus = {
-		id = purityfaith
-		icon = GFX_goal_unknown
+		id = RST_purityfaith
+		icon = GFX_RST_purityfaith
 		cost = 10
 		prerequisite = {
-			focus = greatmother
+			focus = RST_greatmother
 		}
 		prerequisite = {
-			focus = rasenna
+			focus = RST_rasenna
 		}
 		prerequisite = {
-			focus = theocracy
+			focus = RST_theocracy
 		}
 		x = 9
 		y = 9
@@ -750,7 +750,7 @@ focus_tree = {
 		icon = GFX_goal_unknown
 		cost = 10
 		prerequisite = {
-			focus = purityfaith
+			focus = RST_purityfaith
 		}
 		x = 7
 		y = 10
@@ -788,7 +788,7 @@ focus_tree = {
 		prerequisite = {
 			focus = slaveholdingsociety
 			focus = kurultai
-			focus = whitenational
+			focus = RST_whitenational
 		}
 		x = 9
 		y = 12
@@ -920,8 +920,8 @@ focus_tree = {
 
 	}
 	focus = {
-		id = chasseurs
-		icon = GFX_goal_unknown
+		id = RST_chasseurs
+		icon = GFX_RST_chasseurs
 		cost = 10
 		prerequisite = {
 			focus = metavozhd
@@ -931,8 +931,8 @@ focus_tree = {
 
 	}
 	focus = {
-		id = internalpurges
-		icon = GFX_goal_unknown
+		id = RST_internalpurges
+		icon = GFX_RST_internalpurges
 		cost = 10
 		prerequisite = {
 			focus = metavozhd
@@ -942,8 +942,8 @@ focus_tree = {
 
 	}
 	focus = {
-		id = raciallaw
-		icon = GFX_goal_unknown
+		id = RST_raciallaw
+		icon = GFX_RST_raciallaw
 		cost = 10
 		prerequisite = {
 			focus = metavozhd
@@ -964,92 +964,92 @@ focus_tree = {
 
 	}
 	focus = {
-		id = campsoflabor
-		icon = GFX_goal_unknown
+		id = RST_campsoflabor
+		icon = GFX_RST_campsoflabor
 		cost = 10
 		prerequisite = {
-			focus = chasseurs
+			focus = RST_chasseurs
 		}
 		prerequisite = {
-			focus = internalpurges
+			focus = RST_internalpurges
 		}
 		x = 15
 		y = 8
 
 	}
 	focus = {
-		id = paleorus
-		icon = GFX_goal_unknown
+		id = RST_paleorus
+		icon = GFX_RST_paleorus
 		cost = 10
 		prerequisite = {
-			focus = internalpurges
+			focus = RST_internalpurges
 		}
 		prerequisite = {
-			focus = raciallaw
+			focus = RST_raciallaw
 		}
 		x = 17
 		y = 8
 
 	}
 	focus = {
-		id = bloodpurity
-		icon = GFX_goal_unknown
+		id = RST_bloodpurity
+		icon = GFX_RST_bloodpurity
 		cost = 10
 		prerequisite = {
-			focus = campsoflabor
+			focus = RST_campsoflabor
 		}
 		prerequisite = {
-			focus = paleorus
+			focus = RST_paleorus
 		}
 		x = 16
 		y = 9
 
 	}
 	focus = {
-		id = russiangenomr
-		icon = GFX_goal_unknown
+		id = RST_russiangenomr
+		icon = GFX_RST_russiangenomr
 		cost = 10
 		prerequisite = {
-			focus = bloodpurity
+			focus = RST_bloodpurity
 		}
 		x = 14
 		y = 10
 
 	}
 	focus = {
-		id = survivalism
-		icon = GFX_goal_unknown
+		id = RST_survivalism
+		icon = GFX_NRU_wolf_age
 		cost = 10
 		prerequisite = {
-			focus = bloodpurity
+			focus = RST_bloodpurity
 		}
 		x = 16
 		y = 10
 
 	}
 	focus = {
-		id = megalitic
-		icon = GFX_goal_unknown
+		id = RST_megalitic
+		icon = GFX_RST_survivalism
 		cost = 10
 		prerequisite = {
-			focus = bloodpurity
+			focus = RST_bloodpurity
 		}
 		x = 18
 		y = 10
 
 	}
 	focus = {
-		id = whitenational
-		icon = GFX_goal_unknown
+		id = RST_whitenational
+		icon = GFX_RST_whitenational
 		cost = 10
 		prerequisite = {
-			focus = russiangenomr
+			focus = RST_russiangenomr
 		}
 		prerequisite = {
-			focus = survivalism
+			focus = RST_survivalism
 		}
 		prerequisite = {
-			focus = megalitic
+			focus = RST_megalitic
 		}
 		x = 16
 		y = 11

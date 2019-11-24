@@ -21,7 +21,9 @@
  MSC_regressionism_party_long:0 "National Bolshevik Party — Faction “Katechon“"
  LEN_left_authoritarianism_party:0 "Communists of Petersburg and Leningrad Region"
  FRS_jacobinism_party:0 "Libertarian Party of Russia"
+ ###STM###
  STM_regressionism_party:0 "Russian Peasant Assembly"
+ STM_millenarism_party:0 "Followers of God Kuzya"
  POD_hegemonism_party:0 "Ukrainian Orthodox Church — "Kiev Patriarchate""
  POD_ur_fascism_party:0 "Ukrainian Orthodox Church — "Moscow Patriarchate""
  POD_regressionism_party:0 "Ukrainian Autocephalous Orthodox Church"

@@ -15,13 +15,14 @@ set_technology = {
 
 set_politics = {
 	ruling_party = hegemonism
-	last_election = "1932.11.8"
-	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	hegemonism = 100
+	hegemonism = 40
+    right_populism = 35
+    left_authoritarianism = 20
+    ur_fascism = 5
 }
 
 create_country_leader = {
@@ -29,6 +30,15 @@ create_country_leader = {
 	desc = "POLITICS_PUTIN_DESC"
 	picture = "Portrait_VLAD_PUTIN.dds"
 	ideology = stratocracy 
+	traits = { possessed
+	}
+}
+
+create_country_leader = {
+	name = "Dmitrij Enteo"
+	desc = "POLITICS_ENTEO_DESC"
+	picture = "Portrait_Dmitrij_Ento.dds"
+	ideology = clerical_fascism 
 	traits = { possessed
 	}
 }
