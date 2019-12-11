@@ -1,0 +1,19 @@
+state={
+	id=834
+	name="Tampa"
+	manpower = 385430
+	
+	state_category = city
+
+	history={
+		owner = 
+		add_core_of = 
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		7388
+	}
+}
