@@ -1,19 +1,19 @@
 state={
-	id=834
-	name="Tampa"
+	id=836
+	name="New Hampshire"
 	manpower = 385430
 	
 	state_category = city
 
 	history={
-		owner = UNH
-		add_core_of = UNH
+		owner = VIN
+		add_core_of = VIN
 		buildings = {
 			infrastructure = 1
 		}
 	}
 
 	provinces={
-		7388
+		3715 3712 733 10481
 	}
 }

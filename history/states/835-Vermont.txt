@@ -1,19 +1,19 @@
 state={
-	id=834
-	name="Tampa"
+	id=835
+	name="Vermont"
 	manpower = 385430
 	
 	state_category = city
 
 	history={
-		owner = UNH
-		add_core_of = UNH
+		owner = KLP
+		add_core_of = KLP
 		buildings = {
 			infrastructure = 1
 		}
 	}
 
 	provinces={
-		7388
+		13158 7629 4445 9675
 	}
 }
