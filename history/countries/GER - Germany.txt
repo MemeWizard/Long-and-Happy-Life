@@ -1,0 +1,32 @@
+capital = 64
+
+oob = "GER_2020"
+
+set_research_slots = 3
+
+set_stability = 0.7
+
+set_war_support = 0.5
+
+set_technology = {
+ 	infantry_weapons = 1
+}
+
+set_politics = {
+	ruling_party = socialism
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	socialism = 100
+}
+
+create_country_leader = {
+	name = "Angela Merkel"
+	picture = "Portrait_GER_Merkel.dds"
+	expire = "1953.3.1"
+	ideology = progressivism
+	traits = { }
+}
