@@ -13,11 +13,11 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = neo_cameralism
+	ruling_party = neocameralism
 	elections_allowed = no
 }
 set_popularities = {
-	neo_cameralism  = 100
+	neocameralism  = 100
 }
 
 create_country_leader = {

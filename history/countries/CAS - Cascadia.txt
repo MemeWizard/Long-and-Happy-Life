@@ -1,4 +1,4 @@
-capital = 64
+capital = 386
 
 oob = "GER_2020"
 
@@ -13,20 +13,18 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = socialism
-	last_election = "1932.11.8"
-	election_frequency = 48
+	ruling_party = regressionism
 	elections_allowed = no
 }
 
 set_popularities = {
-	socialism = 100
+	regressionism = 100
 }
 
 create_country_leader = {
-	name = "Angela Merkel"
-	picture = "Portrait_GER_Merkel.dds"
+	name = "Theodore Kaczynski"
+	picture = "Portrait_CAS_Unabomber.dds"
 	expire = "1953.3.1"
-	ideology = progressivism
+	ideology = ecofascism
 	traits = { }
 }

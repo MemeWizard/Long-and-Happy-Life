@@ -179,6 +179,8 @@ CAL_neocameralism:0 "California Republic"
 CAL_neocameralism_DEF:0 "California Republic"
 ARI_hegemonism:0 "American Empire"
 ARI_hegemonism_DEF:0 "American Empire"
+CAS_regressionism:0 "Cascadia"
+CAS_regressionism_DEF:0 "Cascadia"
 
 ###AFRICA###
 DJI_hegemonism:0 "Somaliland"
