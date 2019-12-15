@@ -187,14 +187,10 @@ UNH_neocameralism:0 "Unholy Union"
 UNH_neocameralism_DEF:0 "Unholy Union"
 CSA_ur_fascism:0 "Christian States of America"
 CSA_ur_fascism_DEF:0 "Christian States of America"
-NAF_national_bolshevism:0 "New Afrika"
-NAF_national_bolshevism_DEF:0 "New Afrika"
+NAF_socialism:0 "Republic of New Afrika"
+NAF_socialism_DEF:0 "Republic of New Afrika"
 CUN_socialism:0 "Celtic Union"
 CUN_socialism_DEF:0 "Celtic Union"
-
-
-
-###USA###
 LOU_national_bolshevism:0 "American Union State"
 LOU_national_bolshevism_DEF:0 "American Union State"
 CAL_neocameralism:0 "California Republic"
