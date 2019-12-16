@@ -2,15 +2,12 @@
 state={
 	id=338
 	name="STATE_338"
-	manpower = 1800615
 	resources={
-		steel=9 # was: 16
+		steel=9.000
 	}
 
-	state_category = city
-
 	history={
-		owner = ENG
+		owner = WES
 		victory_points = {
 			3369 5 
 		}
@@ -21,12 +18,18 @@ state={
 			air_base = 2
 			3369 = {
 				naval_base = 2
+
 			}
+
 		}
-		add_core_of = ENG
+		add_core_of = WES
+
 	}
 
 	provinces={
-		3369 6221 6351 6378 9484 11471 
+		3422 3463 6351 9484 11471 
 	}
+	manpower=1800615
+	buildings_max_level_factor=1.000
+	state_category=city
 }
