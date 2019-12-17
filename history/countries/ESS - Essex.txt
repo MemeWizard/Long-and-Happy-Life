@@ -13,19 +13,19 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = national_bolshevism
 	elections_allowed = no
 }
 set_popularities = {
-	socialism  = 100
+	national_bolshevism  = 100
 }
 
 create_country_leader = {
-	name = "Grigory Grabovoy"
+	name = "Max Mosley"
 	desc = ""
-	picture = ".dds"
-	ideology = agrarian_socialism
+	picture = "max_mosley.dds"
+	ideology = accelerationist_nazbol
 	traits = {
-		
+		mad_max
 	}
 }

@@ -13,19 +13,19 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = commendationism
 	elections_allowed = no
 }
 set_popularities = {
-	socialism  = 100
+	commendationism  = 100
 }
 
 create_country_leader = {
-	name = "Grigory Grabovoy"
+	name = "Henry IX"
 	desc = ""
-	picture = ".dds"
-	ideology = agrarian_socialism
+	picture = "henrywindsor.dds"
+	ideology = leftwing_monarchy
 	traits = {
-		
+		comrade_king
 	}
 }

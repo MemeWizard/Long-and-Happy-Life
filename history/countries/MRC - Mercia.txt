@@ -13,19 +13,19 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = ur_fascism
 	elections_allowed = no
 }
 set_popularities = {
-	socialism  = 100
+	ur_fascism  = 100
 }
 
 create_country_leader = {
-	name = "Grigory Grabovoy"
+	name = "Douglas Pearce"
 	desc = ""
-	picture = ".dds"
-	ideology = agrarian_socialism
+	picture = "DouglasP.dds"
+	ideology = charismatic_dictatorship
 	traits = {
-		
+		lastbelovedofeurope
 	}
 }

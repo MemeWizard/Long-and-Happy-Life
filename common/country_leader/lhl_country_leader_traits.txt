@@ -1,5 +1,46 @@
 leader_traits = {
 
+	mad_max = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	high_handed_despot = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	lastbelovedofeurope = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	comrade_king = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	new_pendragon = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
 	keeper_of_the_lore = {
 		random = no
 		research_speed_factor = 0.03

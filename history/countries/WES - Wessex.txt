@@ -13,19 +13,19 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = regressionism
 	elections_allowed = no
 }
 set_popularities = {
-	socialism  = 100
+	regressionism  = 100
 }
 
 create_country_leader = {
-	name = "Grigory Grabovoy"
+	name = "George VII"
 	desc = ""
-	picture = ".dds"
-	ideology = agrarian_socialism
+	picture = "georgevii.dds"
+	ideology = neo_feudalism
 	traits = {
-		
+		new_pendragon
 	}
 }

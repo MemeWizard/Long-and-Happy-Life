@@ -80,6 +80,12 @@
  NAF_regressionism_party:0 "Nuwabian Movement"
  NAF_hegemonism_party:0 "Solomonic Dynasty"
  NAF_ur_fascism_party:0 "Tribu Ka"
+ ###AEngland###
+ WES_regressionism_party:0 "Windsor Dynasty"
+ SUS_commendationism_party:0 "Windsor Dynasty"
+ ESS_national_bolshevism_party:0 "British Union"
+ KNT_right_populism_party:0 "Ultra-Tories"
+ MRC_ur_fascism_party:0 "Black Army of Britain"
  ###Africa###
  DJI_hegemonism_party:0 "Sons of Liberty"
  ###Scandinavia###
