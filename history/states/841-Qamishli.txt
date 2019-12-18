@@ -1,0 +1,22 @@
+state={
+	id=841
+	name="Qamishli"
+	manpower = 1430700
+	
+	state_category = wasteland
+
+	history={
+		owner = SKD
+		add_core_of = SKD
+		victory_points = {
+			1578 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		901 1549 1578 1606 1634 6883 10882 
+	}
+}

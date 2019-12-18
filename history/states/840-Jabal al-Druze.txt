@@ -1,0 +1,22 @@
+state={
+	id=840
+	name="Jabal al-Druze"
+	manpower = 1430700
+	
+	state_category = wasteland
+
+	history={
+		owner = DRU
+		add_core_of = DRU
+		victory_points = {
+			4486 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		4486 7184 10383
+	}
+}
