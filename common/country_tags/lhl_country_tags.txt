@@ -106,4 +106,5 @@ KUW = "countries/lhl_countries/Kuwait.txt"
 QAT = "countries/lhl_countries/Qatar.txt"
 EMI = "countries/lhl_countries/Emirates.txt"
 DRU = "countries/lhl_countries/Druze.txt"
+SHA = "countries/lhl_countries/Shanghai.txt"
 
