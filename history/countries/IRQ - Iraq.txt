@@ -13,10 +13,10 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = regressionism
+	ruling_party = national_bolshevism
 	elections_allowed = no
 }
 
 set_popularities = {
-	regressionism  = 100
+	national_bolshevism  = 100
 }
