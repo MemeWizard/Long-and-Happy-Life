@@ -19,3 +19,11 @@ set_politics = {
 set_popularities = {
 	national_bolshevism  = 100
 }
+
+create_country_leader = {
+	name = "Bashar al-Assad"
+	picture = "Bashar al-Assad.dds"
+	expire = "1953.3.1"
+	ideology = national_maoism
+	traits = { }
+}
