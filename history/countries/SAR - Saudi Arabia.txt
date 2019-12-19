@@ -19,3 +19,13 @@ set_politics = {
 set_popularities = {
 	hegemonism  = 100
 }
+
+create_country_leader = {
+	name = "Salman bin Abdulaziz Al-Saud"
+	picture = "Salman bin Abdulaziz Al Saud.dds"
+	expire = "1953.3.1"
+	ideology = absolute_monarchy
+	traits = {
+		self_proclaimed_al_masiyah
+	}
+}

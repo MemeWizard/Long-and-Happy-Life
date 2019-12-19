@@ -19,3 +19,13 @@ set_politics = {
 set_popularities = {
 	left_authoritarianism  = 100
 }
+
+create_country_leader = {
+	name = "Abdul Halim Khaddam"
+	picture = "Abdul_Halim_Khaddam.dds"
+	expire = "1953.3.1"
+	ideology = left_wing_nationalism
+	traits = {
+		hyena_of_syria
+	}
+}

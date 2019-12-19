@@ -19,3 +19,10 @@ set_politics = {
 set_popularities = {
 	neocameralism  = 100
 }
+
+create_country_leader = {
+	name = "Tamim bin Hamad"
+	picture = "Tamim bin Hamad.dds"
+	expire = "1953.3.1"
+	ideology = authoritarian_technocracy
+}

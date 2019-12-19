@@ -20,3 +20,13 @@ set_politics = {
 set_popularities = {
 	national_bolshevism  = 100
 }
+
+create_country_leader = {
+	name = "Saddam Hussein"
+	picture = "Saddam_Hussein.dds"
+	expire = "1953.3.1"
+	ideology = national_maoism
+	traits = {
+		bloodhound
+	}
+}

@@ -20,3 +20,13 @@ set_politics = {
 set_popularities = {
 	regressionism  = 100
 }
+
+create_country_leader = {
+	name = "Samy Gemayel"
+	picture = "Samy Gemayel.dds"
+	expire = "1953.3.1"
+	ideology = neo_feudalism
+	traits = {
+		last_of_the_phoenicians
+	}
+}

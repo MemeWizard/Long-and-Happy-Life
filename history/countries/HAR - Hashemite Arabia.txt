@@ -19,3 +19,13 @@ set_politics = {
 set_popularities = {
 	right_populism  = 100
 }
+
+create_country_leader = {
+	name = "Abdullah II"
+	picture = "Abdullah II.dds"
+	expire = "1953.3.1"
+	ideology = limited_monarchy
+	traits = {
+		fallen_king
+	}
+}

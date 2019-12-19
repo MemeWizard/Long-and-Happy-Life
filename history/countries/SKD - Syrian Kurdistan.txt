@@ -19,3 +19,13 @@ set_politics = {
 set_popularities = {
 	commendationism  = 100
 }
+
+create_country_leader = {
+	name = "Kurdistan Council"
+	picture = "Kurdistan_Council.dds"
+	expire = "1953.3.1"
+	ideology = ultrahegelianism
+	traits = {
+		stronghold_of_democracy
+	}
+}

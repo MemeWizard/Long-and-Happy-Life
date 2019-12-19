@@ -19,3 +19,13 @@ set_politics = {
 set_popularities = {
 	left_authoritarianism  = 100
 }
+
+create_country_leader = {
+	name = "Ahmed Ali Abdullah Saleh"
+	picture = "Ahmed Ali Abdullah Saleh.dds"
+	expire = "1953.3.1"
+	ideology = paternalism
+	traits = {
+		disgraced_general
+	}
+}

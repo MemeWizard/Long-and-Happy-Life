@@ -19,3 +19,13 @@ set_politics = {
 set_popularities = {
 	millenarism  = 100
 }
+
+create_country_leader = {
+	name = "Issam Zahreddine"
+	picture = "Issam_Zahreddine.dds"
+	expire = "1953.3.1"
+	ideology = ethical_millennialism
+	traits = {
+		dark_horse_of_syria
+	}
+}

@@ -1,5 +1,93 @@
 leader_traits = {
 
+    turkish_lapdog = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    hyena_of_syria = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    dabbat_al_ard = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    self_proclaimed_al_masiyah = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    stronghold_of_democracy = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    bloodhound = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    disgraced_general = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    last_of_the_phoenicians = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    dark_horse_of_syria = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    fallen_king = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	lion_of_syria = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
 	mad_max = {
 		random = no
 

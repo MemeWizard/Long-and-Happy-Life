@@ -19,3 +19,10 @@ set_politics = {
 set_popularities = {
 	neocameralism  = 100
 }
+
+create_country_leader = {
+	name = "Sabah Ahmad al-Sabah"
+	picture = "Sabah Ahmad al-Sabah.dds"
+	expire = "1953.3.1"
+	ideology = authoritarian_technocracy
+}
