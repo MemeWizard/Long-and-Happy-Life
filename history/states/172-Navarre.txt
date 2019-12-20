@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = NAV
 		victory_points = {
 			740 3 
 		}
@@ -24,7 +24,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = SPR
+		add_core_of = NAV
 	}
 
 	provinces={

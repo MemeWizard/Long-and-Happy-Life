@@ -1,0 +1,39 @@
+capital = 112
+
+oob = "SOV_1936"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+set_convoys = 50
+
+set_politics = {
+	ruling_party = ur_fascism
+	elections_allowed = no
+}
+
+set_popularities = {
+	ur_fascism  = 100
+}
+
+create_country_leader = {
+	name = "Marianno Rajoy"
+	desc = "POLITICS_RAJOY_DESC"
+	picture = "Portrait_POR_Rajoy.dds"
+	ideology = clerical_fascism
+	traits = { sucellus_chosen }
+}
+
+
+create_country_leader = {
+	name = "Sebastian of Portugal"
+	desc = "POLITICS_Sebastian_DESC"
+	picture = "Portrait_POR_Sebastian.dds"
+	ideology = absolute_monarchy
+	traits = {  }
+}
