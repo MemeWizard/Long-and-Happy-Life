@@ -1,0 +1,29 @@
+capital = 261
+
+oob = "MDW_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	
+}
+
+set_convoys = 5
+
+set_politics = {
+	ruling_party = right_populism  
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	right_populism = 100
+}
+
+create_country_leader = {
+	name = "Tucker Carlson"
+	picture = "Portrait_MDW_Tucker.dds"
+	ideology = national_populism
+	traits = { die_hard
+	}
+}
