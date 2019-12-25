@@ -11,8 +11,9 @@ state={
 		victory_points = {
 			2096 1
 		}
-		owner = EGY
-		add_core_of = EGY
+		owner = UAS
+		add_core_of = UAS
+		add_core_of = AAG
 		buildings = {
 			infrastructure = 3
 		}

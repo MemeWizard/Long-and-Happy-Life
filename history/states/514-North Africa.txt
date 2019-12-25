@@ -10,6 +10,7 @@ state={
 	history={
 		owner = UAS
 		add_core_of = UAS
+		add_core_of = MBG
 		buildings = {
 			infrastructure = 0
 		}

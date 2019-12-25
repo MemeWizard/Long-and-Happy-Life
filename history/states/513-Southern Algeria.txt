@@ -9,6 +9,7 @@ state={
 	history={
 		owner = UAS
 		add_core_of = UAS
+		add_core_of = MBG
 		victory_points = {
 			12034 1 
 		}

@@ -11,6 +11,7 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = UAS
+		add_core_of = MUG
 	}
 	
 	provinces={

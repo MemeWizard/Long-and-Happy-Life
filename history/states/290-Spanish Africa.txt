@@ -14,6 +14,7 @@ state={
 	history={
 		owner = UAS
 		add_core_of = UAS
+		add_core_of = AIG
 		victory_points = {
 			9945 5 
 		}

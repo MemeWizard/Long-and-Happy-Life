@@ -293,6 +293,22 @@ POR_hegemonism_DEF:0 "The Fifth Empire"
 NAV_hegemonism:0 "Kingdom of Navarra"
 NAV_hegemonism_DEF:0 "Kingdom of Navarra"
 
+###Gadaffi Death###
+AAG_right_populism:0 "Al-Arab Clique"
+AAG_right_populism_DEF:0 "Al-Arab Clique"
+AIG_right_populism:0 "Al-Islam Clique"
+AIG_right_populism_DEF:0 "Al-Islam Clique"
+ASG_right_populism:0 "Al-Saadi Clique"
+ASG_right_populism_DEF:0 "Al-Saadi Clique"
+HMG_right_populism:0 "Hannibal Clique"
+HMG_right_populism_DEF:0 "Hannibal Clique"
+KHG_right_populism:0 "Khamis Clique"
+KHG_right_populism_DEF:0 "Khamis Clique"
+MBG_right_populism:0 "Moatassem-Billah Clique"
+MBG_right_populism_DEF:0 "Moatassem-Billah Clique"
+MUG_right_populism:0 "Muhammad Clique"
+MUG_right_populism_DEF:0 "Muhammad Clique"
+
 ###MIDDLE EAST###
 ASS_national_bolshevism:0 "Alawite State"
 ASS_national_bolshevism_DEF:0 "Alawite State"
@@ -324,6 +340,7 @@ TSY_socialism:0 "Syrian National Council"
 TSY_socialism_DEF:0 "Syrian National Council"
 EMI_neocameralism:0 "United Arab Emirates"
 EMI_neocameralism_DEF:0 "United Arab Emirates"
+
 ###INDIA###
 GUJ_millenarism:0 "Parsia"
 GUJ_millenarism_DEF:0 "Parsia"
@@ -348,7 +365,7 @@ ICU_regressionism_DEF:0 "Islamic Courts Union"
 ASB_millenarism:0 "Al-Shabaab"
 ASB_millenarism_DEF:0 "Al-Shabaab"
 
-
+###Western Europe###
 FRA_right_populism:0 "Nationalist France"
 FRA_right_populism_DEF:0 "Nationalist France"
 BEL_socialism:0 "Kingdom of Flanders"
@@ -359,4 +376,5 @@ LUX_ur_fascism:0 "Holy Roman Empire"
 LUX_ur_fascism_DEF:0 "Holy Roman Empire"
 HOL_socialism:0 "Kingdom of Netherlands"
 HOL_socialism_DEF:0 "Kingdom of Netherlands"
+
 POLITICS_MEDVEDEV_DESC:0 "§WHe was already at the helm.\n\nOne term was enough for the higher-level, distraught with horror, to return the decrepit Letov and to hand him the powers of a dictator, pumping him with botox, panicking.\n\nWhen he brought troops into Georgia, in his eyes there was nothing but a thirst for conquest, similar to the thirst of a combat blade falling upon the heads of enemies, without being at a loss even for a second.\n\nThis is a man who renamed the «militia» into the police, ignoring the genetic memory of the people about the fascist Polizei. And the people stayed in silence, because they knew that He shouldn’t be angered.\n\nHe made it clear that he didn’t give a damn even for time. He shortened time zones, hinting that if He wanted to, there would be only one time zone left and everyone would live in it.\n\nRepent, repent, those who shout «Letov, go away!» Because it is very easy for him to leave. After all, Letov is trying harder and harder every day to restrain what is breaking out into the light of day.\n\nAnd then all these marches will turn into rivers of blood.§!"
