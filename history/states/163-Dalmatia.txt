@@ -7,7 +7,7 @@ state=
 	state_category = enclave
 	
 	history={
-		owner = ITA
+		owner = YUG
 		buildings = {
 			infrastructure = 5
 			3943 = {

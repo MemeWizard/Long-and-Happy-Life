@@ -64,11 +64,13 @@ GEO_ur_fascism:0 "Georgia"
 GEO_ur_fascism_DEF:0 "Kingdom of Georgia"
 UPR_regressionism:0 "Ukrainian Peasant Republic"
 UPR_regressionism_DEF:0 "Ukrainian Peasant Republic"
+
 ###Central Russia###
 RPR_socialism:0 "Land and Liberty"
 RPR_socialism_DEF:0 "Land and Liberty Movement"
 RNE_hegemonism:0 "Russian National Order"
 RNE_hegemonism_DEF:0 "Russian National Order"
+
 ###Volga Area###
 RWR_socialism:0 "Worker's Republic"
 RWR_socialism_DEF:0 "Worker's Republic"
@@ -82,6 +84,7 @@ RTS_ur_fascism:0 "Tsardom of Russia"
 RTS_ur_fascism_DEF:0 "Tsardom of Russia"
 GAZ_neocameralism:0 "Russian Sovereign Republic"
 GAZ_neocameralism_DEF:0 "Russian Sovereign Republic"
+
 ###Malorossija###
 UPR_regressionism:0 "Ukrainian Peasant Republic"
 UPR_regressionism_DEF:0 "Ukrainian Peasant Republic"
@@ -95,6 +98,7 @@ KHA_ur_fascism:0 "Malorossija"
 KHA_ur_fascism_DEF:0 "Malorossija"
 DNP_neocameralism:0 "Dnepropetrovsk"
 DNP_neocameralism_DEF:0 "Dnepropetrovsk"
+
 ###Terra Mariana###
 PLP_right_populism:0 "Fourth Polish Republic"
 PLP_right_populism_DEF:0 "Fourth Polish Republic"
@@ -108,9 +112,11 @@ TRG_neocameralism:0 "Kingdom of Torgu"
 TRG_neocameralism_DEF:0 "Kingdom of Torgu"
 FIN_regressionism:0 "Finnish state"
 FIN_regressionism_DEF:0 "Finnish state"
+
 ###Fractions###
 eurasian_armed_forces:0 "Eurasian Armed Forces"
 sanitary_cordon:0 "Sanitary cordon"
+
 ###Dacia###
 ROM_ur_fascism:0 "Kingdom of Romania"
 ROM_ur_fascism_DEF:0 "Kingdom of Romania"
@@ -118,16 +124,19 @@ SRS_socialism:0 "Hungarian Republic"
 SRS_socialism_DEF:0 "Hungarian Republic"
 HUN_right_populism:0 "Kingdom of Hungary"
 HUN_right_populism_DEF:0 "Kingdom of Hungary"
+
 ###Far South###
 PER_national_bolshevism:0 "Islamic Republic of Iran"
 PER_national_bolshevismm_DEF:0 "Islamic Republic of Iran"
 ARM_national_bolshevism:0 "Republic of Armenia"
 ARM_national_bolshevismm_DEF:0 "Republic of Armenia"
+
 ###The Great Steppes###
 RNG_right_populism:0 "Russian National State"
 RNG_right_populism_DEF:0 "Russian National State"
 KAZ_hegemonism:0 "Republic of Kazakhstan"
 KAZ_hegemonism_DEF:0 "Republic of Kazakhstan"
+
 ###Siberia###
 ALT_regressionism:0 "Altai"
 ALT_regressionism_DEF:0 "Altai"
@@ -157,6 +166,7 @@ EKB_neocameralism:0 "Merchant Republic of Ekaterinburg"
 EKB_neocameralism_DEF:0 "Merchant Republic of Ekaterinburg"	
 GUL_socialism:0 "Liberation Front"
 GUL_socialism_DEF:0 "Liberation Front"
+
 ###CENTAL ASIA###
 DJU_hegemonism:0 "Jundallah"
 DJU_hegemonism_DEF:0 "Jundallah"
@@ -292,6 +302,8 @@ POR_hegemonism:0 "The Fifth Empire"
 POR_hegemonism_DEF:0 "The Fifth Empire"
 NAV_hegemonism:0 "Kingdom of Navarra"
 NAV_hegemonism_DEF:0 "Kingdom of Navarra"
+YUG_right_populism:0 "Serbocroatia"
+YUG_right_populism_DEF:0 "Serbocroatia"
 
 ###Gadaffi Death###
 AAG_right_populism:0 "Al-Arab Clique"
