@@ -1,4 +1,4 @@
-capital = 141
+capital = 8
 
 oob = "SOV_1936"
 
@@ -13,9 +13,18 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = ur_fascism
 	elections_allowed = no
 }
 set_popularities = {
-	socialism  = 100
+	ur_fascism  = 100
+}
+
+create_country_leader = {
+	name = "Ferdinand Zvonimir von Habsburg"
+	desc = "POLITICS_ZVONIMIR_DESC"
+	picture = "Portrait_LUX_Zvonimir.dds"
+	expire = "1953.3.1"
+	ideology = ur_monarchism
+	}
 }

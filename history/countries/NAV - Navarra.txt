@@ -13,7 +13,7 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = absolute_monarchy
+	ruling_party = hegemonism
 	elections_allowed = no
 }
 

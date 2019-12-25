@@ -1,4 +1,34 @@
 leader_traits = {
+	buzzard = {
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	red_crusader = {
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	die_hard = {
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	saoshyant = {
+		random = no
+		army_morale_Factor = 0.1
+		stability_factor = 0.1
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 	maestro = {
 		random = no
 		army_morale_Factor = 0.05

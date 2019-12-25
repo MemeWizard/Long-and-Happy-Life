@@ -1,4 +1,4 @@
-capital = 141
+capital = 7
 
 oob = "SOV_1936"
 
@@ -18,4 +18,14 @@ set_politics = {
 }
 set_popularities = {
 	socialism  = 100
+}
+
+create_country_leader = {
+	name = "Catharina-Amalia I"
+	desc = ""
+	picture = "Portrait_HOL_Amalia.dds"
+	ideology = progressivism
+	traits = {
+		
+	}
 }
