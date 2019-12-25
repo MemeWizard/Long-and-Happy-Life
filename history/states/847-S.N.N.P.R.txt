@@ -1,19 +1,19 @@
 state={
-	id=271
-	name="Goijam"
+	id=847
+	name="S.N.N.P.R"
 	manpower = 385430
 	
 	state_category = wasteland
 
 	history={
-		owner = OSO
-		add_core_of = OSO
+		owner = YSM
+		add_core_of = YSM
 		buildings = {
 			infrastructure = 1
 		}
 	}
 
 	provinces={
-		4954 5097 13137
+		7912 8019 10734 
 	}
 }

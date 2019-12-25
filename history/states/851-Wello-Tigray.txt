@@ -1,6 +1,6 @@
 state={
-	id=271
-	name="Goijam"
+	id=851
+	name="Wello-Tigray"
 	manpower = 385430
 	
 	state_category = wasteland
@@ -14,6 +14,6 @@ state={
 	}
 
 	provinces={
-		4954 5097 13137
+		2072 5041 7944
 	}
 }

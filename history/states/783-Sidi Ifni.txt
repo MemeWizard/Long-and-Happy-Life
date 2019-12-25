@@ -7,8 +7,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = SPR
-		add_core_of = MOR
+		owner = UAS
+		add_core_of = UAS
 		buildings = {
 			infrastructure = 1
 			12857 = {

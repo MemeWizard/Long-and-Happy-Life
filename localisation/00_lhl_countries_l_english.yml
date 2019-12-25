@@ -264,6 +264,10 @@ EGY_regressionism:0 "Egypt"
 EGY_regressionism_DEF:0 "Egypt"
 MAC_regressionism:0 "Macedonia"
 MAC_regressionism_DEF:0 "Macedonia"
+UAS_national_bolshevism:0 "Maghreb Jamahiriya"
+UAS_national_bolshevism_DEF:0 "Maghreb Jamahiriya"
+
+###MIDDLE EAST###
 ASS_national_bolshevism:0 "Alawite State"
 ASS_national_bolshevism_DEF:0 "Alawite State"
 HAR_right_populism:0 "Hashemite Kingdom of Arabia"
@@ -294,5 +298,27 @@ TSY_socialism:0 "Syrian National Council"
 TSY_socialism_DEF:0 "Syrian National Council"
 EMI_neocameralism:0 "United Arab Emirates"
 EMI_neocameralism_DEF:0 "United Arab Emirates"
+
+###EAST AFRICA###
+OSO_ur_fascism:0 "Orthodox State of Amhara and Oromia"
+OSO_ur_fascism_DEF:0 "Orthodox State of Amhara and Oromia"
+HBS_national_bolshevism:0 "Habashistan"
+HBS_national_bolshevism_DEF:0 "Habashistan"
+YSM_millenarism:0 "Yets'idik'i Midiri"
+YSM_millenarism_DEF:0 "Yets'idik'i Midiri"
+BSR_right_populism:0 "Beta Israel"
+BSR_right_populism_DEF:0 "Beta Israel"
+AKS_regressionism:0 "Aksum"
+AKS_regressionism_DEF:0 "Aksum"
+SML_regressionism:0 "Somaliland"
+SML_regressionism_DEF:0 "Somaliland"
+PNT_regressionism:0 "Puntland"
+PNT_regressionism_DEF:0 "Puntland"
+ICU_regressionism:0 "Islamic Courts Union"
+ICU_regressionism_DEF:0 "Islamic Courts Union"
+ASB_millenarism:0 "Al-Shabaab"
+ASB_millenarism_DEF:0 "Al-Shabaab"
+
+
 
 POLITICS_MEDVEDEV_DESC:0 "§WHe was already at the helm.\n\nOne term was enough for the higher-level, distraught with horror, to return the decrepit Letov and to hand him the powers of a dictator, pumping him with botox, panicking.\n\nWhen he brought troops into Georgia, in his eyes there was nothing but a thirst for conquest, similar to the thirst of a combat blade falling upon the heads of enemies, without being at a loss even for a second.\n\nThis is a man who renamed the «militia» into the police, ignoring the genetic memory of the people about the fascist Polizei. And the people stayed in silence, because they knew that He shouldn’t be angered.\n\nHe made it clear that he didn’t give a damn even for time. He shortened time zones, hinting that if He wanted to, there would be only one time zone left and everyone would live in it.\n\nRepent, repent, those who shout «Letov, go away!» Because it is very easy for him to leave. After all, Letov is trying harder and harder every day to restrain what is breaking out into the light of day.\n\nAnd then all these marches will turn into rivers of blood.§!"

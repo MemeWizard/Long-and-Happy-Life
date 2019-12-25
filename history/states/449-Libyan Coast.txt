@@ -7,11 +7,11 @@ state={
 	state_category = enclave
 
 	history={
-		owner = ITA
+		owner = UAS
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = LBA
+		add_core_of = UAS
 	}
 
 	provinces={
