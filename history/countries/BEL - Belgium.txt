@@ -1,4 +1,4 @@
-capital = 651
+capital = 6
 
 oob = "BSK_2019"
 
@@ -14,21 +14,20 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = neocameralism
+	ruling_party = socialism
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neocameralism = 100
+	socialism = 100
 }
 
 create_country_leader = {
-	name = "Radij Khabirov"
+	name = "Elisabeth I"
 	desc = "POLITICS_KHABIROV_DESC"
-	picture = "Portrait_BSK_KHABIROV.dds"
-	ideology = authoritarian_technocracy 
+	picture = "Portrait_BEL_Elisabeth.dds"
+	ideology = progressivism
 	traits = {
-		moderate_technocrat
 	}
 }

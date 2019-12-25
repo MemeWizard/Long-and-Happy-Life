@@ -1,6 +1,6 @@
-capital = 7
+capital = 315
 
-oob = "SOV_1936"
+oob = "CAR_2020"
 
 set_research_slots = 3
 set_stability = 0.5
@@ -13,19 +13,17 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = hegemonism
 	elections_allowed = no
 }
 set_popularities = {
-	socialism  = 100
+	hegemonism = 100
 }
 
 create_country_leader = {
-	name = "Catharina-Amalia I"
-	desc = ""
-	picture = "Portrait_HOL_Amalia.dds"
-	ideology = progressivism
-	traits = {
-		
-	}
+	name = "John Kirby"
+	desc = "POLITICS_KIRBY_DESC"
+	picture = "Portrait_CAR_Kirby.dds"
+	ideology = stratocracy
+	traits = { buzzard }
 }

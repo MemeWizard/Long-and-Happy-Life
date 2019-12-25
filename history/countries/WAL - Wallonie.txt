@@ -1,4 +1,4 @@
-capital = 7
+capital = 34
 
 oob = "SOV_1936"
 
@@ -13,19 +13,18 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = right_populism
 	elections_allowed = no
 }
 set_popularities = {
-	socialism  = 100
+	right_populism  = 100
 }
 
 create_country_leader = {
-	name = "Catharina-Amalia I"
+	name = "Michael Daerden"
 	desc = ""
-	picture = "Portrait_HOL_Amalia.dds"
-	ideology = progressivism
+	picture = "Portrait_WAL_Daerden.dds"
+	ideology = authoritarian_republic
 	traits = {
-		
 	}
 }

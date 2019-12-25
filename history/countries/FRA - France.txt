@@ -1,5 +1,4 @@
-capital = 7
-
+capital = 16
 oob = "SOV_1936"
 
 set_research_slots = 3
@@ -13,19 +12,17 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = right_populism
 	elections_allowed = no
 }
 set_popularities = {
-	socialism  = 100
+	right_populism  = 100
 }
 
 create_country_leader = {
-	name = "Catharina-Amalia I"
-	desc = ""
-	picture = "Portrait_HOL_Amalia.dds"
-	ideology = progressivism
-	traits = {
-		
-	}
+	name = "Marion Maréchal-Le Pen"
+	desc = "POLITICS_LIMONOV_DESC"
+	picture = "Portrait_FRA_Marion.dds"
+	ideology = authoritarian_republic
+	traits = {  }
 }
