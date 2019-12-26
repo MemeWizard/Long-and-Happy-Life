@@ -21,8 +21,8 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Bashar al-Assad"
-	picture = ".dds"
+	name = "Pope Peter III"
+	picture = "Joseph_Odermatt.dds"
 	expire = "1953.3.1"
 	ideology = absolute_monarchy
 	traits = {
