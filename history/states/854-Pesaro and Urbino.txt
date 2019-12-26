@@ -1,0 +1,22 @@
+state={
+	id=854
+	name="Pesaro and Urbino"
+	manpower = 1430700
+	
+	state_category = town
+
+	history={
+		owner = PSM
+		add_core_of = PSM
+		victory_points = {
+			11861 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		11861
+	}
+}

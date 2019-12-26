@@ -1,0 +1,22 @@
+state={
+	id=856
+	name="Molise"
+	manpower = 1430700
+	
+	state_category = town
+
+	history={
+		owner = LUM
+		add_core_of = LUM
+		victory_points = {
+			3923 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		963 3923 3966 6831
+	}
+}

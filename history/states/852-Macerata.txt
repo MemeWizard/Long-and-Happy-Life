@@ -1,0 +1,22 @@
+state={
+	id=852
+	name="Macerata"
+	manpower = 1430700
+	
+	state_category = town
+
+	history={
+		owner = PSL
+		add_core_of = PSL
+		victory_points = {
+			6926 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		6926 11790
+	}
+}
