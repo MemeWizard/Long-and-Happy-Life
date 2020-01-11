@@ -2,20 +2,22 @@
 state={
 	id=469
 	name="STATE_469"
-	manpower = 865605
-	
-	state_category = rural
 
 	history={
-		owner = CAN
+		owner = ATC
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
+
 		}
-		add_core_of = CAN
+		add_core_of = ATC
+
 	}
 
 	provinces={
-		736 1788 3481 3498 3769 4739 9669 10552 10611 10656 11440 12593 12603 12663 
+		736 3481 3498 4739 9669 10656 12593 12663 
 	}
+	manpower=865605
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

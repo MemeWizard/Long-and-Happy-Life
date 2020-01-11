@@ -1,0 +1,22 @@
+state={
+	id=859
+	name="Southern Manitoba"
+	manpower = 1430700
+	
+	state_category = town
+
+	history={
+		owner = BYC
+		add_core_of = BYC
+		victory_points = {
+			1848 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		1848 1873 3721 4790 12145
+	}
+}

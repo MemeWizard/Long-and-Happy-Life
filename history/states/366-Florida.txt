@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = USA
+		owner = PFS
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 3
@@ -25,7 +25,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = USA
+		add_core_of = PFS
 		victory_points = {
 			1843 5 
 		}
@@ -33,7 +33,7 @@ state={
 	}
 
 	provinces={
-		866 1556 1572 1584 1843 1913 9834 10352 10380 10407 10489 12353 12381 12439 12752 
+		1556 1572 1584 10352 10380 10407 12353 12381 12439 
 	}
 	
 }

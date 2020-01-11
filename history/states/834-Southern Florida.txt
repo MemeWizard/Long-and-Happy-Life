@@ -1,6 +1,6 @@
 state={
 	id=834
-	name="Tampa"
+	name="Southern Florida"
 	manpower = 385430
 	
 	state_category = city
@@ -14,6 +14,6 @@ state={
 	}
 
 	provinces={
-		7388
+		7388 866 12752 10489 1913 9834 1843
 	}
 }

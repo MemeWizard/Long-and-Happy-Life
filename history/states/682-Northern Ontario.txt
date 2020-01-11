@@ -10,13 +10,13 @@ state={
 	}
 
 	history={
-		owner = CAN
+		owner = ATC
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
 
 		}
-		add_core_of = CAN
+		add_core_of = ATC
 
 	}
 
