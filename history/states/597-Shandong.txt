@@ -7,6 +7,8 @@ state=
 	
 	
 	history={
+	    owner = WRC
+		add_core_of = WRC
 		victory_points = {
 			1069 3 
 		}

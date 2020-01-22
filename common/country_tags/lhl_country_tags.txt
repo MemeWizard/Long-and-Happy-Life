@@ -157,3 +157,6 @@ BYC = "countries/lhl_countries/Blue-Yellow Confederacy.txt"
 DBC = "countries/lhl_countries/Dominion of British Columbia.txt"
 ATC = "countries/lhl_countries/Atlantic Commonwealth.txt"
 PFS = "countries/lhl_countries/Property and Freedom Society.txt"
+NRC = "countries/lhl_countries/Nationalist Republic of China.txt
+WRC = "countries/lhl_countries/Welfare Republic of China.txt
+TIB = "countries/lhl_countries/Tibet.txt"
