@@ -13,10 +13,17 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = regressionism
+	ruling_party = ur_fascism
 	elections_allowed = no
 }
-
 set_popularities = {
-	regressionism  = 100
+	ur_fascism  = 100
+}
+
+create_country_leader = {
+	name = "Zhongjing Liu"
+	desc = "POLITICS_MCCAIN_DESC"
+	picture = "Zhongjing_Liu.dds"
+	ideology = ur_monarchism
+	traits = 
 }

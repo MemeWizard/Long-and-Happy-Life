@@ -1,4 +1,4 @@
-﻿capital = 609
+﻿capital = 524
 
 oob = "SOV_1936"
 
@@ -11,19 +11,19 @@ set_technology = {
 set_convoys = 5
 
 set_politics = {
-	ruling_party = national_bolshevism
+	ruling_party = right_populism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	national_bolshevism = 100
+	right_populism = 100
 }
 
 create_country_leader = {
-	name = "Xin De Yong"
-	picture = "Xin_De_Yong.dds"
+	name = "Chang An-Lo"
+	picture = "Chang_An-Lo.dds"
 	expire = "1960.1.1"
-	ideology = national_maoism
+	ideology = authoritarian_republic
 	traits = {
 }

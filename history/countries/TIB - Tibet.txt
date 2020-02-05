@@ -12,19 +12,19 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = right_populism
+	ruling_party = millenarism
 	elections_allowed = no
 }
 
 set_popularities = {
-	right_populism  = 100
+	millenarism  = 100
 }
 
 create_country_leader = {
-	name = "Saif al-Islam Gaddafi"
-	picture = ".dds"
+	name = "Victor Pelevin"
+	picture = "Pelevin.dds"
 	expire = "1953.3.1"
-	ideology = authoritarian_republic
+	ideology = ethical_millennialism
 	traits = {
 	}
 }
