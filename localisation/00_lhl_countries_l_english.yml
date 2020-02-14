@@ -364,6 +364,10 @@ EMI_neocameralism_DEF:0 "United Arab Emirates"
 ###INDIA###
 GUJ_millenarism:0 "Parsia"
 GUJ_millenarism_DEF:0 "Parsia"
+THA_right_populism:0 "Rattanakosin Kingdom"
+THA_right_populism_DEF:0 "Rattanakosin Kingdom"
+IND_right_populism:0 "India"
+IND_right_populism_DEF:0 "India"
 
 ###EAST AFRICA###
 OSO_ur_fascism:0 "Orthodox State of Amhara and Oromia"
