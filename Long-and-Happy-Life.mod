@@ -35,4 +35,4 @@ tags={
 	"Ideologies"
 	"Alternative History"
 }
-supported_version="1.7.1"
+supported_version="1.8.*"

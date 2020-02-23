@@ -250,6 +250,17 @@ SAF_millenarism:0 "Freistaat Südafrika"
 SAF_millenarism_DEF:0 "Freistaat Südafrika"
 MDG_left_authoritarianism:0 "Free China"
 MDG_left_authoritarianism_DEF:0 "Free China"
+ZIM_right_populism:0 "Zimbabwe"
+ZIM_right_populism_DEF:0 "Zimbabwe"
+ZAM_right_populism:0 "Zambia"
+ZAM_right_populism_DEF:0 "Zambia"
+MZB_right_populism:0 "Mozambique"
+MZB_right_populism_DEF:0 "Mozambique"
+MLW_right_populism:0 "Malawi"
+MLW_right_populism_DEF:0 "Malawi"
+ANG_right_populism:0 "Angola"
+ANG_right_populism_DEF:0 "Angola"
+
 
 ###SCANDINAVIA###
 SWE_ur_fascism:0 "Kingdom of Sweden"
@@ -364,10 +375,29 @@ EMI_neocameralism_DEF:0 "United Arab Emirates"
 ###INDIA###
 GUJ_millenarism:0 "Parsia"
 GUJ_millenarism_DEF:0 "Parsia"
-THA_right_populism:0 "Rattanakosin Kingdom"
-THA_right_populism_DEF:0 "Rattanakosin Kingdom"
-IND_right_populism:0 "India"
-IND_right_populism_DEF:0 "India"
+THA_commendationism:0 "Rattanakosin Kingdom"
+THA_commendationism_DEF:0 "Rattanakosin Kingdom"
+CMB_commendationism:0 "Kingdom of Cambodia"
+CMB_commendationism_DEF:0 "Kingdom of Cambodia"
+IND_left_authoritarianism:0 "Indo-Pak Confederation"
+IND_left_authoritarianism_DEF:0 "Indo-Pak Confederation"
+BUR_right_populism:0 "Union of Burma"
+BUR_right_populism_DEF:0 "Union of Burma"
+VIE_left_authoritarianism:0 "Socialist Republic of Vietnam"
+VIE_left_authoritarianism_DEF:0 "Socialist Republic of Vietnam"
+
+###INDOCHINA AND OKEANIA###
+INS_ur_fascism:0 "Melayu Raya"
+INS_ur_fascism_DEF:0 "Melayu Raya"
+PHI_right_populism:0 "Philippines"
+PHI_right_populism_DEF:0 "Philippines"
+PNG_right_populism:0 "Papua New Guinea"
+PNG_right_populism_DEF:0 "Papua New Guinea"
+AST_right_populism:0 "Australia"
+AST_right_populism_DEF:0 "Australia"
+NZL_right_populism:0 "New Zealand"
+NZL_right_populism_DEF:0 "New Zealand"
+
 
 ###EAST AFRICA###
 OSO_ur_fascism:0 "Orthodox State of Amhara and Oromia"
@@ -388,6 +418,8 @@ ICU_regressionism:0 "Islamic Courts Union"
 ICU_regressionism_DEF:0 "Islamic Courts Union"
 ASB_millenarism:0 "Al-Shabaab"
 ASB_millenarism_DEF:0 "Al-Shabaab"
+EAF_socialism:0 "East African Federation"
+EAF_socialism_DEF:0 "East African Federation"
 
 ###Western Europe###
 FRA_right_populism:0 "Nationalist France"
@@ -432,5 +464,21 @@ WRC_national_bolshevism:0 "Welfare Republic of China"
 WRC_national_bolshevism_DEF:0 "Welfare Republic of China"
 TIB_millenarism:0 "Tibet"
 TIB_millenarism_DEF:0 "Tibet"
+
+###SOUTH AMERICA###
+BRA_ur_fascism:0 "Brazil"
+BRA_ur_fascism_DEF:0 "Brazil"
+PBC_ur_fascism:0 "Peru-Bolivian Confederation"
+PBC_ur_fascism_DEF:0 "Peru–Bolivian Confederation"
+CHL_millenarism:0 "Chile"
+CHL_millenarism_DEF:0 "Chile"
+MEC_left_authoritarianism:0 "Movimiento Etnocacerista"
+MEC_left_authoritarianism_DEF:0 "Movimiento Etnocacerista"
+ARG_left_authoritarianism:0 "Argentina"
+ARG_left_authoritarianism_DEF:0 "Argentina"
+PAR_ur_fascism:0 "Paraguay"
+PAR_ur_fascism_DEF:0 "Paraguay"
+
+
 
 POLITICS_MEDVEDEV_DESC:0 "§WHe was already at the helm.\n\nOne term was enough for the higher-level, distraught with horror, to return the decrepit Letov and to hand him the powers of a dictator, pumping him with botox, panicking.\n\nWhen he brought troops into Georgia, in his eyes there was nothing but a thirst for conquest, similar to the thirst of a combat blade falling upon the heads of enemies, without being at a loss even for a second.\n\nThis is a man who renamed the «militia» into the police, ignoring the genetic memory of the people about the fascist Polizei. And the people stayed in silence, because they knew that He shouldn’t be angered.\n\nHe made it clear that he didn’t give a damn even for time. He shortened time zones, hinting that if He wanted to, there would be only one time zone left and everyone would live in it.\n\nRepent, repent, those who shout «Letov, go away!» Because it is very easy for him to leave. After all, Letov is trying harder and harder every day to restrain what is breaking out into the light of day.\n\nAnd then all these marches will turn into rivers of blood.§!"

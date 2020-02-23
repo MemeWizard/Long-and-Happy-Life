@@ -1,0 +1,30 @@
+capital = 487
+oob = "SOV_1936"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+set_convoys = 50
+
+set_politics = {
+	ruling_party = ur_fascism
+	elections_allowed = no
+}
+
+set_popularities = {
+	ur_fascism  = 100
+}
+
+create_country_leader = {
+	name = "Saif al-Arab Gaddafi"
+	picture = "Saif_al_Arabi.dds"
+	expire = "1953.3.1"
+	ideology = clerical_fascism
+	traits = {
+	}
+}
