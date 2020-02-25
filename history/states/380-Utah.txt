@@ -10,12 +10,12 @@ state= {
 	}
 
 	history={
-		owner = USA
+		owner = TSE
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 		}
-		add_core_of = USA
+		add_core_of = TSE
 		victory_points = {
 			4865 1 
 		}

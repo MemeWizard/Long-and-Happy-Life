@@ -10,12 +10,12 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = CCL
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
 		}
-		add_core_of = USA
+		add_core_of = CCL
 		victory_points = {
 			1866 5 
 		}

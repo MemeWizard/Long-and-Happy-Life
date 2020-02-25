@@ -1,0 +1,22 @@
+state={
+	id=862
+	name="Panhandle Plains"
+	manpower = 1430700
+	
+	state_category = town
+
+	history={
+		owner = KOA
+		add_core_of = KOA
+		victory_points = {
+			1915 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		1915 1998 2055 3875 3972 5085 8064 9773 9908 12301 12848 12875 12893
+	}
+}
