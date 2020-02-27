@@ -1,4 +1,5 @@
 name="Long and Happy Life"
+path="mod/Long-and-Happy-Life"
 user_dir="Long-and-Happy-Life"
 replace_path="common/ai_equipment"
 replace_path="common/ai_focuses"
