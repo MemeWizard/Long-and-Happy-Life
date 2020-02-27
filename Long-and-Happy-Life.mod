@@ -1,5 +1,4 @@
 name="Long and Happy Life"
-path="mod/Long-and-Happy-Life"
 user_dir="Long-and-Happy-Life"
 replace_path="common/ai_equipment"
 replace_path="common/ai_focuses"
@@ -35,4 +34,4 @@ tags={
 	"Ideologies"
 	"Alternative History"
 }
-supported_version="1.8.*"
+supported_version="1.9.*"
