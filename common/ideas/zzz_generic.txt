@@ -453,7 +453,7 @@ ideas = {
 	
 			modifier = {
 				conscription = 0.05
-				enemy_partisan_effect = -0.1
+				resistance_damage_to_garrison = -0.1 
 			}
 		}
 	
@@ -732,7 +732,6 @@ ideas = {
 				# fascism_drift = -0.05
 			# }
 		# }
-
 
 		race_for_the_bomb = {
 			
@@ -1020,8 +1019,8 @@ ideas = {
 			picture = chi_war_of_resistance3
 			
 			modifier = {
-				resistance_tick_in_states_controlled_by_enemy = 0.01
-				partisan_effect = 0.25
+				resistance_growth_on_our_occupied_states = 0.1 
+				resistance_damage_to_garrison_on_our_occupied_states = 0.25 
 			}
 		}	
 		MTG_naval_treaty_adherent = {
@@ -1259,27 +1258,6 @@ ideas = {
 				}
 
 				# Long_and_Happy_Life
-				# NOT = {
-					# AND = {
-						# OR = { tag = AST tag = SAF tag = NZL tag = CAN }
-						# has_dlc = "Together for Victory"
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = {
-							# is_literally_china = yes
-							# tag = MAN
-						# }
-						# has_dlc = "Waking the Tiger"
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = MEX }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
 
 			}
 			
@@ -1312,24 +1290,6 @@ ideas = {
 				}
 
 				# Long_and_Happy_Life
-				# NOT = {
-					# AND = {
-						# OR = { tag = AST tag = CAN tag = NZL tag = RAJ }
-						# has_dlc = "Together for Victory"
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = CHI tag = PRC tag = MAN tag = SHX tag = XSM tag = GXC tag = YUN tag = SIK tag = MEN }
-						# has_dlc = "Waking the Tiger"
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = MEX tag = HOL }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
 
 			}
 			
@@ -1362,24 +1322,6 @@ ideas = {
 				}
 
 				# Long_and_Happy_Life
-				# if = {
-					# limit = {
-						# has_dlc = "Death or Dishonor"
-					# }
-					# NOT = { tag = ROM } NOT = { tag = YUG }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = CHI tag = PRC tag = MAN tag = SHX tag = XSM tag = GXC tag = YUN tag = SIK tag = MEN }
-						# has_dlc = "Waking the Tiger"
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = MEX tag = HOL }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
 
 			}
 			
@@ -1407,24 +1349,6 @@ ideas = {
 				}
 
 				# Long_and_Happy_Life
-				# if = {
-					# limit = {
-						# has_dlc = "Death or Dishonor"
-					# }
-					# NOT = { tag = YUG }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = CHI tag = PRC tag = MAN tag = SHX tag = XSM tag = GXC tag = YUN tag = SIK tag = MEN }
-						# has_dlc = "Waking the Tiger"
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = MEX tag = HOL }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
 
 			}
 			
@@ -1452,24 +1376,6 @@ ideas = {
 				}
 
 				# Long_and_Happy_Life
-				# if = {
-					# limit = {
-						# has_dlc = "Death or Dishonor"
-					# }
-					# NOT = { tag = YUG }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = CHI tag = PRC tag = MAN tag = SHX tag = XSM tag = GXC tag = YUN tag = SIK tag = MEN }
-						
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = MEX tag = HOL }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
 
 			}
 			
@@ -1496,20 +1402,7 @@ ideas = {
 					has_available_idea_with_traits = { idea = naval_aircraft_manufacturer limit = 1 }
 				}
 
-				# if = {
-					# limit = {
-						# has_dlc = "Waking the Tiger"
-					# }
-					# NOT = {
-						# OR = { tag = CHI tag = PRC tag = MAN tag = SHX tag = XSM tag = GXC tag = YUN tag = SIK tag = MEN }
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = MEX tag = HOL }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
+				# Long_and_Happy_Life
 
 			}
 			
@@ -1540,18 +1433,6 @@ ideas = {
 				}
 
 				# Long_and_Happy_Life
-				# NOT = {
-					# AND = {
-						# OR = { tag = CHI tag = PRC tag = MAN tag = SHX tag = XSM tag = GXC tag = YUN tag = SIK tag = MEN }
-						# has_dlc = "Waking the Tiger"
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = MEX tag = HOL }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
 
 			}
 			
@@ -1579,21 +1460,6 @@ ideas = {
 				}
 
 				# Long_and_Happy_Life
-				# NOT = {
-					# AND = {
-						# has_DLC = "Waking the Tiger"
-						# OR = {
-							# original_tag = MAN
-							# is_literally_china = yes
-						# }
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = HOL tag = MEX }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
 
 			}
 			
@@ -1626,18 +1492,6 @@ ideas = {
 				}
 
 				# Long_and_Happy_Life
-				# NOT = {
-					# AND = {
-						# OR = { tag = CHI tag = PRC tag = MAN tag = SHX tag = XSM tag = GXC tag = YUN tag = SIK tag = MEN }
-						# has_dlc = "Waking the Tiger"
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = HOL }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
 
 			}
 			
@@ -1665,18 +1519,6 @@ ideas = {
 				}
 
 				# Long_and_Happy_Life
-				# NOT = {
-					# AND = {
-						# OR = { tag = CHI tag = PRC tag = MAN tag = SHX tag = XSM tag = GXC tag = YUN tag = SIK tag = MEN }
-						# has_dlc = "Waking the Tiger"
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = HOL }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
 
 			}
 			
@@ -1704,18 +1546,6 @@ ideas = {
 				}
 
 				# Long_and_Happy_Life
-				# NOT = {
-					# AND = {
-						# OR = { tag = CHI tag = PRC tag = MAN tag = SHX tag = XSM tag = GXC tag = YUN tag = SIK tag = MEN }
-						# has_dlc = "Waking the Tiger"
-					# }
-				# }
-				# NOT = {
-					# AND = {
-						# OR = { tag = HOL }
-						# has_dlc = "Man the Guns"
-					# }
-				# }
 
 			}
 			
