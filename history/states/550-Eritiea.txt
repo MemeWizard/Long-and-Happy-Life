@@ -6,8 +6,7 @@ state=
 	
 	state_category = rural
 	
-	history=
-	{
+	history={
 		owner = AKS
 		add_core_of = AKS
 		victory_points = {
