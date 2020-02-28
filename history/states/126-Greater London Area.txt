@@ -1,10 +1,12 @@
-
 state={
 	id=126
 	name="STATE_126"
+	manpower=9824296
+	
+	state_category = megalopolis
 
 	history={
-		owner = ESS
+		owner = ENG
 		victory_points = {
 			6103 50 
 		}
@@ -18,26 +20,18 @@ state={
 			air_base = 10
 			11374 = {
 				naval_base = 10
-
 			}
-
 		}
-		add_core_of = ESS
+		add_core_of = ENG
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 4
 				industrial_complex = 4
-
 			}
-
 		}
-
 	}
 
 	provinces={
-		6103 11333 11374 
+		6103 9239 11333 11374 
 	}
-	manpower=9824296
-	buildings_max_level_factor=1.000
-	state_category=megalopolis
 }

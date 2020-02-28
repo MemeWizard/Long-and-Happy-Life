@@ -6,7 +6,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = PAD
+		owner = ITA
 		victory_points = {
 			3780 15 
 		}
@@ -17,7 +17,7 @@ state={
 			air_base = 10
 
 		}
-		add_core_of = PAD
+		add_core_of = ITA
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 7

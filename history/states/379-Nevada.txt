@@ -13,11 +13,11 @@ state={
 	}
 
 	history={
-		owner = ARI
+		owner = USA
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = ARI
+		add_core_of = USA
 	}
 
 	provinces={

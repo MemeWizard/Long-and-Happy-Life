@@ -6,7 +6,7 @@ state=
 	
 	state_category = enclave
 	history={
-		owner = GRE
+		owner = ENG
 		victory_points = { 4135 10 }
 		buildings = {
 			infrastructure = 6
@@ -16,7 +16,7 @@ state=
 				coastal_bunker = 2
 			}
 		}
-		add_claim_by = GRE
+		add_claim_by = SPR
 	}
 	provinces={
 		4135

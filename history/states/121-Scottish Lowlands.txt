@@ -1,17 +1,16 @@
 
 state={
 	id=121
-	name="STATE_121"
+	name="STATE_121" # Lothian
+	manpower = 1431624
+	
+	state_category = city
 
 	history={
 		add_core_of = SCO
-		owner = NTH
-		victory_points = {
-			9392 10 
-		}
-		victory_points = {
-			6300 1 
-		}
+		owner = ENG
+		victory_points = { 9392 10 }
+		victory_points = { 6300 1 }
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 1
@@ -19,18 +18,12 @@ state={
 			air_base = 3
 			6300 = {
 				naval_base = 5
-
 			}
-
 		}
-		add_core_of = NTH
-
+		add_core_of = ENG
 	}
 
 	provinces={
-		9314 9392 11378 
+		159 6300 9314 9383 9392 11378 
 	}
-	manpower=1431624
-	buildings_max_level_factor=1.000
-	state_category=city
 }

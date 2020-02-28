@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = AND
+		owner = SPR
 		victory_points = {
 			6902 1
 		}
@@ -22,7 +22,7 @@ state={
 			infrastructure = 5
 			industrial_complex = 1
 		}
-		add_core_of = AND
+		add_core_of = SPR
 	}
 
 	provinces={

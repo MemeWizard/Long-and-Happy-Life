@@ -2,18 +2,22 @@
 state={
 	id=373
 	name="STATE_373"
+	manpower = 3629365
+	
+	state_category = large_city
+	
 	resources={
-		aluminium=12.000
+		aluminium=12 # was: 18
 	}
 
+
 	history={
-		owner = MBP
+		owner = USA
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 5
-
 		}
-		add_core_of = MBP
+		add_core_of = USA
 		victory_points = {
 			4569 10 
 		}
@@ -27,9 +31,6 @@ state={
 	}
 
 	provinces={
-		1441 1523 1534 1564 1621 4449 4540 4569 4625 7586 7607 7831 10370 10391 10717 12305 12346 12361 12463 
+		1441 1523 1534 1564 1621 4449 4540 4569 7449 7607 10333 10370 10391 10516 10717 12346 12361 12463 
 	}
-	manpower=3629365
-	buildings_max_level_factor=1.000
-	state_category=large_city
 }

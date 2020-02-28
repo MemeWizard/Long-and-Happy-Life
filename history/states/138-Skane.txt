@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = SDE
+		owner = SWE
 		victory_points = {
 			9279 5 
 		}
@@ -27,7 +27,7 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = SDE
+		add_core_of = SWE
 	}
 
 	provinces={

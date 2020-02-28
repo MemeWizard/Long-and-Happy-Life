@@ -8,7 +8,7 @@ state=
 	
 	history=
 	{
-		owner = GRE
+		owner = ITA
 		victory_points = {
 			10007 1 
 		}

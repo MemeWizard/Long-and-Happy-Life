@@ -1,35 +1,33 @@
+
 state={
 	id=129
 	name="STATE_129"
+	manpower = 2212021
+	
+	state_category = city
+	
 	resources={
-		steel=11.000
+		steel=11 # was: 20
 	}
 
 	history={
-		owner = MRC
+		owner = ENG
 		buildings = {
 			infrastructure = 8
 			arms_factory = 2
 			industrial_complex = 1
 			air_base = 5
-
 		}
-		add_core_of = MRC
+		add_core_of = ENG
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 3
 				industrial_complex = 2
-
 			}
-
 		}
-
 	}
 
 	provinces={
-		296 364 3353 6237 9250 9239 9268 9315 9322 11221 11279 11382 
+		364 3353 6237 9250 9268 9322 11279 
 	}
-	manpower=2212021
-	buildings_max_level_factor=1.000
-	state_category=city
 }
