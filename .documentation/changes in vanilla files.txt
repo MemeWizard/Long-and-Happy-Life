@@ -1,6 +1,6 @@
 common\country_leader\00_traits.txt
 
-common\country_tags\00_countries.txt
+# common\country_tags\00_countries.txt
 
 common\game_rules\00_game_rules.txt
 
@@ -14,7 +14,7 @@ common\scripted_triggers\00_scripted_triggers.txt
 
 common\units\names\00_names.txt
 
-common\achievements.txt
+# common\achievements.txt
 
 interface\frontendmainviewbg.gfx
 interface\countrypoliticsview.gui
