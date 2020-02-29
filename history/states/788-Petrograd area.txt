@@ -8,9 +8,7 @@ state = {
 	history = {
 		owner = NSU
 		add_core_of = NSU
-
 		victory_points = { 3151 30 }
-
 		buildings = {
 			3151 ={
 				naval_base = 10

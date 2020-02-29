@@ -10,8 +10,7 @@ state=
 		steel=5 # was: 8
 	}
 
-	history=
-	{
+	history={
 		owner = LUX
 		buildings = {
 			infrastructure = 6

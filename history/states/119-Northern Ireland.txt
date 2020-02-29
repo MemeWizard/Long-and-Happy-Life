@@ -18,9 +18,9 @@ state={
 				naval_base = 4
 			}
 		}
-		add_core_of = ENG
-		add_core_of = IRE
-		add_core_of = NIR
+		add_core_of = 
+		add_core_of = 
+		add_core_of = 
 	}
 
 	provinces={
