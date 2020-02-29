@@ -9,7 +9,9 @@ state={
 	history = {
 		owner = SRS
 		add_core_of = SRS
+
 		victory_points = { 9660 20 }
+
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1

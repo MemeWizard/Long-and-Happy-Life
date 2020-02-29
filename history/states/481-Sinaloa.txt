@@ -7,7 +7,7 @@ state={
 	state_category = rural
 	
 	history={
-		owner = 
+		owner = MEX
 		buildings = {
 			infrastructure = 3
 			dockyard = 1
@@ -15,7 +15,7 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = 
+		add_core_of = MEX
 		victory_points = {
 			7921 10
 		}

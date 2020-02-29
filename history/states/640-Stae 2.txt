@@ -7,8 +7,8 @@ state={
 	state_category = town
 
 	history={
+		add_core_of = BUR
 		owner = BUR
-                add_core_of = BUR
 		buildings = {
 			infrastructure = 3
 			air_base = 1
