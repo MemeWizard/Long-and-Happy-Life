@@ -9,7 +9,9 @@ state={
 	history={
 		owner = TOM
 		add_core_of = TOM
+
 		victory_points = { 7789 10 }
+
 		buildings = {
 			infrastructure = 3
 		}

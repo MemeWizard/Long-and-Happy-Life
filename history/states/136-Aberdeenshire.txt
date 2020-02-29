@@ -8,14 +8,14 @@ state={
 	}
 
 	history={
-		add_core_of = 
-		owner = 
+		add_core_of = SCO
+		owner = ENG
 		buildings = {
 			infrastructure = 6
 			dockyard = 2
 
 		}
-		add_core_of = 
+		add_core_of = ENG
 
 	}
 
