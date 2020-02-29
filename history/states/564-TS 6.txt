@@ -12,7 +12,6 @@ state={
 	history={
 		owner = GOR
 		add_core_of = GOR
-
 		buildings = {
 			infrastructure = 4
 		}

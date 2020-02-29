@@ -4,8 +4,8 @@ state={
 	name="STATE_584"
 
 	history={
-		add_core_of = TMS
 		owner = TMS
+                add_core_of = TMS
 		victory_points = {
 			12333 1 
 		}

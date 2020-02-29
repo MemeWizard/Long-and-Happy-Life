@@ -6,7 +6,7 @@ state=
 	
 	state_category = large_town
 	history={
-	    owner = DRC
+	        owner = DRC
 		add_core_of = DRC
 		buildings = {
 			infrastructure = 5

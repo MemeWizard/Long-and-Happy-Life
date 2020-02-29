@@ -9,7 +9,6 @@ state={
 	history={
 		owner = ACH
 		add_core_of = ACH
-
 		victory_points = {
 			9417 15 
 		}
