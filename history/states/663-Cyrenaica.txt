@@ -6,12 +6,11 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = UAS
+		owner = ITA
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = UAS
-		add_core_of = MUG
+		add_core_of = LBA
 	}
 
 	provinces={
