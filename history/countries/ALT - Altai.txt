@@ -1,4 +1,5 @@
-capital = 162
+capital = 40
+
 oob = "SOV_1936"
 
 set_research_slots = 3
@@ -12,19 +13,19 @@ set_technology = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = right_populism
+	ruling_party = regressionism
 	elections_allowed = no
 }
-
 set_popularities = {
-	right_populism = 100
+	regressionism  = 100
 }
 
 create_country_leader = {
-	name = "Umberto Bossi"
-	picture = "Umberto_Bossi.dds"
-	expire = "1953.3.1"
-	ideology = authoritarian_republic
+	name = "Sylwan"
+	desc = ""
+	picture = "Portrait_ALT_Olds_Here.dds"
+	ideology = neoluddism
 	traits = {
+		
 	}
 }
