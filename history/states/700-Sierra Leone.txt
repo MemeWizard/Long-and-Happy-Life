@@ -7,8 +7,8 @@ state={
 	
 	history=
 	{
-		owner = USA
-		add_core_of = USA
+		owner = ENG
+		add_core_of = SIE
 		victory_points = {
 			2038 1 
 		}

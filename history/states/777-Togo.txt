@@ -3,8 +3,8 @@ state={
 	name="STATE_777"
 
 	history={
-		owner = USA
-		add_core_of = USA
+		owner = FRA
+		add_core_of = TOG
 		victory_points = {
 			1951 1
 		}
