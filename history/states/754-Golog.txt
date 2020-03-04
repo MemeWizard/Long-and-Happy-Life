@@ -8,8 +8,6 @@ state={
 	buildings_max_level_factor=1.000
 	state_category = rural
 	history={
-	    owner = NRC
-            add_core_of = NRC
 		victory_points = {
 			12732 3 
 		}
