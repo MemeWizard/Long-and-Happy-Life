@@ -13,7 +13,7 @@ state={
 	}
 
 	history={
-		owner = IND
+		owner = RAJ
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
