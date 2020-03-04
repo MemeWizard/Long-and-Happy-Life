@@ -5,8 +5,9 @@ state={
 		1010 4141 4325 4431 9939 10763 11972 
 	}
 	history={
-		owner = NRC
-		add_core_of = NRC
+		owner = CHI
+		add_core_of = CHI
+		add_core_of = PRC
 		buildings = {
 			infrastructure = 2
 
