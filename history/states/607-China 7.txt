@@ -9,8 +9,9 @@ state={
 	buildings_max_level_factor=1.000
 
 	history={
-		owner = WRC
-		add_core_of = WRC
+		owner = CHI
+		add_core_of = CHI
+		add_core_of = PRC
 		buildings = {
 			industrial_complex = 4
 			infrastructure = 8
