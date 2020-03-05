@@ -9,7 +9,7 @@ state={
 	history={
 		owner = CAT
 		victory_points = {
-			9764 15
+			9764 30
 		}
 		victory_points = {
 			6966 1
