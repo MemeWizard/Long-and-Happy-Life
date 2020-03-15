@@ -112,6 +112,8 @@ TRG_neocameralism:0 "Kingdom of Torgu"
 TRG_neocameralism_DEF:0 "Kingdom of Torgu"
 FIN_regressionism:0 "Finnish state"
 FIN_regressionism_DEF:0 "Finnish state"
+PPR_left_authoritarianism:0 "Polish People's Republic"
+PPR_left_authoritarianism_DEF:0 "Polish People's Republic"
 
 ###Fractions###
 eurasian_armed_forces:0 "Eurasian Armed Forces"
