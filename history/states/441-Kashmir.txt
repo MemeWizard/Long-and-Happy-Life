@@ -2,21 +2,20 @@
 state={
 	id=441
 	name="STATE_441"
+	manpower = 2123700
+	
+	state_category = rural
 
 	history={
 		owner = IND
 		buildings = {
 			infrastructure = 2
-
 		}
 		add_core_of = IND
-
+		add_claim_by = PAK
 	}
 
 	provinces={
-		5042 7273 7316 8005 10905 12884 
+		5042 7273 8005 12884 
 	}
-	manpower=2123700
-	buildings_max_level_factor=1.000
-	state_category=rural
 }
