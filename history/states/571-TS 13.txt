@@ -8,8 +8,10 @@ state={
 	history={
 		owner = RNG
 		buildings = {
-			infrastructure = 4
-			arms_factory = 1
+			infrastructure = 6
+			industrial_complex = 25
+			anti_air_building = 2
+			air_base = 6
 		}
 		victory_points = {
 			10696 15 

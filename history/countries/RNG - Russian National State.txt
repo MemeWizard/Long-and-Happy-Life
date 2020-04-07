@@ -31,3 +31,16 @@ create_country_leader = {
 	traits = { icehaired }
 }
 
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Marija Butina"
+		GFX = GFX_portrait_marija_butina
+		traits = { operative_seducer }
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { RNG }
+	}
+}

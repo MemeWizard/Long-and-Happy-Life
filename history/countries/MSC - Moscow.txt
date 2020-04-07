@@ -63,3 +63,17 @@ create_country_leader = {
 	expire = "1953.3.1"
 	ideology = nazbol_gang 
 }
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Anna Chapman"
+		GFX = GFX_portrait_anna_chapman
+		traits = { operative_seducer operative_linguist }
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { MSC }
+	}
+}

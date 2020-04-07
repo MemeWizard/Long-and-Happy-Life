@@ -1,0 +1,23 @@
+ideas = {
+
+	political_advisor = {
+
+		MSC_reshetnikov = {
+			
+			picture = reshetnikov
+			
+			allowed = {
+				original_tag = MSC
+			}
+			
+			traits = { head_of_intelligence }
+
+			do_effect = {
+			}
+			
+			ai_will_do = {
+				factor = 0
+			}
+		}
+    }
+}

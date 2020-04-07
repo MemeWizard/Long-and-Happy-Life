@@ -9,14 +9,14 @@ state = {
 		owner = NSU
 		add_core_of = NSU
 
-		victory_points = { 3151 30 }
-
 		buildings = {
-			3151 ={
-				naval_base = 10
-				coastal_bunker = 5
-			}
+			infrastructure = 6
+			industrial_complex = 10
+			anti_air_building = 2
+			air_base = 6
 		}
+		
+		victory_points = { 3151 30 }
 	}
 
 	provinces = { 3151 }

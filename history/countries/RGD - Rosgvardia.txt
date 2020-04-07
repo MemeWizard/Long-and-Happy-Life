@@ -32,3 +32,25 @@ create_country_leader = {
 	traits = { possessed
 	}
 }
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Ruslan Boshirov"
+		GFX = GFX_portrait_ruslan_boshirov
+		traits = { operative_tough }
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { RGD }
+	}	
+	create_operative_leader = {
+		name = "Alexander Petrov"
+		GFX = GFX_portrait_alexander_petrov
+		traits = { operative_tough }
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { RGD }
+	}
+}

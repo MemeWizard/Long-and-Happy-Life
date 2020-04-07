@@ -45,5 +45,9 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_rybnikov.dds"
 	}
 	
+	spriteType = {
+		name = "GFX_idea_reshetnikov"
+		texturefile = "gfx/interface/ideas/idea_reshetnikov.dds"
+	}	
 }
 

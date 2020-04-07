@@ -1,0 +1,19 @@
+spriteTypes = {
+
+	SpriteType = {
+		name = "GFX_portrait_alexander_petrov"
+		texturefile = "gfx/leaders/RGD/portrait_rgd_alexander_petrov.dds"
+	}
+	SpriteType = {
+		name = "GFX_portrait_ruslan_boshirov"
+		texturefile = "gfx/leaders/RGD/portrait_rgd_ruslan_boshirov.dds"
+	}
+	SpriteType = {
+		name = "GFX_portrait_marija_butina"
+		texturefile = "gfx/leaders/RNG/portrait_rng_marija_butina.dds"
+	}		
+	SpriteType = {
+		name = "GFX_portrait_anna_chapman"
+		texturefile = "gfx/leaders/MSC/portrait_mcs_anna_chapman.dds"
+	}	
+}	
