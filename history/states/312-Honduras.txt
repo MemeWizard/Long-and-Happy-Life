@@ -10,7 +10,7 @@ state=
 	state_category = town
 	history=
 	{
-		owner = HON
+		owner = UFC
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
@@ -23,7 +23,7 @@ state=
 				naval_base = 1
 			}
 		}
-		add_core_of = HON
+		add_core_of = UFC
 		victory_points = {
 			12865 3 
 		}

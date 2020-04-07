@@ -11,6 +11,8 @@ state={
 	
 
 	history={
+                owner = UFC
+                add_core_of = UFC
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1

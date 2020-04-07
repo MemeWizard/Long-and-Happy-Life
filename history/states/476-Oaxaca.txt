@@ -11,7 +11,7 @@ state={
 	}
 	
 	history={
-		owner = MEX
+		owner = ZAP
 		buildings = {
 			infrastructure = 3
 			air_base = 2
@@ -19,7 +19,7 @@ state={
 				naval_base = 2
 			}
 		}
-		add_core_of = MEX
+		add_core_of = ZAP
 		victory_points = {
 			10889 1
 		}
