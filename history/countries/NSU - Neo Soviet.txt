@@ -1,12 +1,11 @@
 ﻿capital = 788
 
-oob = "NEO_2019"
-
+oob = "NSU_2020"
 
 set_research_slots = 3
-set_stability = 0.5
-set_war_support = 0.8
-# Starting tech
+set_stability = 0.1
+set_war_support = 0.1
+
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1
@@ -14,13 +13,28 @@ set_technology = {
 
 set_convoys = 50
 
+add_ideas = {
+	limited_exports
+	limited_conscription
+	partial_economic_mobilisation
+
+	russian_civl_war_disaster
+	extraordinary_commission
+	NSU_famine
+}
+
 set_politics = {
 	ruling_party = commendationism 
-	last_election = "1933.7.1"
 	elections_allowed = no
 }
+
 set_popularities = {
-	commendationism  = 100
+	commendationism = 35
+    left_authoritarianism = 15
+    socialism = 19
+    national_bolshevism = 6
+    neocameralism = 5
+    hegemonism = 20
 }
 
 create_country_leader = {
@@ -28,7 +42,5 @@ create_country_leader = {
 	desc = "POLITICS_PUCHKOV_DESC"
 	picture = "Portrait_NSU_Dmitrij_Puchkov.dds"
 	ideology = ultrahegelianism
-	traits = {
-		
-	}
+	traits = {	lead_investigator  }
 }

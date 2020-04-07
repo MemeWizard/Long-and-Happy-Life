@@ -1,0 +1,78 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_RST_stateoraculs"
+		texturefile = "gfx/interface/goals/RST/goal_RST_stateoraculs.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_theocracy"
+		texturefile = "gfx/interface/goals/RST/goal_RST_theocracy.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_oldgods"
+		texturefile = "gfx/interface/goals/RST/goal_RST_oldgods.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_rasenna"
+		texturefile = "gfx/interface/goals/RST/goal_RST_rasenna.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_antichristianlaw"
+		texturefile = "gfx/interface/goals/RST/goal_RST_antichristianlaw.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_greatmother"
+		texturefile = "gfx/interface/goals/RST/goal_RST_greatmother.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_purityfaith"
+		texturefile = "gfx/interface/goals/RST/goal_RST_purityfaith.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_chasseurs"
+		texturefile = "gfx/interface/goals/RST/goal_RST_chasseurs.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_internalpurges"
+		texturefile = "gfx/interface/goals/RST/goal_RST_internalpurges.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_raciallaw"
+		texturefile = "gfx/interface/goals/RST/goal_RST_raciallaw.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_campsoflabor"
+		texturefile = "gfx/interface/goals/RST/goal_RST_campsoflabor.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_paleorus"
+		texturefile = "gfx/interface/goals/RST/goal_RST_paleorus.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_bloodpurity"
+		texturefile = "gfx/interface/goals/RST/goal_RST_bloodpurity.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_russiangenomr"
+		texturefile = "gfx/interface/goals/RST/goal_RST_russiangenomr.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_megalitic"
+		texturefile = "gfx/interface/goals/RST/goal_RST_megalitic.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_whitenational"
+		texturefile = "gfx/interface/goals/RST/goal_RST_whitenational.dds"
+	}
+			SpriteType = {
+		name = "GFX_RST_deusexmachina"
+		texturefile = "gfx/interface/goals/RST/goal_RST_deusexmachina.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_angelic_language"
+		texturefile = "gfx/interface/goals/RST/goal_RST_angelic_language.dds"
+	}
+		SpriteType = {
+		name = "GFX_RST_cyberneticmysteries"
+		texturefile = "gfx/interface/goals/RST/goal_RST_cyberneticmysteries.dds"
+	}
+}

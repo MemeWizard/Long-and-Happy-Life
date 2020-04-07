@@ -1,0 +1,1292 @@
+focus_tree = {
+	id = RST
+	
+	default = no
+
+	continuous_focus_position = { x = 20 y = 1500 }
+	
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = RST
+		}
+	}
+	default = no
+	focus = {
+		id = parev
+		icon = GFX_goal_unknown
+		cost = 10
+		x = 9
+		y = 0
+
+	}
+	focus = {
+		id = protecthistory
+		icon = GFX_goal_unknown
+		cost = 10
+		x = 2
+		y = 7
+
+	}
+	focus = {
+		id = jihad
+		icon = GFX_goal_unknown
+		cost = 10
+		x = 18
+		y = 0
+
+	}
+	focus = {
+		id = magnumopus
+		icon = GFX_goal_unknown
+		cost = 10
+		x = 39
+		y = 0
+
+	}
+	focus = {
+		id = RST_cyberneticmysteries
+		icon = GFX_RST_cyberneticmysteries
+		cost = 10
+		x = 24
+		y = 7
+
+	}
+	focus = {
+		id = deathtonazis
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = parev
+		}
+		x = 7
+		y = 1
+
+	}
+	focus = {
+		id = supressgvars
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = deathtonazis
+		}
+		x = 6
+		y = 2
+
+	}
+	focus = {
+		id = peopless_druzhina
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = supressgvars
+		}
+		x = 6
+		y = 3
+
+	}
+	focus = {
+		id = huntforoff
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = deathtonazis
+		}
+		x = 8
+		y = 2
+
+	}
+	focus = {
+		id = patstate
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = parev
+		}
+		x = 11
+		y = 1
+
+	}
+	focus = {
+		id = meanproduction
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = patstate
+		}
+		x = 10
+		y = 2
+
+	}
+	focus = {
+		id = proldict
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = meanproduction
+		}
+		prerequisite = {
+			focus = huntforoff
+		}
+		x = 9
+		y = 3
+
+	}
+	focus = {
+		id = refuges
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = patstate
+		}
+		x = 12
+		y = 2
+
+	}
+	focus = {
+		id = riverdemand
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = refuges
+		}
+		x = 12
+		y = 3
+
+	}
+	focus = {
+		id = breakthrough
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = jihad
+		}
+		x = 18
+		y = 1
+
+	}
+	focus = {
+		id = iconoclasts
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = breakthrough
+		}
+		x = 16
+		y = 2
+
+	}
+	focus = {
+		id = ural
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = iconoclasts
+		}
+		x = 16
+		y = 3
+
+	}
+	focus = {
+		id = ukraina
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = breakthrough
+		}
+		x = 18
+		y = 2
+
+	}
+	focus = {
+		id = impostor
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = ukraina
+		}
+		x = 18
+		y = 3
+
+	}
+	focus = {
+		id = lordofgallow
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = impostor
+		}
+		x = 18
+		y = 4
+
+	}
+	focus = {
+		id = madlord
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = breakthrough
+		}
+		x = 20
+		y = 2
+
+	}
+	focus = {
+		id = straits
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = madlord
+		}
+		x = 20
+		y = 3
+
+	}
+	focus = {
+		id = instaremergence
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = magnumopus
+		}
+		x = 26
+		y = 1
+
+	}
+	focus = {
+		id = transformation
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = instaremergence
+		}
+		x = 24
+		y = 2
+
+	}
+	focus = {
+		id = RST_deusexmachina
+		icon = GFX_RST_deusexmachina
+		cost = 10
+		prerequisite = {
+			focus = transformation
+		}
+		x = 23
+		y = 3
+
+	}
+	focus = {
+		id = nonmonetaryeconomy
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = RST_deusexmachina
+		}
+		x = 24
+		y = 4
+
+	}
+	focus = {
+		id = artelsofcomplexnumbers
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = RST_cyberneticmysteries
+		}
+		x = 24
+		y = 8
+
+	}
+	focus = {
+		id = brokengod
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = artelsofcomplexnumbers
+		}
+		x = 24
+		y = 9
+
+	}
+	focus = {
+		id = cybercults
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = brokengod
+		}
+		x = 22
+		y = 10
+
+	}
+	focus = {
+		id = cogitoergosum
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = brokengod
+		}
+		x = 26
+		y = 10
+
+	}
+	focus = {
+		id = theogenesis
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = cogitoergosum
+		}
+		prerequisite = {
+			focus = cybercults
+		}
+		x = 24
+		y = 11
+
+	}
+	focus = {
+		id = RST_angelic_language
+		icon = GFX_RST_angelic_language
+		cost = 10
+		prerequisite = {
+			focus = transformation
+		}
+		x = 25
+		y = 3
+
+	}
+	focus = {
+		id = newjericho
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = instaremergence
+		}
+		x = 28
+		y = 2
+
+	}
+	focus = {
+		id = palace
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = newjericho
+		}
+		x = 27
+		y = 3
+
+	}
+	focus = {
+		id = polisculture
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = newjericho
+		}
+		x = 28
+		y = 4
+
+	}
+	focus = {
+		id = humanhive
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = nonmonetaryeconomy
+		}
+		prerequisite = {
+			focus = polisculture
+		}
+		prerequisite = {
+			focus = RST_angelic_language
+		}
+		prerequisite = {
+			focus = palace
+		}
+		x = 26
+		y = 5
+
+	}
+	focus = {
+		id = cityoffire
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = newjericho
+		}
+		x = 29
+		y = 3
+
+	}
+	focus = {
+		id = ancientsecret
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = magnumopus
+		}
+		x = 39
+		y = 1
+
+	}
+	focus = {
+		id = myrmidons
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = ancientsecret
+		}
+		mutually_exclusive = {
+			focus = curetes
+		}
+		x = 36
+		y = 2
+
+	}
+	focus = {
+		id = nonconventionawarfare
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = myrmidons
+		}
+		x = 34
+		y = 3
+
+	}
+	focus = {
+		id = slashandburn
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = nonconventionawarfare
+		}
+		prerequisite = {
+			focus = cityoffire
+		}
+		x = 31
+		y = 4
+
+	}
+	focus = {
+		id = thoughtlessdevotion
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = myrmidons
+		}
+		x = 36
+		y = 3
+
+	}
+	focus = {
+		id = suppressionofhumanity
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = thoughtlessdevotion
+		}
+		x = 36
+		y = 4
+
+	}
+	focus = {
+		id = curetes
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = ancientsecret
+		}
+		mutually_exclusive = {
+			focus = myrmidons
+		}
+		x = 42
+		y = 2
+
+	}
+	focus = {
+		id = trainingatthefrontline
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = myrmidons
+			focus = curetes
+		}
+		x = 39
+		y = 3
+
+	}
+	focus = {
+		id = trophyculture
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = curetes
+		}
+		x = 42
+		y = 3
+
+	}
+	focus = {
+		id = militarybrotherhood
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = trophyculture
+		}
+		x = 42
+		y = 4
+
+	}
+	focus = {
+		id = bestialcruelty
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = curetes
+		}
+		x = 44
+		y = 3
+
+	}
+	focus = {
+		id = battletrance
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = bestialcruelty
+		}
+		x = 44
+		y = 4
+
+	}
+	focus = {
+		id = mysteriesofthewar
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = militarybrotherhood
+		}
+		prerequisite = {
+			focus = battletrance
+		}
+		x = 43
+		y = 5
+
+	}
+	focus = {
+		id = greatschism 
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = magnumopus
+		}
+		x = 52
+		y = 1
+
+	}
+	focus = {
+		id = occultpractices
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = greatschism 
+		}
+		x = 50
+		y = 3
+
+	}
+	focus = {
+		id = ecstaticrituals
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = occultpractices
+		}
+		prerequisite = {
+			focus = bestialcruelty
+		}
+		x = 47
+		y = 4
+
+	}
+	focus = {
+		id = shamanicillness
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = occultpractices
+		}
+		x = 50
+		y = 4
+
+	}
+	focus = {
+		id = great_project
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = proldict
+		}
+		prerequisite = {
+			focus = peopless_druzhina
+		}
+		prerequisite = {
+			focus = riverdemand
+		}
+		x = 9
+		y = 4
+
+	}
+	focus = {
+		id = ulyssesleavesithaca
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = great_project
+		}
+		x = 9
+		y = 5
+
+	}
+	focus = {
+		id = tyrant
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = ulyssesleavesithaca
+		}
+		x = 9
+		y = 6
+
+	}
+	focus = {
+		id = RST_stateoraculs
+		icon = GFX_RST_stateoraculs
+		cost = 10
+		prerequisite = {
+			focus = tyrant
+		}
+		x = 7
+		y = 7
+
+	}
+	focus = {
+		id = RST_theocracy
+		icon = GFX_RST_theocracy
+		cost = 10
+		prerequisite = {
+			focus = RST_stateoraculs
+		}
+		x = 7
+		y = 8
+
+	}
+	focus = {
+		id = RST_oldgods
+		icon = GFX_RST_oldgods
+		cost = 10
+		prerequisite = {
+			focus = tyrant
+		}
+		x = 9
+		y = 7
+
+	}
+	focus = {
+		id = RST_rasenna
+		icon = GFX_RST_rasenna
+		cost = 10
+		prerequisite = {
+			focus = RST_oldgods
+		}
+		x = 9
+		y = 8
+
+	}
+	focus = {
+		id = RST_antichristianlaw
+		icon = GFX_RST_antichristianlaw
+		cost = 10
+		prerequisite = {
+			focus = tyrant
+		}
+		x = 11
+		y = 7
+
+	}
+	focus = {
+		id = RST_greatmother
+		icon = GFX_RST_greatmother
+		cost = 10
+		prerequisite = {
+			focus = RST_antichristianlaw
+		}
+		x = 11
+		y = 8
+
+	}
+	focus = {
+		id = RST_purityfaith
+		icon = GFX_RST_purityfaith
+		cost = 10
+		prerequisite = {
+			focus = RST_greatmother
+		}
+		prerequisite = {
+			focus = RST_rasenna
+		}
+		prerequisite = {
+			focus = RST_theocracy
+		}
+		x = 9
+		y = 9
+
+	}
+	focus = {
+		id = naturalconquerors
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = RST_purityfaith
+		}
+		x = 7
+		y = 10
+
+	}
+	focus = {
+		id = slaveryforinf
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = purityfaith
+		}
+		x = 11
+		y = 10
+
+	}
+	focus = {
+		id = slaveholdingsociety
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = slaveryforinf
+		}
+		prerequisite = {
+			focus = naturalconquerors
+		}
+		x = 9
+		y = 11
+
+	}
+	focus = {
+		id = ulyssesisback
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = slaveholdingsociety
+			focus = kurultai
+			focus = RST_whitenational
+		}
+		x = 9
+		y = 12
+
+	}
+	focus = {
+		id = whitetcar
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = ulyssesleavesithaca
+		}
+		x = 2
+		y = 6
+
+	}
+	focus = {
+		id = antinikonistreforms
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = whitetcar
+		}
+		x = 4
+		y = 7
+
+	}
+	focus = {
+		id = revivalofthecossacks
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = whitetcar
+		}
+		x = 0
+		y = 7
+
+	}
+	focus = {
+		id = stratocracy
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = revivalofthecossacks
+		}
+		prerequisite = {
+			focus = protecthistory
+		}
+		x = 1
+		y = 8
+
+	}
+	focus = {
+		id = oldchurch
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = antinikonistreforms
+		}
+		prerequisite = {
+			focus = protecthistory
+		}
+		x = 3
+		y = 8
+
+	}
+	focus = {
+		id = historypuritycommittee
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = oldchurch
+		}
+		prerequisite = {
+			focus = stratocracy
+		}
+		x = 2
+		y = 9
+
+	}
+	focus = {
+		id = Greathorde
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = historypuritycommittee
+		}
+		x = 0
+		y = 10
+
+	}
+	focus = {
+		id = antimuscovitelaw
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = historypuritycommittee
+		}
+		x = 2
+		y = 10
+
+	}
+	focus = {
+		id = courage
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = historypuritycommittee
+		}
+		x = 4
+		y = 10
+
+	}
+	focus = {
+		id = kurultai
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = Greathorde
+		}
+		prerequisite = {
+			focus = antimuscovitelaw
+		}
+		prerequisite = {
+			focus = courage
+		}
+		x = 2
+		y = 11
+
+	}
+	focus = {
+		id = RST_chasseurs
+		icon = GFX_RST_chasseurs
+		cost = 10
+		prerequisite = {
+			focus = metavozhd
+		}
+		x = 14
+		y = 7
+
+	}
+	focus = {
+		id = RST_internalpurges
+		icon = GFX_RST_internalpurges
+		cost = 10
+		prerequisite = {
+			focus = metavozhd
+		}
+		x = 16
+		y = 7
+
+	}
+	focus = {
+		id = RST_raciallaw
+		icon = GFX_RST_raciallaw
+		cost = 10
+		prerequisite = {
+			focus = metavozhd
+		}
+		x = 18
+		y = 7
+
+	}
+	focus = {
+		id = metavozhd
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = ulyssesleavesithaca
+		}
+		x = 16
+		y = 6
+
+	}
+	focus = {
+		id = RST_campsoflabor
+		icon = GFX_RST_campsoflabor
+		cost = 10
+		prerequisite = {
+			focus = RST_chasseurs
+		}
+		prerequisite = {
+			focus = RST_internalpurges
+		}
+		x = 15
+		y = 8
+
+	}
+	focus = {
+		id = RST_paleorus
+		icon = GFX_RST_paleorus
+		cost = 10
+		prerequisite = {
+			focus = RST_internalpurges
+		}
+		prerequisite = {
+			focus = RST_raciallaw
+		}
+		x = 17
+		y = 8
+
+	}
+	focus = {
+		id = RST_bloodpurity
+		icon = GFX_RST_bloodpurity
+		cost = 10
+		prerequisite = {
+			focus = RST_campsoflabor
+		}
+		prerequisite = {
+			focus = RST_paleorus
+		}
+		x = 16
+		y = 9
+
+	}
+	focus = {
+		id = RST_russiangenomr
+		icon = GFX_RST_russiangenomr
+		cost = 10
+		prerequisite = {
+			focus = RST_bloodpurity
+		}
+		x = 14
+		y = 10
+
+	}
+	focus = {
+		id = RST_survivalism
+		icon = GFX_NRU_wolf_age
+		cost = 10
+		prerequisite = {
+			focus = RST_bloodpurity
+		}
+		x = 16
+		y = 10
+
+	}
+	focus = {
+		id = RST_megalitic
+		icon = GFX_RST_survivalism
+		cost = 10
+		prerequisite = {
+			focus = RST_bloodpurity
+		}
+		x = 18
+		y = 10
+
+	}
+	focus = {
+		id = RST_whitenational
+		icon = GFX_RST_whitenational
+		cost = 10
+		prerequisite = {
+			focus = RST_russiangenomr
+		}
+		prerequisite = {
+			focus = RST_survivalism
+		}
+		prerequisite = {
+			focus = RST_megalitic
+		}
+		x = 16
+		y = 11
+
+	}
+	focus = {
+		id = steelmarch
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = nonconventionawarfare
+		}
+		x = 34
+		y = 4
+
+	}
+	focus = {
+		id = machineofmetalandflesh
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = steelmarch
+		}
+		prerequisite = {
+			focus = suppressionofhumanity
+		}
+		x = 35
+		y = 5
+
+	}
+	focus = {
+		id = mindbreak
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = shamanicillness
+		}
+		prerequisite = {
+			focus = animusdestrudoandit
+		}
+		x = 52
+		y = 5
+
+	}
+	focus = {
+		id = psychologicalstudies
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = greatschism 
+		}
+		x = 54
+		y = 3
+
+	}
+	focus = {
+		id = animusdestrudoandit
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = psychologicalstudies
+		}
+		x = 54
+		y = 4
+
+	}
+	focus = {
+		id = rebrithofbicameralbrain
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = mysteriesofthewar
+			focus = machineofmetalandflesh
+		}
+		prerequisite = {
+			focus = mindbreak
+		}
+		prerequisite = {
+			focus = humanhive
+		}
+		x = 39
+		y = 6
+
+	}
+	focus = {
+		id = demiurge
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = rebrithofbicameralbrain
+		}
+		x = 39
+		y = 7
+
+	}
+	focus = {
+		id = createlaws
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = demiurge
+		}
+		x = 36
+		y = 8
+
+	}
+	focus = {
+		id = genders
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = createlaws
+		}
+		x = 33
+		y = 9
+
+	}
+	focus = {
+		id = writting
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = createlaws
+		}
+		x = 36
+		y = 9
+
+	}
+	focus = {
+		id = aoidos
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = writting
+		}
+		x = 35
+		y = 10
+
+	}
+	focus = {
+		id = mnemonic
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = writting
+		}
+		x = 37
+		y = 10
+
+	}
+	focus = {
+		id = bookburning
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = writting
+		}
+		x = 36
+		y = 11
+
+	}
+	focus = {
+		id = cyclopic
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = demiurge
+		}
+		x = 42
+		y = 8
+
+	}
+	focus = {
+		id = expandjerico
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = cyclopic
+		}
+		x = 42
+		y = 9
+
+	}
+	focus = {
+		id = viasergia
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = cyclopic
+		}
+		x = 45
+		y = 9
+
+	}
+	focus = {
+		id = palaceofsoiviet
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = expandjerico
+		}
+		x = 41
+		y = 10
+
+	}
+	focus = {
+		id = templeofvoives
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = expandjerico
+		}
+		x = 43
+		y = 10
+
+	}
+	focus = {
+		id = houseofrhea
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = expandjerico
+		}
+		x = 42
+		y = 11
+
+	}
+	focus = {
+		id = archonesandeones
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = createlaws
+			focus = cyclopic
+		}
+		x = 39
+		y = 9
+
+	}
+}

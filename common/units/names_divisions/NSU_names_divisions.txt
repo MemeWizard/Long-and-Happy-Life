@@ -1,0 +1,20 @@
+﻿NSU_INF_01 = 
+{
+	name = "National Guard Regiment"
+
+	for_countries = { NSU }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Separate Operative Purpose Brigade"
+
+	ordered =
+	{
+		33 = { "33th Separate Operative Purpose Brigade" }
+		38 = { "38th Separate Operative Purpose Brigade" }
+		98 = { "98th Separate Operative Purpose Brigade" }	
+	}
+}
+

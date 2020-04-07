@@ -1,0 +1,28 @@
+leader_traits = {
+
+	tyrant = {
+		random = no
+		enemy_partisan_effect = -0.05
+		army_morale_factor = 0.02
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	white_tsar = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	voice_of_ancestors = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

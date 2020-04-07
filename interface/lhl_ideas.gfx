@@ -26,11 +26,6 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_idea_andrej_rudoj"
-		texturefile = "gfx/interface/ideas/idea_andrej_rudoj.dds"
-	}
-
-	spriteType = {
 		name = "GFX_idea_vasilij_topolev"
 		texturefile = "gfx/interface/ideas/idea_vasilij_topolev.dds"
 	}
@@ -46,8 +41,24 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_idea_jevgenij_ponasenkov"
+		texturefile = "gfx/interface/ideas/idea_jevgenij_ponasenkov.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_NSU_famine"
+		texturefile = "gfx/interface/ideas/idea_NSU_famine.dds"
+	}	
+		
+	spriteType = {
+		name = "GFX_idea_extraordinary_commission"
+		texturefile = "gfx/interface/ideas/idea_extraordinary_commission.dds"
+	}
+	
+	spriteType = {
 		name = "GFX_idea_reshetnikov"
 		texturefile = "gfx/interface/ideas/idea_reshetnikov.dds"
 	}	
 }
+
 

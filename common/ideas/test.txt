@@ -1,6 +1,6 @@
 ideas = {
-	
-	political_advisor = {
+
+	head_of_government = {
 
 		jurij_rybnikov = {
 
@@ -25,7 +25,7 @@ ideas = {
 
 			picture = jevgenij_ponasenkov
 			allowed = {
-				original_tag = "COU"
+				# original_tag = "COU"
 			}
 
 			traits = { prince_of_terror popular_figurehead financial_expert compassionate_gentleman }
@@ -38,12 +38,15 @@ ideas = {
 				factor = 0
 			}
 		}
+	}
+
+	political_advisor = {
 
 		vladimir_sorokin = {
 
 			picture = vladimir_sorokin
 			allowed = {
-				original_tag = "COU"
+				# original_tag = "COU"
 			}
 
 			traits = { first_oprichnik }
@@ -56,14 +59,12 @@ ideas = {
 				factor = 0
 			}
 		}
-	
-	
-	
+
 		xenia_sobchak = {
 
 			picture = xenia_sobchak
 			allowed = {
-				original_tag = "COU"
+				# original_tag = "COU"
 			}
 
 			traits = { silent_workhorse }
@@ -81,28 +82,10 @@ ideas = {
 
 			picture = vasilij_topolev
 			allowed = {
-				original_tag = "COU"
+				# original_tag = "COU"
 			}
 
 			traits = { vatoadmin }
-
-			do_effect = {
-				#
-			}
-
-			ai_will_do = {
-				factor = 0
-			}
-		}
-
-		andrej_rudoj = {
-
-			picture = andrej_rudoj
-			allowed = {
-				original_tag = "COU"
-			}
-
-			traits = { priest_slayer }
 
 			do_effect = {
 				#
@@ -117,7 +100,7 @@ ideas = {
 
 			picture = anatolij_mizzengendler
 			allowed = {
-				original_tag = "COU"
+				# original_tag = "COU"
 			}
 
 			traits = { spider }

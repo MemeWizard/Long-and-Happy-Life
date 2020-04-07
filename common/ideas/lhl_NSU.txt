@@ -1,0 +1,364 @@
+ideas = {
+
+	country = {
+	
+		NSU_famine = {
+			
+			picture = NSU_famine
+
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			war_support_factor = 0.10
+			political_power_factor = 0.05
+			}
+		}
+	
+		extraordinary_commission = {
+			
+			picture = extraordinary_commission
+
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			war_support_factor = 0.10
+			political_power_factor = 0.05
+			}
+		}
+	}
+
+	head_of_government = {
+
+		dmitrij_pavlush = {
+
+			picture = dmitrij_pavlush
+			allowed = {
+				original_tag = "NSU"
+			}
+
+			traits = { dementius }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+		boris_julin = {
+
+			picture = boris_julin
+			allowed = {
+				original_tag = "NSU"
+			}
+
+			traits = { manic_industrialist }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+		klim_jukov = {
+
+			picture = klim_jukov
+			allowed = {
+				original_tag = "NSU"
+			}
+
+			traits = { red_grandmaster }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+		igor_ashmanov = {
+
+			picture = igor_ashmanov
+			allowed = {
+				original_tag = "NSU"
+			}
+
+			traits = { robber_baron }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}
+	
+	political_advisor = {
+
+		aleksandr_panchin = {
+
+			picture = aleksandr_panchin
+			allowed = {
+				# original_tag = "NSU"
+			}
+
+			traits = { scientific_inquisitor }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}	
+		}
+		anatolj_vaserman = {
+
+			picture = anatolj_vaserman
+			allowed = {
+				# original_tag = "NSU"
+			}
+
+			traits = { futurist }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		andrej_rudoj = {
+
+			picture = andrej_rudoj
+			allowed = {
+				# original_tag = "NSU"
+			}
+
+			traits = { priest_slayer }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		armen_gasparjan = {
+
+			picture = armen_gasparjan
+			allowed = {
+				# original_tag = "NSU"
+			}
+
+			traits = { propaganda_expert }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		evgenij_bahzenov = {
+
+			picture = evgenij_bahzenov
+			allowed = {
+				# original_tag = "NSU"
+			}
+
+			traits = { left_journalist }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		german_klimenko = {
+
+			picture = german_klimenko
+			allowed = {
+				# original_tag = "NSU"
+			}
+
+			traits = { adept_of_censorship }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		jegor_jakovlev = {
+
+			picture = jegor_jakovlev
+			allowed = {
+				# original_tag = "NSU"
+			}
+
+			traits = { silent_workhorse }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		marija_zakharova = {
+
+			picture = marija_zakharova
+			allowed = {
+				# original_tag = "NSU"
+			}
+
+			traits = { smooth_talking_charmer }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		mikhail_popov = {
+
+			picture = mikhail_popov
+			allowed = {
+				# original_tag = "NSU"
+			}
+
+			traits = { ultrahegelian_preacher }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		jegor_ivanov = {
+
+			picture = jegor_ivanov
+			allowed = {
+				# original_tag = "NSU"
+			}
+
+			traits = { social_reformer }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}
+	
+	theorist = {
+		aleksandr_sokolov = {
+			
+			picture = aleksandr_sokolov
+			allowed = {
+				original_tag = NSU
+			}
+			traits = { theorist_biologist }
+			do_effect = {
+				#
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		sergej_saveljev = {
+			
+			picture = sergej_saveljev
+			allowed = {
+				original_tag = NSU
+			}
+			traits = { founder_of_p_department }
+			do_effect = {
+				#
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		stanislav_drobyshevskij = {
+			
+			picture = stanislav_drobyshevskij
+			allowed = {
+				original_tag = NSU
+			}
+			traits = { famous_anthropologist }
+			do_effect = {
+				#
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}
+
+	army_chief = {
+
+		mikhail_lapidus = {
+				
+			picture = mikhail_lapidus
+			allowed = {
+				original_tag = NSU
+			}
+			
+			traits = { enforcer }			
+			do_effect = {
+				#
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+
+		oleg_sokolov  = {
+
+			picture = oleg_sokolov
+			allowed = {
+				original_tag = NSU
+			}
+						
+			traits = { mass_attack_supporter }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+}

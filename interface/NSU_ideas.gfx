@@ -1,0 +1,81 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_idea_andrej_rudoj"
+		texturefile = "gfx/interface/ideas/NSU/idea_andrej_rudoj.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_dmitrij_pavlush"
+		texturefile = "gfx/interface/ideas/NSU/idea_dmitrij_pavlush.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_boris_julin"
+		texturefile = "gfx/interface/ideas/NSU/idea_boris_julin.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_klim_jukov"
+		texturefile = "gfx/interface/ideas/NSU/idea_klim_jukov.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_igor_ashmanov"
+		texturefile = "gfx/interface/ideas/NSU/idea_igor_ashmanov.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_aleksandr_panchin"
+		texturefile = "gfx/interface/ideas/NSU/idea_aleksandr_panchin.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_anatolj_vaserman"
+		texturefile = "gfx/interface/ideas/NSU/idea_anatolj_vaserman.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_armen_gasparjan"
+		texturefile = "gfx/interface/ideas/NSU/idea_armen_gasparjan.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_evgenij_bahzenov"
+		texturefile = "gfx/interface/ideas/NSU/idea_evgenij_bahzenov.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_german_klimenko"
+		texturefile = "gfx/interface/ideas/NSU/idea_german_klimenko.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_jegor_jakovlev"
+		texturefile = "gfx/interface/ideas/NSU/idea_jegor_jakovlev.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_marija_zakharova"
+		texturefile = "gfx/interface/ideas/NSU/idea_marija_zakharova.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_mikhail_popov"
+		texturefile = "gfx/interface/ideas/NSU/idea_mikhail_popov.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_jegor_ivanov"
+		texturefile = "gfx/interface/ideas/NSU/idea_jegor_ivanov.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_aleksandr_sokolov"
+		texturefile = "gfx/interface/ideas/NSU/idea_aleksandr_sokolov.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_sergej_saveljev"
+		texturefile = "gfx/interface/ideas/NSU/idea_sergej_saveljev.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_stanislav_drobyshevskij"
+		texturefile = "gfx/interface/ideas/NSU/idea_stanislav_drobyshevskij.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_mikhail_lapidus"
+		texturefile = "gfx/interface/ideas/NSU/idea_mikhail_lapidus.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_oleg_sokolov"
+		texturefile = "gfx/interface/ideas/NSU/idea_oleg_sokolov.dds"
+	}
+}
+

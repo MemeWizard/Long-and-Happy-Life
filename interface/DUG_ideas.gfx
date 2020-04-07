@@ -1,0 +1,20 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_idea_darja_dugina"
+		texturefile = "gfx/interface/ideas/DUG/idea_darja_dugina.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_natella_speranskaja"
+		texturefile = "gfx/interface/ideas/DUG/idea_natella_speranskaja.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_evgenij_pchelov"
+		texturefile = "gfx/interface/ideas/DUG/idea_evgenij_pchelov.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_sivers"
+		texturefile = "gfx/interface/ideas/DUG/idea_sivers.dds"
+	}
+}
+

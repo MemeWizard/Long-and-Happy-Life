@@ -1,0 +1,54 @@
+﻿division_template = {
+	name = "National Guard Regiment"
+	division_names_group = NSU_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }	
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }	
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+	support = {
+		#recon = { x = 0 y = 0 } 		
+	}
+}
+
+units = {
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 33
+		}
+		location = 3151
+		division_template = "National Guard Regiment"
+		start_experience_factor = 0.9
+		start_equipment_factor = 1
+
+	}	
+
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 38
+		}
+		location = 3151
+		division_template = "National Guard Regiment"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+
+	}
+
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 98
+		}
+		location = 3151
+		division_template = "National Guard Regiment"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+
+	}
+}

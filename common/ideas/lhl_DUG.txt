@@ -1,0 +1,77 @@
+ideas = {
+
+	head_of_government = {
+
+		darja_dugina = {
+
+			picture = darja_dugina
+			allowed = {
+				original_tag = "MSC"
+			}
+
+			traits = { ideological_crusader }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+		natella_speranskaja = {
+
+			picture = natella_speranskaja
+			allowed = {
+				original_tag = "MSC"
+			}
+
+			traits = { maenad }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+		evgenij_pchelov = {
+
+			picture = evgenij_pchelov
+			allowed = {
+				original_tag = "MSC"
+			}
+
+			traits = { renaissance_man }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+		sivers = {
+
+			picture = sivers
+			allowed = {
+				original_tag = "MSC"
+			}
+
+			traits = { black_monk }
+
+			do_effect = {
+				#
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}
+}

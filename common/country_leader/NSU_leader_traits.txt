@@ -1,0 +1,134 @@
+leader_traits = {
+
+	lead_investigator = {
+		random = no
+		enemy_partisan_effect = -0.05
+		army_morale_factor = 0.02
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	dementius = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	manic_industrialist = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	red_grandmaster = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	robber_baron = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	scientific_inquisitor = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	futurist = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	left_journalist = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	adept_of_censorship = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	ultrahegelian_preacher = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	theorist_biologist = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	founder_of_p_department = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	famous_anthropologist = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	enforcer = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	mass_attack_supporter = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	priest_slayer = {
+		enemy_partisan_effect = -0.25
+		war_support_factor = 0.05
+		stability_factor = -0.10 
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

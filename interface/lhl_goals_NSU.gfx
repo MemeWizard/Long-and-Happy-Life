@@ -279,4 +279,136 @@ spriteTypes = {
 		name = "GFX_NSU_hereditaryposts"
 		texturefile = "gfx/interface/goals/NSU/goal_NSU_hereditaryposts.dds"
 	}
+	SpriteType = {
+		name = "GFX_NSU_laborbattalions"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_laborbattalions.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_povertytax"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_povertytax.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_simplifylaborlaws"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_simplifylaborlaws.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_sacralisationofindustry"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_sacralisationofindustry.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_environmental"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_environmental.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_internalcolonialism"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_internalcolonialism.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_transformationofnature"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_transformationofnature.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_greatconstructionprojects"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_greatconstructionprojects.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_workhouses"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_workhouses.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_manpower"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_manpower.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_childlabour"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_childlabour.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_unequaltreaty"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_unequaltreaty.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_pmc"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_pmc.dds"
+	}	
+	SpriteType = {
+		name = "GFX_NSU_newtachanka"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_newtachanka.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_horseraids"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_horseraids.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_emphasisonlightinfantry"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_emphasisonlightinfantry.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_lessonsofthefirstcivilwar"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_lessonsofthefirstcivilwar.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_redterror"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_redterror.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_suicidemissions"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_suicidemissions.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_weaponspurchase"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_weaponspurchase.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_redarmy"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_redarmy.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_liberationwar"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_liberationwar.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_trial"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_trial.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_volga"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_volga.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_kuban"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_kuban.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_sibir"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_sibir.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_phoenix"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_phoenix.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_zhukovslegacy"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_zhukovslegacy.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_redfalcons"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_redfalcons.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_humanwave"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_humanwave.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_weaponsstandards"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_weaponsstandards.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_unmannedaerialvehicles"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_unmannedaerialvehicles.dds"
+	}
+	SpriteType = {
+		name = "GFX_NSU_regimentalorchestras"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_regimentalorchestras.dds"
+	}
 }
