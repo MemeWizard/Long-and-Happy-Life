@@ -23,7 +23,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_expropriation_of_corp_property
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_expropriation_of_corp_property
 		cost = 10
 		prerequisite = {
 		focus = MSC_service_of_vigilance
@@ -34,7 +34,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_service_of_vigilance
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_service_of_vigilance
 		cost = 10
 		prerequisite = {
 			focus = MSC_right_hand_path
@@ -235,7 +235,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_spiritual_mobilization
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_spiritual_mobilization
 		cost = 10
 		prerequisite = {
 			focus = MSC_expropriation_of_corp_property
@@ -246,7 +246,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_amnesty_for_rosgvardia
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_amnesty_for_rosgvardia
 		cost = 10
 		prerequisite = {
 			focus = MSC_right_hand_path
@@ -256,8 +256,8 @@ focus_tree = {
 
 	}
 	focus = {
-		id = MSC_fair_Authority
-		icon = GFX_goal_unknown
+		id = MSC_fair_authority
+		icon = GFX_MSC_fair_authority
 		cost = 10
 		prerequisite = {
 			focus = MSC_amnesty_for_rosgvardia

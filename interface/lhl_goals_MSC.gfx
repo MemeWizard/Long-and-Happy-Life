@@ -40,7 +40,23 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/MSC/goal_MSC_right_hand_path.dds"	
 	}
 	SpriteType = {
-		name = "GFX_NSU_futureistoday"
-		texturefile = "gfx/interface/goals/NSU/goal_NSU_futureistoday.dds"
+		name = "GFX_MSC_amnesty_for_rosgvardia"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_amnesty_for_rosgvardia.dds"
 	}	
+	SpriteType = {
+		name = "GFX_MSC_expropriation_of_corp_property"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_expropriation_of_corp_property.dds"
+	}		
+	SpriteType = {
+		name = "GFX_MSC_service_of_vigilance"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_service_of_vigilance.dds"
+	}		
+	SpriteType = {
+		name = "GFX_MSC_spiritual_mobilization"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_spiritual_mobilization.dds"
+	}		
+	SpriteType = {
+		name = "GFX_MSC_fair_authority"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_fair_authority.dds"
+	}		
 }
