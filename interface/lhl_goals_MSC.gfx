@@ -1,0 +1,38 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_DUG_angelic_being"
+		texturefile = "gfx/interface/goals/MSC/goal_DUG_angelic_being.dds"
+	}
+	SpriteType = {
+		name = "GFX_DUG_exaltation_of_women"
+		texturefile = "gfx/interface/goals/MSC/goal_DUG_exaltation_of_women.dds"
+	}
+	SpriteType = {
+		name = "GFX_DUG_courts_of_love"
+		texturefile = "gfx/interface/goals/MSC/goal_DUG_courts_of_love.dds"
+	}	
+	SpriteType = {
+		name = "GFX_MSC_left_hand_path"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_left_hand_path.dds"
+	}	
+	SpriteType = {
+		name = "GFX_MSC_black_order_ss"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_black_order_ss.dds"	
+	}
+	SpriteType = {
+		name = "GFX_MSC_chaos_magick"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_chaos_magick.dds"	
+	}	
+	SpriteType = {
+		name = "GFX_MSC_do_what_thou_wilt"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_do_what_thou_wilt.dds"	
+	}	
+	SpriteType = {
+		name = "GFX_MSC_fear_and_hunger"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_fear_and_hunger.dds"	
+	}	
+	SpriteType = {
+		name = "GFX_MSC_shock_and_awe"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_shock_and_awe.dds"	
+	}		
+}

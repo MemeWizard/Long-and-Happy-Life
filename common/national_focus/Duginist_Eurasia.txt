@@ -1,0 +1,1292 @@
+focus_tree = {
+	id = msc
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = msc
+		}
+	}
+	default = no
+	focus = {
+		id = MSC_reignofdugin
+		icon = GFX_goal_unknown
+		cost = 10
+		x = 9
+		y = 0
+
+	}
+	focus = {
+		id = MSC_expropriation_of_corp_property
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+		focus = MSC_service_of_vigilance
+		}		
+		x = 11
+		y = 6
+
+	}
+	focus = {
+		id = MSC_service_of_vigilance
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_right_hand_path
+		}		
+		x = 11
+		y = 5
+
+	}
+	focus = {
+		id = MSC_celestial_master
+		icon = GFX_goal_unknown
+		cost = 10
+		x = 9
+		y = 11
+
+	}
+	focus = {
+		id = MSC_artocracy
+		icon = GFX_goal_unknown
+		cost = 10
+		x = 24
+		y = 0
+
+	}
+	focus = {
+		id = MSC_council_of_friends_of_heaven
+		icon = GFX_goal_unknown
+		cost = 10
+		x = 46
+		y = 0
+
+	}
+	focus = {
+		id = MSC_eurasian_frontier
+		icon = GFX_goal_unknown
+		cost = 10
+		x = 24
+		y = 11
+
+	}
+	focus = {
+		id = MSC_tartarian_princess
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_celestial_master
+		}
+		mutually_exclusive = {
+			focus = MSC_renaissance_man
+		}
+		x = 3
+		y = 12
+
+	}
+	focus = {
+		id = MSC_revival_of_antiquity
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_tartarian_princess
+		}
+		x = 3
+		y = 13
+
+	}
+	focus = {
+		id = MSC_sacralization_of_the_theater
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_revival_of_antiquity
+		}
+		x = 1
+		y = 14
+
+	}
+	focus = {
+		id = MSC_myth_lives_again
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_revival_of_antiquity
+		}
+		x = 3
+		y = 15
+
+	}
+	focus = {
+		id = MSC_negotiations_with_sterligov
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_reignofdugin
+		}
+		x = 7
+		y = 1
+
+	}
+	focus = {
+		id = MSC_hand_out_bread
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_negotiations_with_sterligov
+		}
+		x = 7
+		y = 2
+
+	}
+	focus = {
+		id = MSC_orderonthestreets
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_reignofdugin
+		}
+		x = 9
+		y = 2
+
+	}
+	focus = {
+		id = MSC_negotiationswithsvetov
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_reignofdugin
+		}
+		x = 11
+		y = 1
+
+	}
+	focus = {
+		id = MSC_freikorp
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_negotiationswithsvetov
+		}
+		x = 11
+		y = 2
+
+	}
+	focus = {
+		id = MSC_fourth_political_theory
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_freikorp
+		}
+		prerequisite = {
+			focus = MSC_hand_out_bread
+		}
+		prerequisite = {
+			focus = MSC_orderonthestreets
+		}
+		x = 9
+		y = 3
+
+	}
+	focus = {
+		id = MSC_left_hand_path
+		icon = GFX_MSC_left_hand_path
+		cost = 10
+		prerequisite = {
+			focus = MSC_fourth_political_theory
+		}
+		mutually_exclusive = {
+			focus = MSC_right_hand_path
+		}
+		x = 7
+		y = 4
+
+	}
+	focus = {
+		id = MSC_black_order_ss
+		icon = GFX_MSC_black_order_ss
+		cost = 10
+		prerequisite = {
+			focus = MSC_left_hand_path
+		}
+		x = 5
+		y = 5
+
+	}
+	focus = {
+		id = MSC_right_hand_path
+		icon = GFX_MSC_right_hand_path
+		cost = 10
+		prerequisite = {
+			focus = MSC_fourth_political_theory
+		}
+		mutually_exclusive = {
+			focus = MSC_left_hand_path
+		}
+		x = 11
+		y = 4
+
+	}
+	focus = {
+		id = MSC_spiritual_mobilization
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_expropriation_of_corp_property
+		}
+		x = 11
+		y = 7
+
+	}
+	focus = {
+		id = MSC_amnesty_for_rosgvardia
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_right_hand_path
+		}
+		x = 13
+		y = 5
+
+	}
+	focus = {
+		id = MSC_fair_Authority
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_amnesty_for_rosgvardia
+		}
+		x = 13
+		y = 6
+
+	}
+	focus = {
+		id = MSC_black_monk
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_celestial_master
+		}
+		mutually_exclusive = {
+			focus = MSC_renaissance_man
+		}
+		x = 15
+		y = 12
+
+	}
+	focus = {
+		id = MSC_nordic_heritage
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_black_monk
+		}
+		x = 15
+		y = 13
+
+	}
+	focus = {
+		id = MSC_dressed_in_black_uniforms
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_nordic_heritage
+		}
+		x = 13
+		y = 14
+
+	}
+	focus = {
+		id = MSC_legalization_of_Pogroms
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_nordic_heritage
+		}
+		x = 15
+		y = 15
+
+	}
+	focus = {
+		id = MSC_recovery_of_trifunctional_division
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_artocracy
+		}
+		x = 19
+		y = 1
+
+	}
+	focus = {
+		id = MSC_philosopher_rulers
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_recovery_of_trifunctional_division
+		}
+		x = 17
+		y = 2
+
+	}
+	focus = {
+		id = MSC_ascetic_virtues
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_philosopher_rulers
+		}
+		x = 17
+		y = 3
+
+	}
+	focus = {
+		id = MSC_sicarii
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_nordic_heritage
+		}
+		x = 17
+		y = 14
+
+	}
+	focus = {
+		id = MSC_warrior_barons
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_recovery_of_trifunctional_division
+		}
+		x = 19
+		y = 2
+
+	}
+	focus = {
+		id = MSC_mannerbunds
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_warrior_barons
+		}
+		x = 19
+		y = 3
+
+	}
+	focus = {
+		id = MSC_villeins_who_wise_in_their_sacred_labor
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_recovery_of_trifunctional_division
+		}
+		x = 21
+		y = 2
+
+	}
+	focus = {
+		id = MSC_Pastorlism
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_villeins_who_wise_in_their_sacred_labor
+		}
+		x = 21
+		y = 3
+
+	}
+	focus = {
+		id = MSC_State_of_Beauty 
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_mannerbunds
+		}
+		prerequisite = {
+			focus = MSC_ascetic_virtues
+		}
+		prerequisite = {
+			focus = MSC_Pastorlism
+		}
+		x = 19
+		y = 4
+
+	}
+	focus = {
+		id = MSC_sanitary_cordon
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_eurasian_frontier
+		}
+		mutually_exclusive = {
+			focus = MSC_eurasian_armed_forces
+		}
+		x = 22
+		y = 12
+
+	}
+	focus = {
+		id = MSC_horizontal_of_society
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_artocracy
+		}
+		x = 24
+		y = 1
+
+	}
+	focus = {
+		id = MSC_patchwork_empire
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_horizontal_of_society
+		}
+		x = 24
+		y = 3
+
+	}
+	focus = {
+		id = MSC_ethnic_autonomy
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_patchwork_empire
+		}
+		x = 23
+		y = 4
+
+	}
+	focus = {
+		id = MSC_religious_tolerance
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_patchwork_empire
+		}
+		x = 25
+		y = 4
+
+	}
+	focus = {
+		id = MSC_eurasian_armed_forces
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_eurasian_frontier
+		}
+		mutually_exclusive = {
+			focus = MSC_sanitary_cordon
+		}
+		x = 26
+		y = 12
+
+	}
+	focus = {
+		id = MSC_angelic_being
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_artocracy
+		}
+		x = 29
+		y = 1
+
+	}
+	focus = {
+		id = MSC_supremacy_of_aesthetics
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_angelic_being
+		}
+		x = 27
+		y = 2
+
+	}
+	focus = {
+		id = MSC_guild_culture
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_supremacy_of_aesthetics
+		}
+		x = 27
+		y = 3
+
+	}
+	focus = {
+		id = MSC_exaltation_of_women
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_angelic_being
+		}
+		x = 29
+		y = 2
+
+	}
+	focus = {
+		id = MSC_courts_of_love
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_exaltation_of_women
+		}
+		x = 29
+		y = 3
+
+	}
+	focus = {
+		id = MSC_we_call_upon_your_wolves
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_angelic_being
+		}
+		x = 31
+		y = 2
+
+	}
+	focus = {
+		id = MSC_naturalism
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_we_call_upon_your_wolves
+		}
+		x = 31
+		y = 3
+
+	}
+	focus = {
+		id = MSC_production_as_poetry
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_guild_culture
+			focus = MSC_courts_of_love
+			focus = MSC_naturalism
+		}
+		x = 29
+		y = 4
+
+	}
+	focus = {
+		id = MSC_purge_the_non_beautiful
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_State_of_Beauty 
+		}
+		prerequisite = {
+			focus = MSC_production_as_poetry
+		}
+		x = 24
+		y = 5
+
+	}
+	focus = {
+		id = MSC_general_of_land
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_council_of_friends_of_heaven
+		}
+		x = 41
+		y = 1
+
+	}
+	focus = {
+		id = MSC_agrarian_counterrevolution
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_general_of_land
+		}
+		x = 41
+		y = 2
+
+	}
+	focus = {
+		id = MSC_war_with_machinery
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_agrarian_counterrevolution
+		}
+		x = 38
+		y = 3
+
+	}
+	focus = {
+		id = MSC_abolition_of_bureaucracy
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_war_with_machinery
+		}
+		x = 36
+		y = 4
+
+	}
+	focus = {
+		id = MSC_peasant_militia
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_abolition_of_bureaucracy
+		}
+		x = 34
+		y = 5
+
+	}
+	focus = {
+		id = MSC_archaeofuturism
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_war_with_machinery
+		}
+		x = 40
+		y = 4
+
+	}
+	focus = {
+		id = MSC_old_slavonic_language
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_archaeofuturism
+		}
+		x = 41
+		y = 5
+
+	}
+	focus = {
+		id = MSC_anti_intellectualism
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_agrarian_counterrevolution
+		}
+		x = 42
+		y = 3
+
+	}
+	focus = {
+		id = MSC_crematio_librorum
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_archaeofuturism
+		}
+		x = 40
+		y = 6
+
+	}
+	focus = {
+		id = MSC_school_privatization
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_anti_intellectualism
+		}
+		x = 43
+		y = 4
+
+	}
+	focus = {
+		id = MSC_education_reform
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_council_of_friends_of_heaven
+		}
+		x = 46
+		y = 4
+
+	}
+	focus = {
+		id = MSC_institute_of_apprentices
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_school_privatization
+		}
+		prerequisite = {
+			focus = MSC_education_reform
+		}
+		x = 44
+		y = 5
+
+	}
+	focus = {
+		id = MSC_ignorance_is_strength
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_institute_of_apprentices
+		}
+		x = 44
+		y = 6
+
+	}
+	focus = {
+		id = MSC_mortification_of_the_mind
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_crematio_librorum
+			focus = MSC_ignorance_is_strength
+		}
+		x = 42
+		y = 7
+
+	}
+	focus = {
+		id = MSC_general_of_prosperity
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_council_of_friends_of_heaven
+		}
+		x = 51
+		y = 1
+
+	}
+	focus = {
+		id = MSC_non_mainstream_economical_thought
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_general_of_prosperity
+		}
+		x = 51
+		y = 2
+
+	}
+	focus = {
+		id = MSC_demonopolization_of_science
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_non_mainstream_economical_thought
+		}
+		x = 50
+		y = 3
+
+	}
+	focus = {
+		id = MSC_crisis_prediction
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_demonopolization_of_science
+		}
+		x = 49
+		y = 4
+
+	}
+	focus = {
+		id = MSC_prediction_and_prognostic
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_education_reform
+		}
+		prerequisite = {
+			focus = MSC_crisis_prediction
+		}
+		x = 48
+		y = 5
+
+	}
+	focus = {
+		id = MSC_destatization
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_non_mainstream_economical_thought
+		}
+		x = 54
+		y = 3
+
+	}
+	focus = {
+		id = MSC_lustrations
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_destatization
+		}
+		x = 52
+		y = 4
+
+	}
+	focus = {
+		id = MSC_anti_mathematical_laws
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_lustrations
+		}
+		x = 51
+		y = 5
+
+	}
+	focus = {
+		id = MSC_privatization_of_legislation
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_lustrations
+		}
+		x = 52
+		y = 6
+
+	}
+	focus = {
+		id = MSC_liquidate_the_central_bank
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_destatization
+		}
+		x = 54
+		y = 5
+
+	}
+	focus = {
+		id = MSC_abolish_economy
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_liquidate_the_central_bank
+		}
+		x = 54
+		y = 7
+
+	}
+	focus = {
+		id = MSC_laissez_faire
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_destatization
+		}
+		x = 56
+		y = 4
+
+	}
+	focus = {
+		id = MSC_virtual_currency
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_laissez_faire
+			focus = MSC_liquidate_the_central_bank
+		}
+		x = 56
+		y = 6
+
+	}
+	focus = {
+		id = MSC_fear_and_hunger
+		icon = GFX_MSC_fear_and_hunger
+		cost = 10
+		prerequisite = {
+			focus = MSC_left_hand_path
+		}
+		x = 7
+		y = 5
+
+	}
+	focus = {
+		id = MSC_chaos_magick
+		icon = GFX_MSC_chaos_magick
+		cost = 10
+		prerequisite = {
+			focus = MSC_fear_and_hunger
+		}
+		x = 7
+		y = 6
+
+	}
+	focus = {
+		id = MSC_do_what_thou_wilt
+		icon = GFX_MSC_do_what_thou_wilt
+		cost = 10
+		prerequisite = {
+			focus = MSC_black_order_ss
+		}
+		x = 5
+		y = 6
+
+	}
+	focus = {
+		id = MSC_shock_and_awe
+		icon = GFX_MSC_shock_and_awe
+		cost = 10
+		prerequisite = {
+			focus = MSC_chaos_magick
+		}
+		x = 7
+		y = 7
+
+	}
+	focus = {
+		id = MSC_guardians_of_being
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_chaos_magick
+			focus = MSC_expropriation_of_corp_property
+		}
+		x = 9
+		y = 7
+
+	}
+	focus = {
+		id = MSC_horizon_of_the_ideal_empire
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_shock_and_awe
+			focus = MSC_spiritual_mobilization
+		}
+		prerequisite = {
+			focus = MSC_guardians_of_being
+		}
+		x = 9
+		y = 8
+
+	}
+	focus = {
+		id = MSC_coronation_of_philosopher_king
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_horizon_of_the_ideal_empire
+		}
+		x = 9
+		y = 9
+
+	}
+	focus = {
+		id = MSC_festival_culture
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_sacralization_of_the_theater
+		}
+		x = 1
+		y = 16
+
+	}
+	focus = {
+		id = MSC_maenads_of_a_new_era
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_revival_of_antiquity
+		}
+		x = 5
+		y = 14
+
+	}
+	focus = {
+		id = MSC_dionysian_frenzy
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_maenads_of_a_new_era
+		}
+		x = 5
+		y = 16
+
+	}
+	focus = {
+		id = MSC_renaissance_man
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_celestial_master
+		}
+		mutually_exclusive = {
+			focus = MSC_black_monk
+			focus = MSC_tartarian_princess
+		}
+		x = 9
+		y = 12
+
+	}
+	focus = {
+		id = MSC_aristocratical_spirit
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_renaissance_man
+		}
+		x = 9
+		y = 13
+
+	}
+	focus = {
+		id = MSC_mestnichestvo
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_aristocratical_spirit
+		}
+		x = 7
+		y = 14
+
+	}
+	focus = {
+		id = MSC_new_nobility
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_mestnichestvo
+		}
+		x = 7
+		y = 16
+
+	}
+	focus = {
+		id = MSC_culture_of_honor
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_aristocratical_spirit
+		}
+		x = 9
+		y = 15
+
+	}
+	focus = {
+		id = MSC_grandiose_architecture
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_aristocratical_spirit
+		}
+		x = 11
+		y = 14
+
+	}
+	focus = {
+		id = MSC_patronage
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_grandiose_architecture
+		}
+		x = 11
+		y = 16
+
+	}
+	focus = {
+		id = MSC_aesthetic_nazism
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_dressed_in_black_uniforms
+		}
+		x = 13
+		y = 16
+
+	}
+	focus = {
+		id = MSC_light_up_the_crosses
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_sicarii
+		}
+		x = 17
+		y = 16
+
+	}
+	focus = {
+		id = MSC_typhon_resurgent
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_purge_the_non_beautiful
+		}
+		x = 24
+		y = 6
+
+	}
+	focus = {
+		id = MSC_revival_of_obschina
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_abolition_of_bureaucracy
+		}
+		x = 36
+		y = 6
+
+	}
+	focus = {
+		id = MSC_crush_the_ideal_of_enlightenment
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_abolition_of_bureaucracy
+		}
+		prerequisite = {
+			focus = MSC_war_with_machinery
+		}
+		x = 38
+		y = 5
+
+	}
+	focus = {
+		id = MSC_abolish_human_rights
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_crush_the_ideal_of_enlightenment
+		}
+		x = 38
+		y = 7
+
+	}
+	focus = {
+		id = MSC_forecaster_cult
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_prediction_and_prognostic
+		}
+		x = 48
+		y = 6
+
+	}
+	focus = {
+		id = MSC_private_infrastructural_projects
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_laissez_faire
+		}
+		x = 58
+		y = 5
+
+	}
+	focus = {
+		id = MSC_private_auspices
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_forecaster_cult
+		}
+		prerequisite = {
+			focus = MSC_privatization_of_legislation
+		}
+		x = 50
+		y = 7
+
+	}
+	focus = {
+		id = MSC_transferring_the_weights
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_abolish_human_rights
+		}
+		prerequisite = {
+			focus = MSC_abolish_economy
+		}
+		x = 46
+		y = 8
+
+	}
+	focus = {
+		id = MSC_to_the_angel
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_transferring_the_weights
+		}
+		x = 46
+		y = 9
+
+	}
+	focus = {
+		id = MSC_overthrow_the_false_king
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_sanitary_cordon
+			focus = MSC_eurasian_armed_forces
+		}
+		x = 24
+		y = 13
+
+	}
+	focus = {
+		id = MSC_moscov
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_overthrow_the_false_king
+		}
+		x = 24
+		y = 14
+
+	}
+	focus = {
+		id = MSC_kuban
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_moscov
+		}
+		x = 22
+		y = 15
+
+	}
+	focus = {
+		id = MSC_north
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_moscov
+		}
+		x = 24
+		y = 15
+
+	}
+	focus = {
+		id = MSC_volga
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_moscov
+		}
+		x = 26
+		y = 15
+
+	}
+	focus = {
+		id = MSC_siberian_question
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = MSC_kuban
+			focus = MSC_north
+			focus = MSC_volga
+		}
+		x = 24
+		y = 16
+
+	}
+}
