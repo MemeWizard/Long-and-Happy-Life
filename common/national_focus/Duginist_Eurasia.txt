@@ -15,7 +15,7 @@ focus_tree = {
 	default = no
 	focus = {
 		id = MSC_reignofdugin
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_reignofdugin
 		cost = 10
 		x = 9
 		y = 0
@@ -124,7 +124,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_negotiations_with_sterligov
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_negotiations_with_sterligov
 		cost = 10
 		prerequisite = {
 			focus = MSC_reignofdugin
@@ -135,7 +135,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_hand_out_bread
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_hand_out_bread
 		cost = 10
 		prerequisite = {
 			focus = MSC_negotiations_with_sterligov
@@ -146,7 +146,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_orderonthestreets
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_orderonthestreets
 		cost = 10
 		prerequisite = {
 			focus = MSC_reignofdugin
@@ -157,7 +157,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_negotiationswithsvetov
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_negotiationswithsvetov
 		cost = 10
 		prerequisite = {
 			focus = MSC_reignofdugin
@@ -168,7 +168,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_freikorp
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_freikorp
 		cost = 10
 		prerequisite = {
 			focus = MSC_negotiationswithsvetov
@@ -179,7 +179,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_fourth_political_theory
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_fourth_political_theory
 		cost = 10
 		prerequisite = {
 			focus = MSC_freikorp

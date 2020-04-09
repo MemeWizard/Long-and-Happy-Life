@@ -58,5 +58,34 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_MSC_fair_authority"
 		texturefile = "gfx/interface/goals/MSC/goal_MSC_fair_authority.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_MSC_reignofdugin"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_reignofdugin.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_freikorp"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_freikorp.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_hand_out_bread"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_hand_out_bread.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_negotiations_with_sterligov"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_negotiations_with_sterligov.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_orderonthestreets"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_orderonthestreets.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_negotiationswithsvetov"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_negotiationswithsvetov.dds"
+	}	
+	SpriteType = {
+		name = "GFX_MSC_fourth_political_theory"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_fourth_political_theory.dds"
 	}		
 }
