@@ -1,5 +1,10 @@
 focus_tree = {
 	id = msc
+	
+	default = no
+
+	continuous_focus_position = { x = 20 y = 1250 }
+	
 	country = {
 		factor = 0
 		modifier = {
@@ -895,8 +900,8 @@ focus_tree = {
 
 	}
 	focus = {
-		id = MSC_fear_and_hunger
-		icon = GFX_MSC_fear_and_hunger
+		id = MSC_chaos_magick
+		icon = GFX_MSC_chaos_magick
 		cost = 10
 		prerequisite = {
 			focus = MSC_left_hand_path
@@ -906,11 +911,11 @@ focus_tree = {
 
 	}
 	focus = {
-		id = MSC_chaos_magick
-		icon = GFX_MSC_chaos_magick
+		id = MSC_fear_and_hunger
+		icon = GFX_MSC_fear_and_hunger
 		cost = 10
 		prerequisite = {
-			focus = MSC_fear_and_hunger
+			focus = MSC_chaos_magick
 		}
 		x = 7
 		y = 6
@@ -932,7 +937,7 @@ focus_tree = {
 		icon = GFX_MSC_shock_and_awe
 		cost = 10
 		prerequisite = {
-			focus = MSC_chaos_magick
+			focus = MSC_fear_and_hunger
 		}
 		x = 7
 		y = 7
@@ -943,7 +948,7 @@ focus_tree = {
 		icon = GFX_goal_unknown
 		cost = 10
 		prerequisite = {
-			focus = MSC_chaos_magick
+			focus = MSC_fear_and_hunger
 			focus = MSC_expropriation_of_corp_property
 		}
 		x = 9

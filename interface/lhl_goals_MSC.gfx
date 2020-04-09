@@ -1,15 +1,15 @@
 spriteTypes = {
 	SpriteType = {
-		name = "GFX_DUG_angelic_being"
-		texturefile = "gfx/interface/goals/MSC/goal_DUG_angelic_being.dds"
+		name = "GFX_MSC_angelic_being"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_angelic_being.dds"
 	}
 	SpriteType = {
-		name = "GFX_DUG_exaltation_of_women"
-		texturefile = "gfx/interface/goals/MSC/goal_DUG_exaltation_of_women.dds"
+		name = "GFX_MSC_exaltation_of_women"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_exaltation_of_women.dds"
 	}
 	SpriteType = {
-		name = "GFX_DUG_courts_of_love"
-		texturefile = "gfx/interface/goals/MSC/goal_DUG_courts_of_love.dds"
+		name = "GFX_MSC_courts_of_love"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_courts_of_love.dds"
 	}	
 	SpriteType = {
 		name = "GFX_MSC_left_hand_path"
@@ -34,5 +34,13 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_MSC_shock_and_awe"
 		texturefile = "gfx/interface/goals/MSC/goal_MSC_shock_and_awe.dds"	
-	}		
+	}	
+	SpriteType = {
+		name = "GFX_MSC_right_hand_path"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_right_hand_path.dds"	
+	}
+	SpriteType = {
+		name = "GFX_NSU_futureistoday"
+		texturefile = "gfx/interface/goals/NSU/goal_NSU_futureistoday.dds"
+	}	
 }
