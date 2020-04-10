@@ -2,11 +2,14 @@
 state={
 	id=580
 	name="STATE_580" # Tobolsk
-	manpower = 88126
+	manpower = 546105
 	
 	state_category = wasteland
 
 	history={
+	victory_points = {
+			7867 3 
+		}
 		owner = GAZ
 		buildings = {
 			infrastructure = 1

@@ -4,10 +4,13 @@ state={
 	provinces={
 		3562 438 3483 11427 
 	}
-	manpower= 221820
+	manpower= 1039702
 
 	state_category = rural
 	history={
+	victory_points = {
+			3562 3 
+		}
 		owner = UPA
 		add_core_of = UPA
 

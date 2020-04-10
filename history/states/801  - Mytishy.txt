@@ -4,10 +4,13 @@ state={
 	provinces={
 		11236 6283 9378  
 	}
-	manpower= 176825
+	manpower= 248008
 
 	state_category = rural
 	history={
+	victory_points = {
+			6283 3 
+		}
 		owner = FRS
 		add_core_of = FRS
 

@@ -1,13 +1,13 @@
 state={
 	id=828
 	name="STATE_828"
-	manpower = 378362
+	manpower = 299314
 	
 	state_category = city
 
 	history={	
 		victory_points = {
-			1774 3
+			12520 3
 		}
 		owner = MON
 		add_core_of = MON

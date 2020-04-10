@@ -3,6 +3,9 @@ state={
 	name="STATE_819"
 
 	history={
+	victory_points = {
+			1841 3 
+		}
 		owner = GAZ
 		buildings = {
 			infrastructure = 1
@@ -17,7 +20,7 @@ state={
 	provinces={
 		7778 1704 4813 10716 10648 1771 1841 10720 12696
 	}
-	manpower=68364
+	manpower=468797
 	buildings_max_level_factor=1
 	state_category="wasteland"
 }

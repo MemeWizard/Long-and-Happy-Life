@@ -1,13 +1,13 @@
 state={
 	id=831
 	name="STATE_831"
-	manpower = 67891
+	manpower = 74756
 	
 	state_category = wasteland
 
 	history={	
 		victory_points = {
-			10677 0
+			12502 3
 		}
 		owner = NRU
 		add_core_of = NRU

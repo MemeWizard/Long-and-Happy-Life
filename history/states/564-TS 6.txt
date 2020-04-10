@@ -10,6 +10,9 @@ state={
 	}
 
 	history={
+	victory_points = {
+			7835 3 
+		}
 		owner = GOR
 		add_core_of = GOR
 
@@ -21,7 +24,7 @@ state={
 	provinces={
 		1696 4705 4716 4766 4835 4837 7736 7751 7816 7835 7860 10528 10658 12507 12575 12644 
 	}
-	manpower=370893
+	manpower=797528
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

@@ -4,6 +4,9 @@ state={
 	name="STATE_832"
 
 	history={
+	victory_points = {
+			8027 3 
+		}
 		add_core_of = CAS
 		owner = CAS
 		buildings = {
@@ -16,7 +19,7 @@ state={
 	provinces={
 		2058 4467 4923 8027 10417 12581 12805 
 	}
-	manpower=230000
+	manpower=214300
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }

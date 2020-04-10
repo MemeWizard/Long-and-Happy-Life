@@ -1,0 +1,29 @@
+
+state={
+	id=876
+	name="South Turkmenistan"
+	resources={
+		steel=60.000
+	}
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+
+		}
+		add_core_of = CAS
+		victory_points = {
+			4482 3 
+		}
+
+	}
+
+	provinces={
+		1649 10414 10357 9605 7924 4482 7560 1632 756 10742 4549 5003 4958
+	}
+	manpower=2814900
+	buildings_max_level_factor=1.000
+	state_category=city
+}

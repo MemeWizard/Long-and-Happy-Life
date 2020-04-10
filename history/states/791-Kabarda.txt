@@ -1,15 +1,17 @@
 state={
 	id=791
 	name="STATE_791" # Kabarda
-	manpower = 438890
+	manpower = 465669
 	
 	state_category = rural
 
 	history={
+	victory_points = {
+			714 3 
+		}
 		owner = RGD
 		add_core_of = RGD
 
-		# victory_points = {  }
 	}
 
 	provinces={

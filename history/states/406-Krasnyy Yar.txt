@@ -2,7 +2,7 @@
 state={
 	id=406
 	name="STATE_406" # Gurev
-	manpower = 146494
+	manpower = 556388
 	
 	state_category = rural
 
@@ -14,7 +14,7 @@ state={
 			infrastructure = 1
 		}
 		victory_points = {
-			3618 1
+			3618 3
 		}
 	}
 

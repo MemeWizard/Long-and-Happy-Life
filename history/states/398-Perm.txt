@@ -14,7 +14,7 @@ state={
 
 		}
 		victory_points = {
-			7375 1 
+			7375 3 
 		}
 		add_core_of = SVE
 		1939.1.1 = {
@@ -30,7 +30,7 @@ state={
 	provinces={
 		123 189 206 390 1307 1336 1365 1380 1754 3127 4314 4326 4372 4802 6025 7318 7346 7375 9283 10286 10314 11111 11195 11203 11228 11352 12175 12187 12216 12527 12587 12626 
 	}
-	manpower=2135879
+	manpower=2599301
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

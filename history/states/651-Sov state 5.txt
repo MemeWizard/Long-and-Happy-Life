@@ -1,7 +1,7 @@
 state={
 	id=651
 	name="STATE_651" # Ufa
-	manpower = 2552075
+	manpower = 4037811
 
 	state_category = city
 

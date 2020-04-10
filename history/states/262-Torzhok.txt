@@ -2,7 +2,7 @@
 state={
 	id=262
 	name="STATE_262" # Pechora
-	manpower = 43829
+	manpower = 120755
 	
 	state_category = rural
 	
@@ -11,6 +11,9 @@ state={
 	}
 
 	history={
+	victory_points = {
+			9121 3 
+		}
 		owner = NRU 
 		buildings = {
 			infrastructure = 1

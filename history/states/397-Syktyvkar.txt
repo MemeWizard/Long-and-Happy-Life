@@ -4,6 +4,9 @@ state={
 	name="STATE_397"
 
 	history={
+	victory_points = {
+			99 3 
+		}
 		owner = SVE
 		buildings = {
 			infrastructure = 2
@@ -16,7 +19,7 @@ state={
 	provinces={
 		6 99 108 186 1295 3000 3102 3155 3177 4298 6121 6202 7712 7898 9145 9155 9225 9232 10579 11025 11179 11200 12558 
 	}
-	manpower=137203
+	manpower=645193
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }

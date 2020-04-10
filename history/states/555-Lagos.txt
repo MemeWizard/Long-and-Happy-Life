@@ -2,11 +2,14 @@
 state={
 	id=555
 	name="STATE_555" #Kuril Islands
-	manpower = 15000 
+	manpower = 20787 
 	
 	state_category = tiny_island
 
 	history={
+	victory_points = {
+			13037 3 
+		}
 		owner = JAP
 		#add_core_of = JAP
 		#add_claim_by = SOV # Removed because of too much aggression
