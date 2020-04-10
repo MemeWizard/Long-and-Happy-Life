@@ -58,6 +58,14 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Philosopher King"
+	picture = "MOS_Philosopher_King.dds"
+	desc = "POLITICS_PHILOSOPHER_KING_DESC"
+	ideology = ultrahegelianism
+	traits = {	the_kings_two_bodies  }
+}
+
+create_country_leader = {
 	name = "Interregnum"
 	picture = "MOS_White_House.dds"
 	expire = "1953.3.1"

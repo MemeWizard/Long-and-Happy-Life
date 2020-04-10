@@ -1,0 +1,91 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_MSC_angelic_being"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_angelic_being.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_exaltation_of_women"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_exaltation_of_women.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_courts_of_love"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_courts_of_love.dds"
+	}	
+	SpriteType = {
+		name = "GFX_MSC_left_hand_path"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_left_hand_path.dds"
+	}	
+	SpriteType = {
+		name = "GFX_MSC_black_order_ss"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_black_order_ss.dds"	
+	}
+	SpriteType = {
+		name = "GFX_MSC_chaos_magick"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_chaos_magick.dds"	
+	}	
+	SpriteType = {
+		name = "GFX_MSC_do_what_thou_wilt"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_do_what_thou_wilt.dds"	
+	}	
+	SpriteType = {
+		name = "GFX_MSC_fear_and_hunger"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_fear_and_hunger.dds"	
+	}	
+	SpriteType = {
+		name = "GFX_MSC_shock_and_awe"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_shock_and_awe.dds"	
+	}	
+	SpriteType = {
+		name = "GFX_MSC_right_hand_path"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_right_hand_path.dds"	
+	}
+	SpriteType = {
+		name = "GFX_MSC_amnesty_for_rosgvardia"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_amnesty_for_rosgvardia.dds"
+	}	
+	SpriteType = {
+		name = "GFX_MSC_expropriation_of_corp_property"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_expropriation_of_corp_property.dds"
+	}		
+	SpriteType = {
+		name = "GFX_MSC_service_of_vigilance"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_service_of_vigilance.dds"
+	}		
+	SpriteType = {
+		name = "GFX_MSC_spiritual_mobilization"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_spiritual_mobilization.dds"
+	}		
+	SpriteType = {
+		name = "GFX_MSC_fair_authority"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_fair_authority.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_MSC_reignofdugin"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_reignofdugin.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_freikorp"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_freikorp.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_hand_out_bread"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_hand_out_bread.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_negotiations_with_sterligov"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_negotiations_with_sterligov.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_orderonthestreets"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_orderonthestreets.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_negotiationswithsvetov"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_negotiationswithsvetov.dds"
+	}	
+	SpriteType = {
+		name = "GFX_MSC_fourth_political_theory"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_fourth_political_theory.dds"
+	}		
+}
