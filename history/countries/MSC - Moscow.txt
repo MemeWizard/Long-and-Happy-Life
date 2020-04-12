@@ -85,3 +85,9 @@ if = {
 		nationalities = { MSC }
 	}
 }
+
+create_faction = amphictyony_of_freedom
+add_to_faction = FRS
+add_to_faction = STM
+add_to_faction = KHA
+add_to_faction = LUH

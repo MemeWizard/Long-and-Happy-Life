@@ -20,12 +20,9 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Mikhail Svetov"
-	desc = ""
+	desc = "POLITICS_SVETOV_DESC"
 	picture = "Portrait_Mikhail_Sovetov.dds"
-	expire = "1965.1.1"
 	ideology = hoppean_libertarianism 
-	traits = {
-		#
-	}
+	traits = { great_lustrator }
 }
 
