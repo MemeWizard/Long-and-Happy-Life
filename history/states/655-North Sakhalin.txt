@@ -2,10 +2,13 @@
 state={
 	id=655
 	name="STATE_655"
-	manpower = 94759
+	manpower = 70303
 	
 	state_category = pastoral
 	history={
+	victory_points = {
+			855 3 
+		}
 		owner = SAH
 		add_core_of = SAH
 		buildings = {

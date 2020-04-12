@@ -2,10 +2,13 @@
 state={
 	id=562
 	name="STATE_562" # Okhotsk
-	manpower = 126961
+	manpower = 209735
 	state_category = wasteland
 
 	history={
+	victory_points = {
+			12518 3 
+		}
 		owner = RIS
 		buildings = {
 			infrastructure = 1

@@ -2,14 +2,14 @@
 state={
 	id=574
 	name="STATE_574" # Yakutsk
-	manpower = 407866
+	manpower = 666697
 	
 	state_category = wasteland
 
 	history={
 		owner = YAK
 		victory_points = {
-			10641 1
+			10641 3
 		}
 		buildings = {
 			infrastructure = 2

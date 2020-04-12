@@ -1,0 +1,29 @@
+
+state={
+	id=874
+	name="STATE_874"
+	resources={
+		steel=60.000
+	}
+
+	history={
+		owner = RNG
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+
+		}
+		add_core_of = RNG
+		victory_points = {
+			10630 3 
+		}
+
+	}
+
+	provinces={
+		10653 10161 10292 10218 7350 1287 4661 10235 1879 7708 10630 7317 10202 4685 12616 4670
+	}
+	manpower=753853
+	buildings_max_level_factor=1.000
+	state_category=city
+}

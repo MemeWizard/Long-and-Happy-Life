@@ -1,7 +1,7 @@
 state={
 	id=790
 	name="STATE_790" # Osetia
-	manpower = 238890
+	manpower = 1203752
 	
 	state_category = metropolis
 

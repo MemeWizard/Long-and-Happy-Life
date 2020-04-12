@@ -1,0 +1,24 @@
+state={
+	id=875
+	name="STATE_875"
+
+	history={
+		owner = CAS
+		victory_points = {
+			10148 3
+		}
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = CAS
+
+	}
+
+	provinces={
+		7777 10601 10366 10148 12397 4686 12340 7556 10506 12487 4492 12640 7706 12658 10603 4773 12385
+	}
+	manpower=4140687
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,7 +1,7 @@
 state={
 	id=573
 	name="STATE_573" # Zlatoust
-	manpower = 556677
+	manpower = 676705
 	
 	state_category = pastoral
 	resources={
@@ -12,7 +12,7 @@ state={
 		owner = SVE
 		add_core_of = SVE
 
-		victory_points = { 11307 1 }
+		victory_points = { 11307 3 }
 		buildings = {
 			infrastructure = 4
 		}

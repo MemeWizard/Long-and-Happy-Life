@@ -4,7 +4,7 @@ state={
 	provinces={
 		6380 6414 6348  
 	}
-	manpower=12506468
+	manpower=12692466
 	state_category = city
 	history={
 		owner = MSC

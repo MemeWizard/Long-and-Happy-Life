@@ -2,7 +2,7 @@
 state={
 	id=793
 	name="STATE_793" # Sochi
-	manpower = 438890
+	manpower = 243564
 	
 	state_category = rural
 

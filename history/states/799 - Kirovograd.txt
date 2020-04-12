@@ -4,10 +4,13 @@ state={
 	provinces={
 		6478 3468 6451 3452 409 9573 3403 434 11409 
 	}
-	manpower= 4297747
+	manpower= 928743
 
 	state_category = rural
 	history={
+	victory_points = {
+			3452 3 
+		}
 		owner = DNP
 		add_core_of = DNP
 

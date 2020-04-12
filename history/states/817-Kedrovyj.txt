@@ -13,7 +13,7 @@ state={
 		}
 		add_core_of = TOM
 		victory_points = {
-			7793 1 
+			7861 3 
 		}
 
 	}

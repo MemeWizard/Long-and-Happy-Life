@@ -13,17 +13,14 @@ state={
 		}
 		add_core_of = RGD
 		victory_points = {
-			9628 3
-		}
-		victory_points = {
-			9663 1
+			685 3
 		}
 	}
 
 	provinces={
 		685 6674 
 	}
-	manpower=1463970
+	manpower=868174
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

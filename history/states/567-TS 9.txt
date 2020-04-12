@@ -2,7 +2,7 @@
 state={
 	id=567
 	name="STATE_567" # Bratsk
-	manpower = 410183
+	manpower = 859237
 	state_category = rural
 	
 	resources={
@@ -10,6 +10,9 @@ state={
 	}
 
 	history={
+	victory_points = {
+			1803 3 
+		}
 		owner = NOD
 		buildings = {
 			infrastructure = 3

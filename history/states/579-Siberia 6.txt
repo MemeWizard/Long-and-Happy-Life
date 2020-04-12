@@ -2,11 +2,14 @@
 state={
 	id=579
 	name="STATE_579" # Salekhard
-	manpower = 45484
+	manpower = 182646
 	
 	state_category = wasteland
 
 	history={
+	victory_points = {
+			1684 3 
+		}
 		owner = GAZ
 		buildings = {
 			infrastructure = 1

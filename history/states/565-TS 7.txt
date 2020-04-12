@@ -8,6 +8,9 @@ state={
 	}
 
 	history={
+	victory_points = {
+			10583 3 
+		}
 		owner = GUL
 		buildings = {
 			infrastructure = 1
@@ -20,7 +23,7 @@ state={
 	provinces={
 		1666 1761 4762 4795 4868 7759 7854 10583 10654 12506 12538 
 	}
-	manpower=195325
+	manpower=726583
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

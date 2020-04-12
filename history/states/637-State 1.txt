@@ -4,6 +4,7 @@ state={
 	name="STATE_637"
 
 	history={
+                victory_points = { 7878 3 }
 		owner = RIS
 		buildings = {
 			infrastructure = 2
@@ -20,7 +21,7 @@ state={
 	provinces={
 		1823 1839 1863 4728 7878 12207 12522 
 	}
-	manpower=48831
+	manpower=312438
 	buildings_max_level_factor=1
 	state_category="wasteland"
 }

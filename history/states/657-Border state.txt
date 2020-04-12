@@ -11,6 +11,9 @@ state={
 	state_category = pastoral
 
 	history={
+	victory_points = {
+			12678 3 
+		}
 		owner = CPU
 		buildings = {
 			infrastructure = 3

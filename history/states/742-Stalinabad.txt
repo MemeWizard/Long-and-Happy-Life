@@ -7,7 +7,7 @@ state={
 		add_core_of = CAS
 		owner = CAS
 		victory_points = {
-			1384 1 
+			1384 3 
 		}
 		buildings = {
 			infrastructure = 3
@@ -19,7 +19,7 @@ state={
 	provinces={
 		1384 4542 7224 10187 10205 12218 12239 12250 12430 
 	}
-	manpower=230000
+	manpower=8137700
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }
