@@ -20,12 +20,9 @@ set_popularities = {
 
 create_country_leader = {
 	name = "German Sterligov"
-	desc = ""
+	desc = "POLITICS_STERLIGOV_DESC"
 	picture = "Portrait_German_Sterligov.dds"
-	expire = "1965.1.1"
 	ideology = neo_feudalism 
-	traits = {
-		#
-	}
+	traits = { chevalier_of_fortune	}
 }
 

@@ -1,0 +1,21 @@
+leader_traits = {
+
+	chevalier_of_fortune = {
+		random = no
+		stability_factor = -0.20 
+		political_power_factor = 0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	great_lustrator = {
+		random = no
+		war_support_factor = 0.05
+		production_speed_infrastructure_factor = -0.2
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

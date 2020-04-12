@@ -282,7 +282,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_nordic_heritage
-		icon = GFX_goal_unknown
+		icon = GFX_focus_mex_support_general_cedillo
 		cost = 10
 		prerequisite = {
 			focus = MSC_black_monk

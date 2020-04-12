@@ -29,7 +29,18 @@
  MSC_shock_and_awe_desc:0 "Right-Hand Path"
  
  MSC_freikorp:0 "Freikorps"
- MSC_freikorp:0 "Freikorps"
+ MSC_freikorp_desc:0 "Freikorps"
+ 
+ MSC_orderonthestreets:0 "Moscow After Dark"
+ MSC_orderonthestreets_desc:0 "Moscow After Dark"
+
+ MSC_negotiationswithsvetov:0 "Negotiation with Svetov"
+ MSC_negotiationswithsvetov_desc:0 "Negotiation with Svetov"
+ 
+ MSC_negotiations_with_sterligov:0 "Negotiation with Sterligov"
+ MSC_orderonthestreets_desc:0 "Negotiation with Sterligov"
+ 
+ MSC_nordic_heritage:0 "Южные Не Смотрят"
  
  
  the_kings_two_bodies:0 "The King's Two Bodies" 
