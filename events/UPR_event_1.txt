@@ -1,0 +1,25 @@
+﻿add_namespace = UPR_event
+
+country_event = {
+	id = UPR_event.1
+	title = UPR_event.1.t
+	desc = UPR_event.1.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = UPR_event.1.a
+		declare_war_on = {
+            target = KHA
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = UPA
+            type = annex_everything
+        }
+		KHA = {
+			    country_event = { id = KHA_event.6 days = 1 }
+		    }
+    }   
+}

@@ -7,19 +7,31 @@ country_event = {
     is_triggered_only = yes
 	picture = 
 	major = no
-    	
-	is_triggered_only = no
-		
+    fire_only_once = true	
 	option = {
 		name = KHA_event.1.a
-		UPA = {transfer_state = 93
-		transfer_state = 73 transfer_state = 91 transfer_state = 800 transfer_state = 89 transfer_state = 80 transfer_state = 73
+		UPA = {
+		    add_state_core = 93
+		    transfer_state = 93
+		    add_state_core = 91
+		    transfer_state = 91
+		    add_state_core = 800
+		    transfer_state = 800
+		    add_state_core = 89
+		    transfer_state = 89
+		    add_state_core = 80
+		    transfer_state = 80
+		    add_state_core = 73
+		    transfer_state = 73
+        }
+		hidden_effect = {
+		    HUN = {
+			    country_event = { id = HUN_event.1 days = 3 }
+		    }
+			ROM = {
+			    country_event = { id = ROM_event.1 days = 8 }
+			}
 		}
-		add_core = {93 UPA}
-		add_core = {91 UPA}
-		add_core = {800 UPA}
-		add_core = {89 UPA}
-		add_core = {80 UPA}
-		add_core = {73 UPA}
-	}
+		leave_faction = yes
+    }   
 }

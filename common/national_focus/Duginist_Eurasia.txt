@@ -21,6 +21,7 @@ focus_tree = {
 		        KHA = { 
 		            country_event = { id = KHA_event.1 days = 0 }
 		        }
+				end_puppet = KHA
 		    }
 		    custom_effect_tooltip = DUG_11
 		}
