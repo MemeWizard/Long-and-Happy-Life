@@ -36,7 +36,7 @@ UST_left_authoritarianism:0 "Union State"
 UST_left_authoritarianism_DEF:0 "The Union State"
 CHE_right_populism:0 "Chechnya"
 CHE_right_populism_DEF:0 "Republic of Chechnya"
-MSC_national_bolshevism:0 "Eurasia"
+MSC_national_bolshevism:0 "Eurasian Union"
 MSC_national_bolshevism_DEF:0 "Eurasian Union"
 BAL_national_bolshevism:0 "Realm of Russia"
 BAL_national_bolshevism_DEF:0 "Realm of Russia"
@@ -95,6 +95,8 @@ KHA_ur_fascism_DEF:0 "Malorossija"
 DNP_neocameralism:0 "Dnepropetrovsk"
 DNP_neocameralism_DEF:0 "Dnepropetrovsk"
 
+KHA_governorate:0 "Malorossian Governorate"
+
 ###Terra Mariana###
 PLP_right_populism:0 "Fourth Polish Republic"
 PLP_right_populism_DEF:0 "Fourth Polish Republic"
@@ -114,6 +116,7 @@ PPR_left_authoritarianism_DEF:0 "Polish People's Republic"
 ###Fractions###
 eurasian_armed_forces:0 "Eurasian Armed Forces"
 sanitary_cordon:0 "Sanitary cordon"
+amphictyony_of_freedom:0 "Amphictyony of Freedom"
 
 ###Dacia###
 ROM_ur_fascism:0 "Kingdom of Romania"

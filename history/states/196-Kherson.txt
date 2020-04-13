@@ -14,12 +14,12 @@ state={
 		victory_points = {
 			721 1
 		}
-		owner = RGD
+		owner = NRS
 		buildings = {
 			infrastructure = 5
 			air_base = 3
 		}
-		add_core_of = RGD
+		add_core_of = NRS
 	}
 
 	provinces={

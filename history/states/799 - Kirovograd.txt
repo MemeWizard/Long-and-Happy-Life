@@ -11,8 +11,8 @@ state={
 	victory_points = {
 			3452 3 
 		}
-		owner = DNP
-		add_core_of = DNP
+		owner = KHA
+		add_core_of = KHA
 
 		buildings = {
 			infrastructure = 6

@@ -87,5 +87,17 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_MSC_fourth_political_theory"
 		texturefile = "gfx/interface/goals/MSC/goal_MSC_fourth_political_theory.dds"
-	}		
+	}
+	SpriteType = {
+		name = "GFX_MSC_coronation_of_philosopher_king"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_coronation_of_philosopher_king.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_guardians_of_being"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_guardians_of_being.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_horizon_of_the_ideal_empire"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_horizon_of_the_ideal_empire.dds"
+	}
 }

@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = MSC
+		owner = RTS
 		victory_points = {
 			6262 3 
 		}
@@ -16,7 +16,7 @@ state={
 			arms_factory = 2
 			air_base = 1
 		}
-		add_core_of = MSC 
+		add_core_of = RTS 
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 3

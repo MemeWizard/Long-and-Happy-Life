@@ -13,15 +13,16 @@ set_technology = {
 }
 
 set_convoys = 50
+set_cosmetic_tag = KHA_governorate
 
 set_politics = {
-	ruling_party = right_populism
+	ruling_party = national_bolshevism
 	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	right_populism  = 100
+	national_bolshevism  = 100
 }
 
 create_country_leader = {
@@ -47,11 +48,20 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Zakhar Prilepin"
+	desc = "POLITICS_PRILEPIN_DESC"
+	picture = "Portrait_KHA_ZAKHAR_PRILEPIN.dds"
+	ideology = nazbol_gang 
+	traits = {
+	}
+}
+
+create_country_leader = {
 	name = "Vladimir Zelenskij"
 	desc = "POLITICS_ZELENSKIJ_DESC"
 	picture = "Portrait_KHA_Vladimir_Zelenskij.dds"
 	expire = "1953.3.1"
-	ideology = nazbol_gang 
+	ideology = --- 
 	traits = {
 		inexperienced_enthusiast
 	}

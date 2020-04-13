@@ -37,6 +37,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Aleksandr Dugin"
 	picture = "MOS_Aleksandr_Dugin.dds"
+	desc = "POLITICS_DUGIN_DESC"
 	ideology = neo_feudalism 
 	traits = {
 		greatraven
@@ -86,8 +87,23 @@ if = {
 	}
 }
 
+# DIPLOMACY
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = KHA
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = KHA
+	}
+}
+
 create_faction = amphictyony_of_freedom
 add_to_faction = FRS
 add_to_faction = STM
-add_to_faction = KHA
-add_to_faction = LUH

@@ -1,0 +1,5 @@
+
+KHA_governorate = {
+	color = rgb { 70 70 70 }
+    color_ui = rgb { 255 73 121 }
+}

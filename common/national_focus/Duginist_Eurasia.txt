@@ -945,7 +945,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_guardians_of_being
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_guardians_of_being
 		cost = 10
 		prerequisite = {
 			focus = MSC_fear_and_hunger
@@ -957,7 +957,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_horizon_of_the_ideal_empire
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_horizon_of_the_ideal_empire
 		cost = 10
 		prerequisite = {
 			focus = MSC_shock_and_awe
@@ -972,7 +972,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_coronation_of_philosopher_king
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_coronation_of_philosopher_king
 		cost = 10
 		prerequisite = {
 			focus = MSC_horizon_of_the_ideal_empire

@@ -9,13 +9,13 @@ state={
 		#victory_points = {
 		#	6483 1
 		#}
-		owner = UPA
+		owner = KHA
 		buildings = {
 			infrastructure = 5
 			air_base = 3
 
 		}
-		add_core_of = UPA
+		add_core_of = KHA
 
 	}
 

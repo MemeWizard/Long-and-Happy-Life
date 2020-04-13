@@ -10,12 +10,12 @@ state={
 		victory_points = {
 			577 1 
 		}
-		owner = ROM
+		owner = KHA
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
 		}
-		add_core_of = ROM
+		add_core_of = KHA
 	}
 	provinces={
 		577 9548

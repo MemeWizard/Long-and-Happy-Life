@@ -7,8 +7,8 @@ state={
 	state_category = large_town
 
 	history={
-		owner = UPR
-		add_core_of = UPR
+		owner = KHA
+		add_core_of = KHA
 
 		victory_points = {
 			476 3
