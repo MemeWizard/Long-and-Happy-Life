@@ -1,0 +1,25 @@
+﻿add_namespace = KHA_event
+
+country_event = {
+	id = KHA_event.1
+	title = KHA_event.1.t
+	desc = KHA_event.1.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    	
+	is_triggered_only = no
+		
+	option = {
+		name = KHA_event.1.a
+		UPA = {transfer_state = 93
+		transfer_state = 73 transfer_state = 91 transfer_state = 800 transfer_state = 89 transfer_state = 80 transfer_state = 73
+		}
+		add_core = {93 UPA}
+		add_core = {91 UPA}
+		add_core = {800 UPA}
+		add_core = {89 UPA}
+		add_core = {80 UPA}
+		add_core = {73 UPA}
+	}
+}

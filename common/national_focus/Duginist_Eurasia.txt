@@ -16,6 +16,14 @@ focus_tree = {
 	focus = {
 		id = MSC_reignofdugin
 		icon = GFX_MSC_reignofdugin
+		completion_reward = {
+		    hidden_effect = {
+		        KHA = { 
+		            country_event = { id = KHA_event.1 days = 0 }
+		        }
+		    }
+		    custom_effect_tooltip = DUG_11
+		}
 		cost = 10
 		x = 9
 		y = 0
