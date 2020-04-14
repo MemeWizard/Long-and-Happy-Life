@@ -1,0 +1,25 @@
+﻿add_namespace = HUN_event
+
+country_event = {
+	id = HUN_event.1
+	title = HUN_event.1.t
+	desc = HUN_event.1.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = HUN_event.1.a
+	ai_chance = {
+     		factor = 100
+	}
+		add_state_core = 73
+		transfer_state = 73
+		 KHA = {
+			    country_event = { id = KHA_event.4 days = 1 }
+		    }	
+	}
+	option = {
+		name = HUN_event.2.a
+	}
+}

@@ -27,7 +27,6 @@
  STATE_798:0 "Adjara"
  STATE_799:0 "Kirovgrad"
  STATE_800:0 "Ternopil'"
- STATE_801:0 "Mytishy"
  STATE_802:0 "Marij El"
  STATE_804:0 "Suvalki"
  STATE_805:0 "Lomzha"
@@ -100,3 +99,4 @@
  STATE_233:0 "Kabardino-Balkaria"
  STATE_232:0 "Dagestan"
  STATE_803:0 "Mordovia"
+ STATE_801:0 "Mytishy"

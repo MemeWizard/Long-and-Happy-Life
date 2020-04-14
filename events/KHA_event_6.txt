@@ -1,0 +1,14 @@
+﻿add_namespace = KHA_event_6
+
+country_event = {
+	id = KHA_event.6
+	title = KHA_event.6.t
+	desc = KHA_event.6.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = KHA_event.6.a
+    }   
+}

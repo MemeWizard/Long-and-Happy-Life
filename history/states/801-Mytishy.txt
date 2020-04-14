@@ -1,6 +1,6 @@
 state={
 	id=801
-	name="STATE_801"
+	name="Mytishy"
 	provinces={
 		11236 6283 9378  
 	}
