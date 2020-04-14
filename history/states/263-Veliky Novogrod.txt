@@ -1,4 +1,3 @@
-
 state={
 	id=263
 	name="STATE_263"
@@ -7,7 +6,7 @@ state={
 	state_category = town
 
 	history={
-		owner = NRU
+		owner = RNE
 		victory_points = {
 			117 5 
 		}
@@ -15,7 +14,7 @@ state={
 			infrastructure = 5
 			air_base = 2
 		}
-		add_core_of = NRU
+		add_core_of = RNE
 	}
 
 	provinces={

@@ -7,13 +7,13 @@ state={
 	state_category = wasteland
 	
 	history={
-		owner = UTO
+		owner = KRS
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 
 		}
-		add_core_of = UTO
+		add_core_of = KRS
 		victory_points = {
 			10649 5 
 		}

@@ -38,7 +38,10 @@
  MSC_negotiationswithsvetov_desc:0 "Negotiation with Svetov"
  
  MSC_negotiations_with_sterligov:0 "Negotiation with Sterligov"
- MSC_orderonthestreets_desc:0 "Negotiation with Sterligov"
+ MSC_negotiations_with_sterligov_desc:0 "Negotiation with Sterligov"
+ 
+ MSC_crisis_prediction:0 "Crisis Prediction"
+ MSC_crisis_prediction_desc:0 "Crisis Prediction" 
  
  MSC_nordic_heritage:0 "Южные Не Смотрят"
  

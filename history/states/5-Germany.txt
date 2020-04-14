@@ -1,4 +1,3 @@
-
 state={
 	id=5
 	name="STATE_5"
@@ -6,8 +5,8 @@ state={
 	state_category = town
 
 	history={
-		owner = PRU
-		add_core_of = PRU
+		owner = PPR
+		add_core_of = PPR
 
 		victory_points = {
 			6375 3

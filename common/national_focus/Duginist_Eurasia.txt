@@ -787,7 +787,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_crisis_prediction
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_crisis_prediction
 		cost = 10
 		prerequisite = {
 			focus = MSC_demonopolization_of_science

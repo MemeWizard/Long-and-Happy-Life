@@ -100,4 +100,8 @@ spriteTypes = {
 		name = "GFX_MSC_horizon_of_the_ideal_empire"
 		texturefile = "gfx/interface/goals/MSC/goal_MSC_horizon_of_the_ideal_empire.dds"
 	}
+	SpriteType = {
+		name = "GFX_MSC_crisis_prediction"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_crisis_prediction.dds"
+	}
 }
