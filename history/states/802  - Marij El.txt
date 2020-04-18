@@ -1,11 +1,10 @@
-
 state={
 	id=802
 	name="STATE_802"
 
 	history={
-		owner = RWR
-		add_core_of = RWR
+		owner = APA
+		add_core_of = APA
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1

@@ -1,6 +1,6 @@
 ﻿capital = 570
 
-oob = "SOV_1936"
+oob = "NVS_2019"
 
 set_research_slots = 3
 set_stability = 0.5
@@ -11,13 +11,14 @@ set_technology = {
 	infantry_weapons1 = 1
 }
 set_convoys = 50
+set_cosmetic_tag = NVS_governorate
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = national_bolshevism
 	elections_allowed = no
 }
 set_popularities = {
-	socialism  = 100
+	national_bolshevism  = 100
 }
 
 create_country_leader = {
@@ -25,6 +26,16 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_RST_KURGINJAN.dds"
 	ideology = agrarian_socialism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Anna Tereshkova"
+	desc = ""
+	picture = "Portrait_NVS_Tereshkova.dds"
+	ideology = nazbol_gang
 	traits = {
 		
 	}

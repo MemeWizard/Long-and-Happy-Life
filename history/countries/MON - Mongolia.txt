@@ -1,6 +1,6 @@
 ﻿capital = 328
 
-oob = "SOV_1936"
+oob = "MON_2019"
 
 set_technology = {
 	infantry_weapons = 1
@@ -9,22 +9,22 @@ set_technology = {
 }
 
 set_convoys = 5
+set_cosmetic_tag = MON_eurasianist 
 
 set_politics = {
-	ruling_party = ur_fascism  
+	ruling_party = national_bolshevism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	ur_fascism = 100
+	national_bolshevism = 100
 }
 
 create_country_leader = {
 	name = "Baron Michael von Ungern-Sternberg"
 	picture = "Portrait_Baron_Michael_von_Ungern_Sternberg.dds"
-	expire = "1960.1.1"
-	ideology = ur_monarchism
-	traits = { spirit_of_genghis
+	ideology = nazbol_gang
+	traits = { 
 	}
 }

@@ -96,6 +96,21 @@ if = {
 		}
 	}
 	set_autonomy = {
+		target = NVS
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = NVS
+	}
+}
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
 		target = KHA
 		autonomous_state = autonomy_integrated_puppet
 	}
@@ -104,6 +119,9 @@ if = {
 	}
 }
 
+set_autonomy = {
+	target = MON
+	autonomous_state =  autonomy_puppet
+}
 create_faction = amphictyony_of_freedom
-add_to_faction = FRS
-add_to_faction = STM
+

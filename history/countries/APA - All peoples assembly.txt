@@ -1,0 +1,29 @@
+﻿capital = 400 
+
+oob = "APA_2019"
+
+set_research_slots = 3
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = socialism     
+	elections_allowed = no
+}
+set_popularities = {
+	socialism = 100
+}
+
+create_country_leader = {
+	name = "All-Peoples Assembly"
+	desc = "POLITICS_AP_ASSEMBLY_DESC"
+	picture = "Portrait_APA_ASSEMBLY.dds"
+	ideology = labor_socialism 
+	traits = {
+	}
+}
+
+

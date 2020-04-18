@@ -104,4 +104,41 @@ spriteTypes = {
 		name = "GFX_MSC_crisis_prediction"
 		texturefile = "gfx/interface/goals/MSC/goal_MSC_crisis_prediction.dds"
 	}
+	
+	SpriteType = {
+		name = "GFX_MSC_tartarian_princess"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_tartarian_princess.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_sacralization_of_the_theater"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_sacralization_of_the_theater.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_revival_of_antiquity"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_revival_of_antiquity.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_renaissance_man"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_renaissance_man.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_myth_lives_again"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_myth_lives_again.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_maenads_of_a_new_era"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_maenads_of_a_new_era.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_festival_culture"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_festival_culture.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_dionysian_frenzy"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_dionysian_frenzy.dds"
+	}	
+	SpriteType = {
+		name = "GFX_MSC_black_monk"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_black_monk.dds"
+	}		
 }

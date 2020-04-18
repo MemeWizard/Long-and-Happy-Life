@@ -40,8 +40,35 @@
  MSC_negotiations_with_sterligov:0 "Negotiation with Sterligov"
  MSC_negotiations_with_sterligov_desc:0 "Negotiation with Sterligov"
  
+ MSC_black_monk:0 "Black Monk"
+ MSC_black_monk_desc:0 "Black Monk" 
+ 
  MSC_crisis_prediction:0 "Crisis Prediction"
  MSC_crisis_prediction_desc:0 "Crisis Prediction" 
+ 
+ MSC_dionysian_frenzy:0 "Dionysian Frenzy"
+ MSC_dionysian_frenzy_desc:0 "Dionysian Frenzy" 
+ 
+ MSC_festival_culture:0 "Carnivalesque"
+ MSC_festival_culture_desc:0 "Carnivalesque" 
+ 
+ MSC_maenads_of_a_new_era:0 "Maenads of a New Age"
+ MSC_maenads_of_a_new_era_desc:0 "Maenads of a New Age" 
+ 
+ MSC_myth_lives_again:0 "Mythical Thought"
+ MSC_myth_lives_again_desc:0 "Mythical Thought" 
+ 
+ MSC_renaissance_man:0 "Renaissance Man"
+ MSC_renaissance_man_desc:0 "Renaissance Man" 
+ 
+ MSC_revival_of_antiquity:0 "Revival of Antiquity"
+ MSC_revival_of_antiquity_desc:0 "Revival of Antiquity" 
+ 
+ MSC_sacralization_of_the_theater:0 "Sacralization of the Theater"
+ MSC_sacralization_of_the_theater_desc:0 "Sacralization of the Theater" 
+ 
+ MSC_tartarian_princess:0 "Tartarian Princess"
+ MSC_tartarian_princess_desc:0 "Tartarian Princess" 
  
  MSC_nordic_heritage:0 "Южные Не Смотрят"
  

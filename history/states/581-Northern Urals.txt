@@ -1,4 +1,3 @@
-
 state={
 	id=581
 	name="STATE_581"
@@ -12,12 +11,12 @@ state={
 	}
 
 	history={
-		owner = SVE
+		owner = APA
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = SVE
+		add_core_of = APA
 	}
 
 	provinces={
