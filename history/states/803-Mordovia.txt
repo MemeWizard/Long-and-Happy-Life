@@ -6,12 +6,12 @@ state={
 	victory_points = {
 			324 3 
 		}
-		owner = RPR
+		owner = APA
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
 		}
-		add_core_of = RPR
+		add_core_of = APA
 
 	}
 

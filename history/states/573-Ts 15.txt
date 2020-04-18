@@ -9,8 +9,8 @@ state={
 	}
 	
 	history={
-		owner = SVE
-		add_core_of = SVE
+		owner = APA
+		add_core_of = APA
 
 		victory_points = { 11307 3 }
 		buildings = {
