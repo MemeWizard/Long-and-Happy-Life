@@ -18,9 +18,12 @@ country_event = {
 		KHA = {
 			    country_event = { id = KHA_event.2 days = 9 }
 		    }
-		 KHA = {
+		KHA = {
 			    country_event = { id = KHA_event.5 days = 1 }
 		    }
+		UPA = {
+			    country_event = { id = UPA_event.4 days = 1 }
+		}
 	}
 	option = {
 		name = ROM_event.2.a
