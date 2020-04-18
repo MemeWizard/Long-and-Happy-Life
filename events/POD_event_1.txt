@@ -1,0 +1,34 @@
+add_namespace = POD_event
+
+country_event = {
+	id = POD_event.1
+	title = POD_event.1.t
+	desc = POD_event.1.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = KHA_event.1.a
+		declare_war_on = {
+            target = KHA
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = URP
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = DNP
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = MLR
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = UPA
+            type = annex_everything
+        }
+    }   
+}

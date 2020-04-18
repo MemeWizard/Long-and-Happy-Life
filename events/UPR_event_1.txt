@@ -1,48 +1,57 @@
-﻿add_namespace = MLR_event
+﻿add_namespace = UPR_event
 
 country_event = {
-	id = MLR_event.1
-	title = MLR_event.1.t
-	desc = MLR_event.1.d
+	id = UPR_event.1
+	title = UPR_event.1.t
+	desc = UPR_event.1.d
     is_triggered_only = yes
 	picture = 
 	major = no
     fire_only_once = true	
 	option = {
-		name = MLR_event.1.a
+		name = UPR_event.1.a
+		ai_chance = {
+     		factor = 100
+	    }
 		declare_war_on = {
             target = KHA
             type = annex_everything
         }
-		declare_war_on = {
-            target = UPA
-            type = annex_everything
-        }
 		hidden_effect = {
 		    KHA = {
-			    country_event = { id = KHA_event.6 days = 1 }
-		    }
-		    UPA = {
-			    country_event = { id = UPA_event.4 days = 1 }
+			    country_event = { id = KHA_event.19 days = 1 }
 		    }
 		}
-	}
-	option = {
-	    name = MLR_event.1.b
+    }
+    option = {
+		name = UPR_event.1.b
 		add_political_power = -50
-	}
+    }   	
 }
 
 country_event = {
-	id = MLR_event.2
-	title = MLR_event.2.t
-	desc = MLR_event.2.d
+	id = UPR_event.2
+	title = UPR_event.2.t
+	desc = UPR_event.2.d
     is_triggered_only = yes
 	picture = 
 	major = no
     fire_only_once = true	
 	option = {
-		name = MLR_event.2.a
+		name = UPR_event.2.a
+    }   
+}
+
+country_event = {
+	id = UPR_event.3
+	title = UPR_event.3.t
+	desc = UPR_event.3.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = UPR_event.3.a
 		declare_war_on = {
             target = POD
             type = annex_everything
@@ -56,7 +65,7 @@ country_event = {
             type = annex_everything
         }
 		declare_war_on = {
-            target = UPR
+            target = MLR
             type = annex_everything
         }
 		declare_war_on = {

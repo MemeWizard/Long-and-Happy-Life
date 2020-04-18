@@ -10,19 +10,22 @@ country_event = {
     fire_only_once = true	
 	option = {
 		name = HUN_event.1.a
-	ai_chance = {
+	    ai_chance = {
      		factor = 100
-	}
+	    }
 		add_state_core = 73
 		transfer_state = 73
-		KHA = {
+		hidden_effect = {
+		    KHA = {
 			    country_event = { id = KHA_event.4 days = 1 }
-		}
-        UPA = {
-			    country_event = { id = UPA_event.5 days = 1 }
+		    }
+            UPA = {
+			    country_event = { id = UPA_event.2 days = 1 }
+		    }
 		}			
 	}
 	option = {
-		name = HUN_event.2.a
+		name = HUN_event.1.b
+		add_political_power = -150
 	}
 }

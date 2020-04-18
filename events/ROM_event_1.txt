@@ -10,25 +10,111 @@ country_event = {
     fire_only_once = true	
 	option = {
 		name = ROM_event.1.a
-	ai_chance = {
+	    ai_chance = {
      		factor = 100
-	}
+	    }
 		add_state_core = 80
 		transfer_state = 80
-		KHA = {
+		hidden_effect = {
+		    KHA = {
 			    country_event = { id = KHA_event.2 days = 9 }
 		    }
-		KHA = {
+		    KHA = {
 			    country_event = { id = KHA_event.5 days = 1 }
 		    }
-		UPA = {
-			    country_event = { id = UPA_event.4 days = 1 }
+		    UPA = {
+			    country_event = { id = UPA_event.3 days = 1 }
+		    }
 		}
 	}
 	option = {
-		name = ROM_event.2.a
-		KHA = {
+		name = ROM_event.1.b
+		add_political_power = -150
+		hidden_effect = {
+		    KHA = {
 			    country_event = { id = KHA_event.2 days = 9 }
 		    }
+		}
 	}
+}
+
+country_event = {
+	id = ROM_event.2
+	title = ROM_event.2.t
+	desc = ROM_event.2.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = ROM_event.2.a
+		start_border_war = {
+            change_state_after_war = yes
+            attacker = {
+                state = 78
+                num_provinces = 2
+                on_win = 
+		romania_border_conflict.1
+                on_lose = 
+		romania_border_conflict.2
+                on_cancel =
+		romania_border_conflict.3
+     }        
+				
+            defender = {
+                state = 766
+                num_provinces = 3
+                on_win = 
+		NRS_border_conflict.1
+                on_lose = 
+		NRS_border_conflict.2
+                on_cancel = 
+		NRS_border_conflict.3
+     }
+}
+		hidden_effect = {
+		    NRS = {
+			    country_event = { id = NRS_event.1 days = 2 }
+		    }
+		}
+    }   
+}
+
+country_event = {
+	id = romania_border_conflict.1
+	title = romania_border_conflict.1.t
+	desc = romania_border_conflict.1.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = romania_border_conflict.1.a
+    }   
+}
+
+country_event = {
+	id = romania_border_conflict.2
+	title = romania_border_conflict.2.t
+	desc = romania_border_conflict.2.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = romania_border_conflict.2.a
+    }   
+}
+
+country_event = {
+	id = romania_border_conflict.3
+	title =romania_border_conflict.3.t
+	desc = romania_border_conflict.3.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = romania_border_conflict.3.a
+    }   
 }

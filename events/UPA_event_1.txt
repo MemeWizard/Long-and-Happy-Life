@@ -10,12 +10,131 @@ country_event = {
     fire_only_once = true	
 	option = {
 		name = UPA_event.1.a
+		ai_chance = {
+     		factor = 100
+	    }
 		declare_war_on = {
             target = KHA
             type = annex_everything
         }
-		KHA = {
+		hidden_effect = {
+		    KHA = {
 			    country_event = { id = KHA_event.7 days = 1 }
 		    }
+		}
+    }
+    option = {
+		name = UPA_event.1.b
+		add_political_power = -50
+    }   	
+}
+
+country_event = {
+	id = UPA_event.2
+	title = UPA_event.2.t
+	desc = UPA_event.2.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = UPA_event.2.a
+		add_political_power = -50
+    }   
+}
+
+country_event = {
+	id = UPA_event.3
+	title = UPA_event.3.t
+	desc = UPA_event.3.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = UPA_event.3.a
+		add_political_power = -50
+    }   
+}
+
+country_event = {
+	id = UPA_event.4
+	title = UPA_event.4.t
+	desc = UPA_event.4.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = UPA_event.4.a
+    }   
+}
+
+country_event = {
+	id = UPA_event.5
+	title = UPA_event.5.t
+	desc = UPA_event.5.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = UPA_event.5.a
+		ai_chance = {
+     		factor = 100
+	    }
+		declare_war_on = {
+            target = UPR
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = KHA
+            type = annex_everything
+        }
+		hidden_effect = {
+		    KHA = {
+			    country_event = { id = KHA_event.7 days = 1 }
+		    }
+			UPR = {
+			    country_event = { id = UPR_event.2 days = 1 }
+		    }
+		}
+    }
+    option = {
+		name = UPA_event.5.b
+		add_political_power = -50
+    }   	
+}
+
+country_event = {
+	id = UPA_event.6
+	title = UPA_event.6.t
+	desc = UPA_event.6.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = UPA_event.6.a
+		declare_war_on = {
+            target = POD
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = KHA
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = DNP
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = MLR
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = UPR
+            type = annex_everything
+        }
     }   
 }

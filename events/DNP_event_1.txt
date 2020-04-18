@@ -1,0 +1,34 @@
+add_namespace = DNP_event
+
+country_event = {
+	id = DNP_event.1
+	title = DNP_event.1.t
+	desc = DNP_event.1.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = DNP_event.1.a
+		declare_war_on = {
+            target = KHA
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = URP
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = POD
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = MLR
+            type = annex_everything
+        }
+		declare_war_on = {
+            target = UPA
+            type = annex_everything
+        }
+    }   
+}
