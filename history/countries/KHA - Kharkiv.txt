@@ -27,12 +27,22 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Mikhail Dobkin"
-	desc = "POLITICS_Dobkin_DESC"
+	desc = "POLITICS_DOBKIN_DESC"
 	picture = "Portrait_KHA_DOBKIN.dds"
 	expire = "1953.3.1"
 	ideology = national_populism 
 	traits = {
 	waste_of_space
+	}
+}
+
+create_country_leader = {
+	name = "Supreme Council of Ukraine"
+	desc = "POLITICS_RADA_DESC"
+	picture = ".dds"
+	expire = "1953.3.1"
+	ideology = national_populism 
+	traits = {
 	}
 }
 

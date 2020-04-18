@@ -1,0 +1,15 @@
+﻿add_namespace = eva
+
+country_event = {
+	id = eva.1
+	title = eva.1.t
+	desc = eva.1.d
+	picture = 
+	major = yes
+		
+	is_triggered_only = yes
+		
+	option = {
+		name = eva.1.a
+	}
+}

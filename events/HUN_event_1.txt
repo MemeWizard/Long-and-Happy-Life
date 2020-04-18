@@ -15,9 +15,12 @@ country_event = {
 	}
 		add_state_core = 73
 		transfer_state = 73
-		 KHA = {
+		KHA = {
 			    country_event = { id = KHA_event.4 days = 1 }
-		    }	
+		}
+        UPA = {
+			    country_event = { id = UPA_event.5 days = 1 }
+		}			
 	}
 	option = {
 		name = HUN_event.2.a

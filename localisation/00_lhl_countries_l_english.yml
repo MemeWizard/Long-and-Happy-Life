@@ -82,10 +82,17 @@ KHA_right_populism:0 "Ukrainian People's Republic"
 KHA_right_populism_DEF:0 "Ukrainian People's Republic"
 KHA_ur_fascism:0 "Malorossija"
 KHA_ur_fascism_DEF:0 "Malorossija"
+
 POD_hegemonism:0 "Ukrainian State"
 POD_hegemonism_DEF:0 "Ukrainian State"
 UPR_regressionism:0 "Ukrainian Peasant Republic"
 UPR_regressionism_DEF:0 "Ukrainian Peasant Republic"
+
+DNP_neocameralism:0 "Dnepropetrovsk"
+DNP_neocameralism_DEF:0 "Dnepropetrovsk"
+MLR_left_authoritarianism:0 "Malorossia"
+MLR_left_authoritarianism_DEF:0 "Malorossia"
+
 KHA_governorate:0 "Malorossian Governorate"
 
 ###Terra Mariana###
