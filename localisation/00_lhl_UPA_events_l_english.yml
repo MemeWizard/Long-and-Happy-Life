@@ -1,4 +1,22 @@
 ﻿l_english:
  ###Destruction of Ukraine###
-
- 
+ UPA_event.1.t:0 "Take back our country!"
+ UPA_event.1.d:0 "With the recent collapse of the Malorossian Govenrnorate we have a prime opportunity to take back our country from the Eurasian occupation"
+ UPA_event.1.a:0 "Ukraine isn't dead! For Glory!"
+ UPA_event.1.b:0 "Too much of a risk"
+ UPA_event.3.t:0 "Romania takes over Bukovina!"
+ UPA_event.3.d:0 "The Romanian government has taken advantage of our situation and occupied Bukovina"
+ UPA_event.3.a:0 "Bloody Romanians!"
+ UPA_event.2.t:0 "Hungary takes over Zakarpattia!"
+ UPA_event.2.d:0 "The Hungarian government has taken advantage of our situation and occupied Zakarpattia"
+ UPA_event.2.a:0 "It's still our land!"
+ UPA_event.4.t:0 "Malorossia declares war ob us"
+ UPA_event.4.d:0 "Malorossian rebels, sponsored by Tsar Medvedev have declared war on us and the Ukranian Republic"
+ UPA_event.3.a:0 "Bring it on, you russian pigs!"
+ UPA_event.5.t:0 "Take back our country!"
+ UPA_event.5.d:0 "It's time to take back our country from the Eurasian occupation and the insane maniac Lyashko!"
+ UPA_event.5.a:0 "For One true Ukraine!"
+ UPA_event.5.b:0 "Too risky..."
+ UPA_event.6.t:0 "All-out war"
+ UPA_event.6.d:0 "All-out civil war has begun. It's a free for all battle towards a brighter future for Ukraine!"
+ UPA_event.6.a:0 "For The Ukranian People!"

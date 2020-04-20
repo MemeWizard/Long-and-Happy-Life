@@ -1,0 +1,132 @@
+﻿add_namespace = NRS_event
+
+country_event = {
+	id = KHA_event.1
+	title = KHA_event.1.t
+	desc = KHA_event.1.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = KHA_event.1.a
+		custom_effect_tooltip = KHA_1
+		hidden_effect = {
+		    HUN = {
+			    country_event = { id = HUN_event.1 days = 3 }
+		    }
+			ROM = {
+			    country_event = { id = ROM_event.1 days = 8 }
+			}
+			UPA = {
+		    add_state_core = 93
+		    transfer_state = 93
+		    add_state_core = 91
+		    transfer_state = 91
+		    add_state_core = 800
+		    transfer_state = 800
+		    add_state_core = 89
+		    transfer_state = 89
+		    add_state_core = 80
+		    transfer_state = 80
+		    add_state_core = 73
+		    transfer_state = 73
+            }
+            leave_faction = yes
+			
+        add_stability = -0.5			
+		}
+	}
+    option = {
+		name = KHA_event.1.b
+		custom_effect_tooltip = KHA_6
+		hidden_effect = {
+		    HUN = {
+			    country_event = { id = HUN_event.1 days = 3 }
+		    }
+			ROM = {
+			    country_event = { id = ROM_event.1 days = 8 }
+			}
+			UPA = {
+		    add_state_core = 93
+		    transfer_state = 93
+		    add_state_core = 91
+		    transfer_state = 91
+		    add_state_core = 800
+		    transfer_state = 800
+		    add_state_core = 89
+		    transfer_state = 89
+		    add_state_core = 80
+		    transfer_state = 80
+		    add_state_core = 73
+		    transfer_state = 73
+            }
+            leave_faction = yes
+			UPA = { change_tag_from = ROOT }
+			add_stability = -0.5			
+        }
+    }
+}
+
+
+country_event = {
+	id = NRS_event.2
+	title = NRS_event.2.t
+	desc = NRS_event.2.d
+    is_triggered_only = yes
+	fire_only_once = true
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = NRS_event.2.a
+		custom_effect_tooltip = NRS_1
+		hidden_effect = {
+		    NRS = {
+			    country_event = { id = ROM_event.2 days = 5 }
+		    }
+			227 = {
+		    set_demilitarized_zone = yes
+		    }
+		}
+    }   
+}
+
+country_event = {
+	id = NRS_border_conflict.1
+	title = NRS_border_conflict.1.t
+	desc = NRS_border_conflict.1.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = NRS_border_conflict.1.a
+    }   
+}
+
+country_event = {
+	id = NRS_border_conflict.2
+	title = NRS_border_conflict.2.t
+	desc = NRS_border_conflict.2.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = NRS_border_conflict.2.a
+    }   
+}
+
+country_event = {
+	id = NRS_border_conflict.3
+	title = NRS_border_conflict.3.t
+	desc = NRS_border_conflict.3.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = NRS_border_conflict.3.a
+    }   
+}

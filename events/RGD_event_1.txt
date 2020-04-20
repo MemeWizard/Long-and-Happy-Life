@@ -1,0 +1,39 @@
+﻿add_namespace = ROM_event
+
+country_event = {
+	id = ROM_event.1
+	title = ROM_event.1.t
+	desc = ROM_event.1.d
+    is_triggered_only = yes
+	picture = 
+	major = no
+    fire_only_once = true	
+	option = {
+		name = ROM_event.1.a
+	    ai_chance = {
+     		factor = 100
+	    }
+		add_state_core = 80
+		transfer_state = 80
+		hidden_effect = {
+		    KHA = {
+			    country_event = { id = KHA_event.2 days = 9 }
+		    }
+		    KHA = {
+			    country_event = { id = KHA_event.5 days = 1 }
+		    }
+		    UPA = {
+			    country_event = { id = UPA_event.3 days = 1 }
+		    }
+		}
+	}
+	option = {
+		name = ROM_event.1.b
+		add_political_power = -150
+		hidden_effect = {
+		    KHA = {
+			    country_event = { id = KHA_event.2 days = 9 }
+		    }
+		}
+	}
+}
