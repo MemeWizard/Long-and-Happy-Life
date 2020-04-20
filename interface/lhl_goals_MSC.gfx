@@ -140,5 +140,37 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_MSC_black_monk"
 		texturefile = "gfx/interface/goals/MSC/goal_MSC_black_monk.dds"
-	}		
+	}
+	SpriteType = {
+		name = "GFX_MSC_aristocratical_spirit"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_aristocratical_spirit.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_culture_of_honor"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_culture_of_honor.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_grandiose_architecture"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_grandiose_architecture.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_new_nobility"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_new_nobility.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_patronage"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_patronage.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_mestnichestvo"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_mestnichestvo.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_legalization_of_Pogroms"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_legalization_of_Pogroms.dds"
+	}
+	SpriteType = {
+		name = "GFX_MSC_nordic_heritage"
+		texturefile = "gfx/interface/goals/MSC/goal_MSC_nordic_heritage.dds"
+	}
 }

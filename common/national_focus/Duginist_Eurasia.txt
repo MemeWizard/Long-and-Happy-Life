@@ -291,7 +291,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_nordic_heritage
-		icon = GFX_focus_mex_support_general_cedillo
+		icon = GFX_MSC_nordic_heritage
 		cost = 10
 		prerequisite = {
 			focus = MSC_black_monk
@@ -313,7 +313,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_legalization_of_Pogroms
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_legalization_of_Pogroms
 		cost = 10
 		prerequisite = {
 			focus = MSC_nordic_heritage
@@ -1040,7 +1040,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_aristocratical_spirit
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_aristocratical_spirit
 		cost = 10
 		prerequisite = {
 			focus = MSC_renaissance_man
@@ -1051,7 +1051,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_mestnichestvo
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_mestnichestvo
 		cost = 10
 		prerequisite = {
 			focus = MSC_aristocratical_spirit
@@ -1062,7 +1062,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_new_nobility
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_new_nobility
 		cost = 10
 		prerequisite = {
 			focus = MSC_mestnichestvo
@@ -1073,7 +1073,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_culture_of_honor
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_culture_of_honor
 		cost = 10
 		prerequisite = {
 			focus = MSC_aristocratical_spirit
@@ -1084,7 +1084,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_grandiose_architecture
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_grandiose_architecture
 		cost = 10
 		prerequisite = {
 			focus = MSC_aristocratical_spirit
@@ -1095,7 +1095,7 @@ focus_tree = {
 	}
 	focus = {
 		id = MSC_patronage
-		icon = GFX_goal_unknown
+		icon = GFX_MSC_patronage
 		cost = 10
 		prerequisite = {
 			focus = MSC_grandiose_architecture
