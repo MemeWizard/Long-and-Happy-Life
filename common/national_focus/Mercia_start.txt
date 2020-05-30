@@ -1,0 +1,394 @@
+﻿search_filter_prios = {
+	FOCUS_FILTER_POLITICAL = 1010
+
+	
+ 
+	
+	
+	FOCUS_FILTER_RESEARCH = 522
+
+	
+	FOCUS_FILTER_INDUSTRY = 509
+
+}
+
+focus_tree = {
+	id = mercia_starting
+		continuous_focus_position = { x = -1100 y = 1100 }
+	country = {
+		factor = 0
+			modifier = {
+			add = 10
+			tag = MRC
+		}
+	}
+	
+	default = yes
+	reset_on_civilwar = no
+
+	initial_show_position = {
+		focus = industrial_effort
+	}
+	shared_focus = MRC_rule_of_thirds			
+	}
+
+shared_focus = {
+		id = MRC_rule_of_thirds
+		icon = GFX_goal_generic_position_armies
+		x = 7
+		y = 0
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+				 mutually_exclusive = {
+       
+    }
+		available = {
+				
+		}
+		bypass = {	
+				}
+
+		completion_reward = {
+					}
+	}
+	shared_focus = {
+		id = MRC_heathen_axis
+		icon = GFX_goal_generic_position_armies
+		x = -3
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_rule_of_thirds
+		prerequisite = { focus = MRC_rule_of_thirds }
+		
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				mutually_exclusive = {
+        focus = MRC_black_group
+    }			
+				}
+	shared_focus = {
+		id = MRC_pagan_mythos
+		icon = GFX_goal_generic_position_armies
+		x = 2
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_heathen_axis
+		prerequisite = { focus = MRC_heathen_axis }
+		
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}
+	shared_focus = {
+		id = MRC_death_of_the_west
+		icon = GFX_goal_generic_position_armies
+		x = -2
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_heathen_axis
+		prerequisite = { focus = MRC_heathen_axis }
+		
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}
+	shared_focus = {
+		id = MRC_ovr_future
+		icon = GFX_goal_generic_position_armies
+		x = 2
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_death_of_the_west
+		prerequisite = { focus = MRC_death_of_the_west }
+		prerequisite = { focus = MRC_pagan_mythos }		
+		
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}
+	shared_focus = {
+		id = MRC_blood_axis
+		icon = GFX_goal_generic_position_armies
+		x = -2
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_ovr_future
+		prerequisite = { focus = MRC_ovr_future }
+	mutually_exclusive = {
+        focus = MRC_sons_of_evropa
+		focus = MRC_sol_invictus
+    }
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}
+	shared_focus = {
+		id = MRC_sons_of_evropa
+		icon = GFX_goal_generic_position_armies
+		x = 0
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_ovr_future
+		prerequisite = { focus = MRC_ovr_future }
+	mutually_exclusive = {
+        focus = MRC_blood_axis
+		focus = MRC_sol_invictus
+    }
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}	
+	shared_focus = {
+		id = MRC_sol_invictus
+		icon = GFX_goal_generic_position_armies
+		x = 2
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_ovr_future
+		prerequisite = { focus = MRC_ovr_future }
+				mutually_exclusive = {
+        focus = MRC_sons_of_evropa
+		focus = MRC_blood_axis
+    }
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}
+	shared_focus = {
+		id = MRC_black_group
+		icon = GFX_goal_generic_position_armies
+		x = 3
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_rule_of_thirds
+		prerequisite = { focus = MRC_rule_of_thirds }
+		
+						mutually_exclusive = {
+        focus = MRC_heathen_axis
+    }			
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}
+	shared_focus = {
+		id = MRC_lvcifer_over_england
+		icon = GFX_goal_generic_position_armies
+		x = 2
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_black_group
+		prerequisite = { focus = MRC_black_group }
+		
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}
+	shared_focus = {
+		id = MRC_nightmare_culture
+		icon = GFX_goal_generic_position_armies
+		x = -2
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_black_group
+		prerequisite = { focus = MRC_black_group }
+		
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}
+	shared_focus = {
+		id = MRC_great_schism
+		icon = GFX_goal_generic_position_armies
+		x = 2
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_nightmare_culture
+		prerequisite = { focus = MRC_nightmare_culture }
+		prerequisite = { focus = MRC_lvcifer_over_england }		
+		
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}
+	shared_focus = {
+		id = MRC_the_albigenses
+		icon = GFX_goal_generic_position_armies
+		x = -2
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_great_schism
+		prerequisite = { focus = MRC_great_schism }
+		mutually_exclusive = {
+        focus = MRC_the_sophistes
+		focus = MRC_black_cross
+    }
+		
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}
+	shared_focus = {
+		id = MRC_black_cross
+		icon = GFX_goal_generic_position_armies
+		x = 0
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_great_schism
+		prerequisite = { focus = MRC_great_schism }
+		mutually_exclusive = {
+        focus = MRC_the_sophistes
+		focus = MRC_the_albigenses
+    }
+		
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}	
+	shared_focus = {
+		id = MRC_the_sophistes
+		icon = GFX_goal_generic_position_armies
+		x = 2
+		y = 1
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		relative_position_id = MRC_great_schism
+		prerequisite = { focus = MRC_great_schism }
+		mutually_exclusive = {
+        focus = MRC_the_albigenses
+		focus = MRC_black_cross
+    }
+		
+		
+		available = {
+		}
+		bypass = {
+				}
+
+		completion_reward = {
+					}
+				}				
+
+

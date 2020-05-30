@@ -1,0 +1,186 @@
+focus_tree = {
+	id = mercia_blood_axis
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = PAR
+		}
+	}
+		default = no
+
+	
+
+	shared_focus = MRC_the_blood_axis
+	shared_focus = MRC_rule_of_thirds	
+	}
+
+
+	
+
+
+	shared_focus = {
+		id = MRC_the_blood_axis
+		icon = GFX_goal_generic_position_armies
+		x = 7
+		y = 5
+		cost = 10
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		available = {
+		
+		}
+		bypass = {
+		
+				}
+
+		completion_reward = {
+
+					}
+				}
+		shared_focus = {
+		id = MRC_storms_of_steel
+		icon = GFX_goal_generic_position_armies
+		x = -1
+		y = 1
+		cost = 10
+		prerequisite = { focus = MRC_the_blood_axis }
+		cost = 1
+		relative_position_id = MRC_the_blood_axis
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		available = {
+		always = no
+		}
+		bypass = {
+	
+				}
+completion_reward = {
+		
+					}
+				}
+		shared_focus = {
+		id = MRC_preacher_king
+		icon = GFX_goal_generic_position_armies
+		x = 1
+		y = 1
+		cost = 10
+		prerequisite = { focus = MRC_the_blood_axis }
+		cost = 1
+		relative_position_id = MRC_the_blood_axis
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		available = {
+		always = no
+		}
+		bypass = {
+	
+				}
+completion_reward = {
+		
+					}
+				}
+		shared_focus = {
+		id = MRC_germanic_ethnos
+		icon = GFX_goal_generic_position_armies
+		x = 0
+		y = 2
+		cost = 10
+		prerequisite = { focus = MRC_the_blood_axis }
+		cost = 1
+		relative_position_id = MRC_the_blood_axis
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		available = {
+		always = no
+		}
+		bypass = {
+	
+				}
+completion_reward = {
+		
+					}
+				}
+		shared_focus = {
+		id = MRC_sing_for_life
+		icon = GFX_goal_generic_position_armies
+		x = 0
+		y = 2
+		cost = 10
+		prerequisite = { focus = MRC_storms_of_steel }
+		cost = 1
+		relative_position_id = MRC_storms_of_steel
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		available = {
+		always = no
+		}
+		bypass = {
+	
+				}
+completion_reward = {
+		
+					}
+				}
+		shared_focus = {
+		id = MRC_in_the_of_raven
+		icon = GFX_goal_generic_position_armies
+		x = 0
+		y = 2
+		cost = 10
+		prerequisite = { focus = MRC_preacher_king }
+		cost = 1
+		relative_position_id = MRC_preacher_king
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		available = {
+		always = no
+		}
+		bypass = {
+	
+				}
+completion_reward = {
+		
+					}
+				}
+		shared_focus = {
+		id = MRC_wir_rvfen_wolfe
+		icon = GFX_goal_generic_position_armies
+		x = 1
+		y = 1
+		cost = 10
+		prerequisite = { focus = MRC_preacher_king }
+		prerequisite = { focus = MRC_germanic_ethnos }
+		prerequisite = { focus = MRC_in_the_of_raven }		
+		cost = 1
+		relative_position_id = MRC_sing_for_life
+		ai_will_do = {
+			factor = 10
+		}
+		available_if_capitulated = yes
+		available = {
+		always = no
+		}
+		bypass = {
+	
+				}
+completion_reward = {
+		
+					}
+				}				
+	
+}			
